@@ -1,0 +1,67 @@
+﻿list,display_order,type,id,con,fab_stimulus,fab_question,fab_key,fab_instruction,fab_feedback
+2,p1,practice,practice_1,,/+/The patient listened to the doctor's advice after he felt hopeless./,Did the patient follow the doctor?,Y,ins.jpg,1
+2,p2,practice,practice_2,,/+/The visitors knew little about how the painting was created./,Did the visitors know how the painting was created?,N,,1
+2,p3,practice,practice_3,,/+/The old lady lived further away from the city center./,Did the old lady live in the city center?,N,,1
+2,p4,practice,practice_4,,/+/The maid looked at the hostess with a nervous smile./,Did the maid feel nervous? ,Y,,1
+2,p5,practice,practice_5,,/+/The young lady * sent a red rose * became * really embarrassed./,Did the lady send a red rose?,N,,1
+2,p6,practice,practice_6,,/+/The busy workers * who were * offered a delicious pizza * felt * not so hungry./,Did someone offer the workers a pizza?,Y,,1
+2,1,filler,filler_6,,/+/The girl sang very well through learning experiences from her tutor./,Did the girl's tutor do a lot of help? ,Y,练习结束，现在开始正式实验。,0
+2,2,filler,filler_7,,/+/Some important papers which lay in the office were stolen last night./,Were the papers still safe?,N,,0
+2,3,target,target_1,C,/+/The cotton farmers * who were * warned about the bad floods * had * no other crops./,Did the farmers warn about the floods?,N,,0
+2,4,filler,filler_10,,/+/There was a big hole in the road which blocked the traffic./,Was there a big hole in the road?,Y,,0
+2,5,target,target_2,G,/+/The sunburned boys * served the hot dogs * got * a stomach ache./,Did the boys serve the hot dogs?,N,,0
+2,6,filler,filler_17,,/+/The students who failed the exam were asked to take it again./,Should all students take the exam again?,N,,0
+2,7,filler,filler_25,,/+/The suitcase which Mike bought has been broken down by his son./,Has the suitcase been broken by Mike?,N,,0
+2,8,filler,filler_24,,/+/The roommate has married the man who comes from the west of China./,Has the roommate married?,Y,,0
+2,9,target,target_15,C,/+/The confused student * who was * asked about a question * lowered * his head silently./,Did the student ask about a question?,N,,0
+2,10,filler,filler_22,,/+/The girl's life was saved because the doctor acted so well./,Did the girl die?,N,,0
+2,11,target,target_4,C,/+/The convicted criminal * who was * watched at the railway station * was * following the boy./,Did someone watch the criminal?,Y,,0
+2,12,filler,filler_35,,/+/The company building was completed successfully in the third quarter./,Was the company building completed?,Y,,0
+2,13,target,target_8,G,/+/The older kids * showed all the dances * felt * amazed at the party./,Did the older kids show the dances?,N,,0
+2,14,filler,filler_27,,/+/The letter that came this morning was from a friendly classmate./,Did the letter arrive this morning?,Y,,0
+2,15,filler,filler_15,,/+/The book contained many useful information which could benefit the health./,Could the book be helpful for health?,Y,,0
+2,16,target,target_6,C,/+/The six volunteers * who were * taught the complicated procedure * became * very good students./,Did the volunteers teach the procedure?,N,,0
+2,17,filler,filler_5,,/+/The author said that the new book was based on a real story./,Was the book entirely imaginary? ,N,,0
+2,18,filler,filler_38,,/+/The gatekeeper refused to hand over the door key to the man./,Did the gatekeeper refuse to hand over the key?,Y,,0
+2,19,filler,filler_37,,/+/The tiger was caught after it ate two persons within one week./,Was the tiger caught?,Y,,0
+2,20,target,target_7,G,/+/The old man * advised on the special diet * has * not responded./,Did the old man advise on the diet?,N,,0
+2,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0
+2,22,target,target_9,C,/+/The famous scientist * who was * awarded an academic prize * expressed * his excitement./,Did the scientist award a prize？,N,,0
+2,23,filler,filler_2,,/+/The small town near Taipei was famous for its rich seafood resources./,Was the small town famous?,Y,,0
+2,24,filler,filler_30,,/+/The pop star contributed four million to the Hope project yesterday./,Did the pop star donate money yesterday?,Y,,0
+2,25,target,target_10,G,/+/The skilled hunters * stopped killing wild animals * ended up * in prison./,Did somebody stop the hunters from killing?,Y,,0
+2,26,filler,filler_21,,/+/The employees were willing to work in a nice environment./,Did the employees want to work in a poor environment?,N,,0
+2,27,filler,filler_20,,/+/The woman's pretty dress was burned by those naughty boys./,Was the dress burned by the boys?,Y,,0
+2,28,filler,filler_36,,/+/The biology expert argued that wild animals should be protected now./,Did the biology expert argue to pretect wild animals?,Y,,0
+2,29,target,target_18,G,/+/The young repairman * paid for the bill * said * thanks to the hostess./,Did the repairman pay for the bill?,N,,0
+2,30,filler,filler_33,,/+/The old fireman did not believe that his wife was capable of making decisions./,Did the fireman believe his wife in making decisions?,N,,0
+2,31,target,target_12,C,/+/The new manager * who was * promised a better office * worked * much harder./,Did someone promise the manager an office?,Y,,0
+2,32,filler,filler_26,,/+/The magazine was expanded greatly in the number of pages./,Was the magazine expanded?,Y,,0
+2,33,filler,filler_16,,/+/The student with blue eyes made many mistakes of all the class./,Did the student with blue eyes never make mistakes?,N,,0
+2,34,target,target_13,C,/+/An American teenager * who was * refused to enter the bar * burst into * anger./,Did the teenager refuse to enter the bar?,N,,0
+2,35,filler,filler_13,,/+/The strange man on the subway sold fake watches to different passengers./,Did the strange man sell fake watches?,Y,,0
+2,36,filler,filler_19,,/+/The boss asked the salesman to give some explanations for his mistake./,Did the boss want an explanation from the salesman?,Y,,0
+2,37,target,target_20,G,/+/The foreign client * answered about the contract * praised on * secretary's patience./,Did the client answer about the contract?,N,,0
+2,38,filler,filler_23,,/+/All citizens celebrated the New Year cheerfully with a dance party./,Did all citizens have a dance party?,Y,,0
+2,39,filler,filler_34,,/+/The pretty lady was a highly skilled worker who lived near the school./,Was the pretty lady a highly skilled worker?,Y,,0
+2,40,target,target_14,G,/+/The fat woman * sold a beautiful dress * left * the store happily./,Did the woman sell a dress?,N,,0
+2,41,filler,filler_1,,/+/The tall woman had a walk with her husband last night./,Did the woman had a walk alone? ,N,,0
+2,42,filler,filler_11,,/+/The young student won the first place in the competition on Wednesday./,Did the young student win the competition?,Y,,0
+2,43,filler,filler_29,,/+/The poor parents were not able to send their children to school./,Could the parents afford their children to school?,N,,0
+2,44,target,target_3,C,/+/A silly boy * who was * called during the play * left * the theater quickly./,Did somebody call the boy during the play?,Y,,0
+2,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0
+2,46,filler,filler_31,,/+/The tour guide gave some helpful suggestions which made the trip perfect./,Were the tour guide's suggestions useless?,N,,0
+2,47,target,target_16,G,/+/Several angry workers * told about low wages * decided * to have a protest./,Did the workers tell about low wages?,N,,0
+2,48,filler,filler_32,,/+/The science lecture competition held last month was a big success./,Was the science lecture competition a big success?,Y,,0
+2,49,filler,filler_12,,/+/The engineer said that the price of the house was too high./,Was the house cheap? ,N,,0
+2,50,filler,filler_9,,/+/The old uncle was woken up by the strong earthquake./,Was the uncle woken up by the earthquake?,Y,,0
+2,51,target,target_17,C,/+/The hungry child * who was * bought a chocolate * followed * his mother closely./,Did the child buy a chocolate?,N,,0
+2,52,filler,filler_3,,/+/The ticket enabled the guest to have a free meal in a Chinese restaurant./,Did the ticket enable a free meal?,Y,,0
+2,53,filler,filler_39,,/+/The young boy spent a great deal of money on English learning books./,Did the young boy spend a great deal of money?,Y,,0
+2,54,target,target_11,G,/+/The university student * informed of the meeting * got up * in a hurry./,Did someone inform the student of the meeting?,Y,,0
+2,55,filler,filler_28,,/+/The new restaurant became more and more popular with families./,Did the new restaurant become unpopular?,N,,0
+2,56,filler,filler_8,,/+/The postman used up all his energy in the busy afternoon./,Did the postman use up his energy?,Y,,0
+2,57,filler,filler_4,,/+/The teacher did not suggest that the whole book should be read./,Did the teacher suggest reading the whole book?,N,,0
+2,58,target,target_19,C,/+/The kind grandma * who was * brought a New Year present * gave * her grandson money in return./,Did the grandma bring a present?,N,,0
+2,59,filler,filler_40,,/+/Twenty students were asked to vote on when to repair the dormitory./,Were forty students asked to vote?,N,,0
+2,60,target,target_5,G,/+/Many small stones * dropped from the cliff * damaged * passing cars below./,Did somebody drop many stones from the cliff?,Y,,0

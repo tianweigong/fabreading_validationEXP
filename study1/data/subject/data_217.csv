@@ -1,0 +1,925 @@
+dat_Subject,list,display_order,type,id,con,fab_stimulus,fab_question,fab_key,fab_instruction,fab_feedback,dat_Trial,dat_Window,dat_WindowSequence,dat_LoopNumber,dat_LoopPosition,dat_LoopSum,dat_AreaNumber,dat_AreaPosition,dat_AreaSum,dat_ReactionTime,dat_Time,dat_Ans,dat_AnsReactionTime,dat_Accuracy
+217,1,p1,practice,practice_1,,/+/The patient listened to the doctor's advice after he felt hopeless./,Did the patient follow the doctor?,Y,ins.jpg,1,1,+,1,1,1,1,1,1,1,4019,1562996287231,Y,2704,1
+217,1,p1,practice,practice_1,,/+/The patient listened to the doctor's advice after he felt hopeless./,Did the patient follow the doctor?,Y,ins.jpg,1,1,The,2,2,1,11,1,1,11,479,1562996287710,Y,2704,1
+217,1,p1,practice,practice_1,,/+/The patient listened to the doctor's advice after he felt hopeless./,Did the patient follow the doctor?,Y,ins.jpg,1,1,patient,3,2,2,11,1,2,11,896,1562996288606,Y,2704,1
+217,1,p1,practice,practice_1,,/+/The patient listened to the doctor's advice after he felt hopeless./,Did the patient follow the doctor?,Y,ins.jpg,1,1,listened,4,2,3,11,1,3,11,759,1562996289366,Y,2704,1
+217,1,p1,practice,practice_1,,/+/The patient listened to the doctor's advice after he felt hopeless./,Did the patient follow the doctor?,Y,ins.jpg,1,1,to,5,2,4,11,1,4,11,663,1562996290030,Y,2704,1
+217,1,p1,practice,practice_1,,/+/The patient listened to the doctor's advice after he felt hopeless./,Did the patient follow the doctor?,Y,ins.jpg,1,1,the,6,2,5,11,1,5,11,568,1562996290598,Y,2704,1
+217,1,p1,practice,practice_1,,/+/The patient listened to the doctor's advice after he felt hopeless./,Did the patient follow the doctor?,Y,ins.jpg,1,1,doctor's,7,2,6,11,1,6,11,679,1562996291278,Y,2704,1
+217,1,p1,practice,practice_1,,/+/The patient listened to the doctor's advice after he felt hopeless./,Did the patient follow the doctor?,Y,ins.jpg,1,1,advice,8,2,7,11,1,7,11,727,1562996292006,Y,2704,1
+217,1,p1,practice,practice_1,,/+/The patient listened to the doctor's advice after he felt hopeless./,Did the patient follow the doctor?,Y,ins.jpg,1,1,after,9,2,8,11,1,8,11,583,1562996292590,Y,2704,1
+217,1,p1,practice,practice_1,,/+/The patient listened to the doctor's advice after he felt hopeless./,Did the patient follow the doctor?,Y,ins.jpg,1,1,he,10,2,9,11,1,9,11,487,1562996293078,Y,2704,1
+217,1,p1,practice,practice_1,,/+/The patient listened to the doctor's advice after he felt hopeless./,Did the patient follow the doctor?,Y,ins.jpg,1,1,felt,11,2,10,11,1,10,11,487,1562996293566,Y,2704,1
+217,1,p1,practice,practice_1,,/+/The patient listened to the doctor's advice after he felt hopeless./,Did the patient follow the doctor?,Y,ins.jpg,1,1,hopeless.,12,2,11,11,1,11,11,1047,1562996294614,Y,2704,1
+217,1,p2,practice,practice_2,,/+/The visitors knew little about how the painting was created./,Did the visitors know how the painting was created?,N,,1,2,+,1,1,1,1,1,1,1,1437,1562996299270,N,3876,1
+217,1,p2,practice,practice_2,,/+/The visitors knew little about how the painting was created./,Did the visitors know how the painting was created?,N,,1,2,The,2,2,1,10,1,1,10,615,1562996299886,N,3876,1
+217,1,p2,practice,practice_2,,/+/The visitors knew little about how the painting was created./,Did the visitors know how the painting was created?,N,,1,2,visitors,3,2,2,10,1,2,10,560,1562996300446,N,3876,1
+217,1,p2,practice,practice_2,,/+/The visitors knew little about how the painting was created./,Did the visitors know how the painting was created?,N,,1,2,knew,4,2,3,10,1,3,10,1104,1562996301550,N,3876,1
+217,1,p2,practice,practice_2,,/+/The visitors knew little about how the painting was created./,Did the visitors know how the painting was created?,N,,1,2,little,5,2,4,10,1,4,10,839,1562996302390,N,3876,1
+217,1,p2,practice,practice_2,,/+/The visitors knew little about how the painting was created./,Did the visitors know how the painting was created?,N,,1,2,about,6,2,5,10,1,5,10,615,1562996303005,N,3876,1
+217,1,p2,practice,practice_2,,/+/The visitors knew little about how the painting was created./,Did the visitors know how the painting was created?,N,,1,2,how,7,2,6,10,1,6,10,560,1562996303566,N,3876,1
+217,1,p2,practice,practice_2,,/+/The visitors knew little about how the painting was created./,Did the visitors know how the painting was created?,N,,1,2,the,8,2,7,10,1,7,10,448,1562996304014,N,3876,1
+217,1,p2,practice,practice_2,,/+/The visitors knew little about how the painting was created./,Did the visitors know how the painting was created?,N,,1,2,painting,9,2,8,10,1,8,10,560,1562996304574,N,3876,1
+217,1,p2,practice,practice_2,,/+/The visitors knew little about how the painting was created./,Did the visitors know how the painting was created?,N,,1,2,was,10,2,9,10,1,9,10,600,1562996305174,N,3876,1
+217,1,p2,practice,practice_2,,/+/The visitors knew little about how the painting was created./,Did the visitors know how the painting was created?,N,,1,2,created.,11,2,10,10,1,10,10,656,1562996305830,N,3876,1
+217,1,p3,practice,practice_3,,/+/The old lady lived further away from the city center./,Did the old lady live in the city center?,N,,1,3,+,1,1,1,1,1,1,1,1119,1562996311341,N,1533,1
+217,1,p3,practice,practice_3,,/+/The old lady lived further away from the city center./,Did the old lady live in the city center?,N,,1,3,The,2,2,1,10,1,1,10,609,1562996311950,N,1533,1
+217,1,p3,practice,practice_3,,/+/The old lady lived further away from the city center./,Did the old lady live in the city center?,N,,1,3,old,3,2,2,10,1,2,10,616,1562996312566,N,1533,1
+217,1,p3,practice,practice_3,,/+/The old lady lived further away from the city center./,Did the old lady live in the city center?,N,,1,3,lady,4,2,3,10,1,3,10,616,1562996313182,N,1533,1
+217,1,p3,practice,practice_3,,/+/The old lady lived further away from the city center./,Did the old lady live in the city center?,N,,1,3,lived,5,2,4,10,1,4,10,640,1562996313822,N,1533,1
+217,1,p3,practice,practice_3,,/+/The old lady lived further away from the city center./,Did the old lady live in the city center?,N,,1,3,further,6,2,5,10,1,5,10,487,1562996314309,N,1533,1
+217,1,p3,practice,practice_3,,/+/The old lady lived further away from the city center./,Did the old lady live in the city center?,N,,1,3,away,7,2,6,10,1,6,10,528,1562996314838,N,1533,1
+217,1,p3,practice,practice_3,,/+/The old lady lived further away from the city center./,Did the old lady live in the city center?,N,,1,3,from,8,2,7,10,1,7,10,551,1562996315389,N,1533,1
+217,1,p3,practice,practice_3,,/+/The old lady lived further away from the city center./,Did the old lady live in the city center?,N,,1,3,the,9,2,8,10,1,8,10,528,1562996315918,N,1533,1
+217,1,p3,practice,practice_3,,/+/The old lady lived further away from the city center./,Did the old lady live in the city center?,N,,1,3,city,10,2,9,10,1,9,10,487,1562996316405,N,1533,1
+217,1,p3,practice,practice_3,,/+/The old lady lived further away from the city center./,Did the old lady live in the city center?,N,,1,3,center.,11,2,10,10,1,10,10,529,1562996316934,N,1533,1
+217,1,p4,practice,practice_4,,/+/The maid looked at the hostess with a nervous smile./,Did the maid feel nervous? ,Y,,1,4,+,1,1,1,1,1,1,1,687,1562996319670,Y,1807,1
+217,1,p4,practice,practice_4,,/+/The maid looked at the hostess with a nervous smile./,Did the maid feel nervous? ,Y,,1,4,The,2,2,1,10,1,1,10,480,1562996320150,Y,1807,1
+217,1,p4,practice,practice_4,,/+/The maid looked at the hostess with a nervous smile./,Did the maid feel nervous? ,Y,,1,4,maid,3,2,2,10,1,2,10,496,1562996320646,Y,1807,1
+217,1,p4,practice,practice_4,,/+/The maid looked at the hostess with a nervous smile./,Did the maid feel nervous? ,Y,,1,4,looked,4,2,3,10,1,3,10,496,1562996321142,Y,1807,1
+217,1,p4,practice,practice_4,,/+/The maid looked at the hostess with a nervous smile./,Did the maid feel nervous? ,Y,,1,4,at,5,2,4,10,1,4,10,639,1562996321781,Y,1807,1
+217,1,p4,practice,practice_4,,/+/The maid looked at the hostess with a nervous smile./,Did the maid feel nervous? ,Y,,1,4,the,6,2,5,10,1,5,10,544,1562996322326,Y,1807,1
+217,1,p4,practice,practice_4,,/+/The maid looked at the hostess with a nervous smile./,Did the maid feel nervous? ,Y,,1,4,hostess,7,2,6,10,1,6,10,688,1562996323014,Y,1807,1
+217,1,p4,practice,practice_4,,/+/The maid looked at the hostess with a nervous smile./,Did the maid feel nervous? ,Y,,1,4,with,8,2,7,10,1,7,10,864,1562996323878,Y,1807,1
+217,1,p4,practice,practice_4,,/+/The maid looked at the hostess with a nervous smile./,Did the maid feel nervous? ,Y,,1,4,a,9,2,8,10,1,8,10,656,1562996324534,Y,1807,1
+217,1,p4,practice,practice_4,,/+/The maid looked at the hostess with a nervous smile./,Did the maid feel nervous? ,Y,,1,4,nervous,10,2,9,10,1,9,10,704,1562996325238,Y,1807,1
+217,1,p4,practice,practice_4,,/+/The maid looked at the hostess with a nervous smile./,Did the maid feel nervous? ,Y,,1,4,smile.,11,2,10,10,1,10,10,616,1562996325854,Y,1807,1
+217,1,p5,practice,practice_5,,/+/The young lady * sent a red rose * became * really embarrassed./,Did the lady send a red rose?,N,,1,5,+,1,1,1,1,1,1,1,2807,1562996330982,Y,4196,0
+217,1,p5,practice,practice_5,,/+/The young lady * sent a red rose * became * really embarrassed./,Did the lady send a red rose?,N,,1,5,The,2,2,1,10,1,1,3,464,1562996331446,Y,4196,0
+217,1,p5,practice,practice_5,,/+/The young lady * sent a red rose * became * really embarrassed./,Did the lady send a red rose?,N,,1,5,young,3,2,2,10,1,2,3,600,1562996332046,Y,4196,0
+217,1,p5,practice,practice_5,,/+/The young lady * sent a red rose * became * really embarrassed./,Did the lady send a red rose?,N,,1,5,lady,4,2,3,10,1,3,3,512,1562996332558,Y,4196,0
+217,1,p5,practice,practice_5,,/+/The young lady * sent a red rose * became * really embarrassed./,Did the lady send a red rose?,N,,1,5,sent,5,2,4,10,2,1,4,504,1562996333062,Y,4196,0
+217,1,p5,practice,practice_5,,/+/The young lady * sent a red rose * became * really embarrassed./,Did the lady send a red rose?,N,,1,5,a,6,2,5,10,2,2,4,544,1562996333606,Y,4196,0
+217,1,p5,practice,practice_5,,/+/The young lady * sent a red rose * became * really embarrassed./,Did the lady send a red rose?,N,,1,5,red,7,2,6,10,2,3,4,568,1562996334174,Y,4196,0
+217,1,p5,practice,practice_5,,/+/The young lady * sent a red rose * became * really embarrassed./,Did the lady send a red rose?,N,,1,5,rose,8,2,7,10,2,4,4,719,1562996334893,Y,4196,0
+217,1,p5,practice,practice_5,,/+/The young lady * sent a red rose * became * really embarrassed./,Did the lady send a red rose?,N,,1,5,became,9,2,8,10,3,1,1,873,1562996335766,Y,4196,0
+217,1,p5,practice,practice_5,,/+/The young lady * sent a red rose * became * really embarrassed./,Did the lady send a red rose?,N,,1,5,really,10,2,9,10,4,1,2,720,1562996336486,Y,4196,0
+217,1,p5,practice,practice_5,,/+/The young lady * sent a red rose * became * really embarrassed./,Did the lady send a red rose?,N,,1,5,embarrassed.,11,2,10,10,4,2,2,2560,1562996339046,Y,4196,0
+217,1,p6,practice,practice_6,,/+/The busy workers * who were * offered a delicious pizza * felt * not so hungry./,Did someone offer the workers a pizza?,Y,,1,6,+,1,1,1,1,1,1,1,1784,1562996392470,Y,2316,1
+217,1,p6,practice,practice_6,,/+/The busy workers * who were * offered a delicious pizza * felt * not so hungry./,Did someone offer the workers a pizza?,Y,,1,6,The,2,2,1,13,1,1,3,696,1562996393166,Y,2316,1
+217,1,p6,practice,practice_6,,/+/The busy workers * who were * offered a delicious pizza * felt * not so hungry./,Did someone offer the workers a pizza?,Y,,1,6,busy,3,2,2,13,1,2,3,598,1562996393765,Y,2316,1
+217,1,p6,practice,practice_6,,/+/The busy workers * who were * offered a delicious pizza * felt * not so hungry./,Did someone offer the workers a pizza?,Y,,1,6,workers,4,2,3,13,1,3,3,920,1562996394685,Y,2316,1
+217,1,p6,practice,practice_6,,/+/The busy workers * who were * offered a delicious pizza * felt * not so hungry./,Did someone offer the workers a pizza?,Y,,1,6,who,5,2,4,13,2,1,2,753,1562996395438,Y,2316,1
+217,1,p6,practice,practice_6,,/+/The busy workers * who were * offered a delicious pizza * felt * not so hungry./,Did someone offer the workers a pizza?,Y,,1,6,were,6,2,5,13,2,2,2,600,1562996396038,Y,2316,1
+217,1,p6,practice,practice_6,,/+/The busy workers * who were * offered a delicious pizza * felt * not so hungry./,Did someone offer the workers a pizza?,Y,,1,6,offered,7,2,6,13,3,1,4,615,1562996396653,Y,2316,1
+217,1,p6,practice,practice_6,,/+/The busy workers * who were * offered a delicious pizza * felt * not so hungry./,Did someone offer the workers a pizza?,Y,,1,6,a,8,2,7,13,3,2,4,505,1562996397158,Y,2316,1
+217,1,p6,practice,practice_6,,/+/The busy workers * who were * offered a delicious pizza * felt * not so hungry./,Did someone offer the workers a pizza?,Y,,1,6,delicious,9,2,8,13,3,3,4,840,1562996397998,Y,2316,1
+217,1,p6,practice,practice_6,,/+/The busy workers * who were * offered a delicious pizza * felt * not so hungry./,Did someone offer the workers a pizza?,Y,,1,6,pizza,10,2,9,13,3,4,4,584,1562996398582,Y,2316,1
+217,1,p6,practice,practice_6,,/+/The busy workers * who were * offered a delicious pizza * felt * not so hungry./,Did someone offer the workers a pizza?,Y,,1,6,felt,11,2,10,13,4,1,1,600,1562996399182,Y,2316,1
+217,1,p6,practice,practice_6,,/+/The busy workers * who were * offered a delicious pizza * felt * not so hungry./,Did someone offer the workers a pizza?,Y,,1,6,not,12,2,11,13,5,1,3,416,1562996399598,Y,2316,1
+217,1,p6,practice,practice_6,,/+/The busy workers * who were * offered a delicious pizza * felt * not so hungry./,Did someone offer the workers a pizza?,Y,,1,6,so,13,2,12,13,5,2,3,504,1562996400102,Y,2316,1
+217,1,p6,practice,practice_6,,/+/The busy workers * who were * offered a delicious pizza * felt * not so hungry./,Did someone offer the workers a pizza?,Y,,1,6,hungry.,14,2,13,13,5,3,3,751,1562996400853,Y,2316,1
+217,1,1,filler,filler_6,,/+/The girl sang very well through learning experiences from her tutor./,Did the girl's tutor do a lot of help? ,Y,练习结束，现在开始正式实验。,0,7,+,1,1,1,1,1,1,1,2039,1562996441771,Y,4683,1
+217,1,1,filler,filler_6,,/+/The girl sang very well through learning experiences from her tutor./,Did the girl's tutor do a lot of help? ,Y,练习结束，现在开始正式实验。,0,7,The,2,2,1,11,1,1,11,504,1562996442275,Y,4683,1
+217,1,1,filler,filler_6,,/+/The girl sang very well through learning experiences from her tutor./,Did the girl's tutor do a lot of help? ,Y,练习结束，现在开始正式实验。,0,7,girl,3,2,2,11,1,2,11,504,1562996442779,Y,4683,1
+217,1,1,filler,filler_6,,/+/The girl sang very well through learning experiences from her tutor./,Did the girl's tutor do a lot of help? ,Y,练习结束，现在开始正式实验。,0,7,sang,4,2,3,11,1,3,11,472,1562996443251,Y,4683,1
+217,1,1,filler,filler_6,,/+/The girl sang very well through learning experiences from her tutor./,Did the girl's tutor do a lot of help? ,Y,练习结束，现在开始正式实验。,0,7,very,5,2,4,11,1,4,11,544,1562996443795,Y,4683,1
+217,1,1,filler,filler_6,,/+/The girl sang very well through learning experiences from her tutor./,Did the girl's tutor do a lot of help? ,Y,练习结束，现在开始正式实验。,0,7,well,6,2,5,11,1,5,11,544,1562996444339,Y,4683,1
+217,1,1,filler,filler_6,,/+/The girl sang very well through learning experiences from her tutor./,Did the girl's tutor do a lot of help? ,Y,练习结束，现在开始正式实验。,0,7,through,7,2,6,11,1,6,11,608,1562996444947,Y,4683,1
+217,1,1,filler,filler_6,,/+/The girl sang very well through learning experiences from her tutor./,Did the girl's tutor do a lot of help? ,Y,练习结束，现在开始正式实验。,0,7,learning,8,2,7,11,1,7,11,656,1562996445603,Y,4683,1
+217,1,1,filler,filler_6,,/+/The girl sang very well through learning experiences from her tutor./,Did the girl's tutor do a lot of help? ,Y,练习结束，现在开始正式实验。,0,7,experiences,9,2,8,11,1,8,11,1496,1562996447099,Y,4683,1
+217,1,1,filler,filler_6,,/+/The girl sang very well through learning experiences from her tutor./,Did the girl's tutor do a lot of help? ,Y,练习结束，现在开始正式实验。,0,7,learning,10,2,7,11,1,7,11,272,1562996447371,Y,4683,1
+217,1,1,filler,filler_6,,/+/The girl sang very well through learning experiences from her tutor./,Did the girl's tutor do a lot of help? ,Y,练习结束，现在开始正式实验。,0,7,through,11,2,6,11,1,6,11,936,1562996448307,Y,4683,1
+217,1,1,filler,filler_6,,/+/The girl sang very well through learning experiences from her tutor./,Did the girl's tutor do a lot of help? ,Y,练习结束，现在开始正式实验。,0,7,learning,12,2,7,11,1,7,11,344,1562996448651,Y,4683,1
+217,1,1,filler,filler_6,,/+/The girl sang very well through learning experiences from her tutor./,Did the girl's tutor do a lot of help? ,Y,练习结束，现在开始正式实验。,0,7,experiences,13,2,8,11,1,8,11,672,1562996449323,Y,4683,1
+217,1,1,filler,filler_6,,/+/The girl sang very well through learning experiences from her tutor./,Did the girl's tutor do a lot of help? ,Y,练习结束，现在开始正式实验。,0,7,from,14,2,9,11,1,9,11,528,1562996449851,Y,4683,1
+217,1,1,filler,filler_6,,/+/The girl sang very well through learning experiences from her tutor./,Did the girl's tutor do a lot of help? ,Y,练习结束，现在开始正式实验。,0,7,her,15,2,10,11,1,10,11,512,1562996450363,Y,4683,1
+217,1,1,filler,filler_6,,/+/The girl sang very well through learning experiences from her tutor./,Did the girl's tutor do a lot of help? ,Y,练习结束，现在开始正式实验。,0,7,tutor.,16,2,11,11,1,11,11,1384,1562996451747,Y,4683,1
+217,1,2,filler,filler_7,,/+/Some important papers which lay in the office were stolen last night./,Were the papers still safe?,N,,0,8,+,1,1,1,1,1,1,1,897,1562996457835,N,2328,1
+217,1,2,filler,filler_7,,/+/Some important papers which lay in the office were stolen last night./,Were the papers still safe?,N,,0,8,Some,2,2,1,12,1,1,12,600,1562996458435,N,2328,1
+217,1,2,filler,filler_7,,/+/Some important papers which lay in the office were stolen last night./,Were the papers still safe?,N,,0,8,important,3,2,2,12,1,2,12,856,1562996459291,N,2328,1
+217,1,2,filler,filler_7,,/+/Some important papers which lay in the office were stolen last night./,Were the papers still safe?,N,,0,8,papers,4,2,3,12,1,3,12,720,1562996460011,N,2328,1
+217,1,2,filler,filler_7,,/+/Some important papers which lay in the office were stolen last night./,Were the papers still safe?,N,,0,8,which,5,2,4,12,1,4,12,640,1562996460651,N,2328,1
+217,1,2,filler,filler_7,,/+/Some important papers which lay in the office were stolen last night./,Were the papers still safe?,N,,0,8,lay,6,2,5,12,1,5,12,560,1562996461211,N,2328,1
+217,1,2,filler,filler_7,,/+/Some important papers which lay in the office were stolen last night./,Were the papers still safe?,N,,0,8,in,7,2,6,12,1,6,12,511,1562996461722,N,2328,1
+217,1,2,filler,filler_7,,/+/Some important papers which lay in the office were stolen last night./,Were the papers still safe?,N,,0,8,the,8,2,7,12,1,7,12,529,1562996462251,N,2328,1
+217,1,2,filler,filler_7,,/+/Some important papers which lay in the office were stolen last night./,Were the papers still safe?,N,,0,8,office,9,2,8,12,1,8,12,543,1562996462794,N,2328,1
+217,1,2,filler,filler_7,,/+/Some important papers which lay in the office were stolen last night./,Were the papers still safe?,N,,0,8,were,10,2,9,12,1,9,12,1137,1562996463931,N,2328,1
+217,1,2,filler,filler_7,,/+/Some important papers which lay in the office were stolen last night./,Were the papers still safe?,N,,0,8,stolen,11,2,10,12,1,10,12,1112,1562996465043,N,2328,1
+217,1,2,filler,filler_7,,/+/Some important papers which lay in the office were stolen last night./,Were the papers still safe?,N,,0,8,last,12,2,11,12,1,11,12,480,1562996465523,N,2328,1
+217,1,2,filler,filler_7,,/+/Some important papers which lay in the office were stolen last night./,Were the papers still safe?,N,,0,8,night.,13,2,12,12,1,12,12,464,1562996465987,N,2328,1
+217,1,3,target,target_1,G,/+/The cotton farmers * warned about the bad floods * had * no other crops./,Did the farmers warn about the floods?,N,,0,9,+,1,1,1,1,1,1,1,544,1562996469371,Y,2600,0
+217,1,3,target,target_1,G,/+/The cotton farmers * warned about the bad floods * had * no other crops./,Did the farmers warn about the floods?,N,,0,9,The,2,2,1,12,1,1,3,480,1562996469851,Y,2600,0
+217,1,3,target,target_1,G,/+/The cotton farmers * warned about the bad floods * had * no other crops./,Did the farmers warn about the floods?,N,,0,9,cotton,3,2,2,12,1,2,3,1119,1562996470970,Y,2600,0
+217,1,3,target,target_1,G,/+/The cotton farmers * warned about the bad floods * had * no other crops./,Did the farmers warn about the floods?,N,,0,9,farmers,4,2,3,12,1,3,3,1056,1562996472026,Y,2600,0
+217,1,3,target,target_1,G,/+/The cotton farmers * warned about the bad floods * had * no other crops./,Did the farmers warn about the floods?,N,,0,9,warned,5,2,4,12,2,1,5,617,1562996472643,Y,2600,0
+217,1,3,target,target_1,G,/+/The cotton farmers * warned about the bad floods * had * no other crops./,Did the farmers warn about the floods?,N,,0,9,about,6,2,5,12,2,2,5,608,1562996473251,Y,2600,0
+217,1,3,target,target_1,G,/+/The cotton farmers * warned about the bad floods * had * no other crops./,Did the farmers warn about the floods?,N,,0,9,the,7,2,6,12,2,3,5,552,1562996473803,Y,2600,0
+217,1,3,target,target_1,G,/+/The cotton farmers * warned about the bad floods * had * no other crops./,Did the farmers warn about the floods?,N,,0,9,bad,8,2,7,12,2,4,5,616,1562996474419,Y,2600,0
+217,1,3,target,target_1,G,/+/The cotton farmers * warned about the bad floods * had * no other crops./,Did the farmers warn about the floods?,N,,0,9,floods,9,2,8,12,2,5,5,1512,1562996475931,Y,2600,0
+217,1,3,target,target_1,G,/+/The cotton farmers * warned about the bad floods * had * no other crops./,Did the farmers warn about the floods?,N,,0,9,had,10,2,9,12,3,1,1,1512,1562996477443,Y,2600,0
+217,1,3,target,target_1,G,/+/The cotton farmers * warned about the bad floods * had * no other crops./,Did the farmers warn about the floods?,N,,0,9,no,11,2,10,12,4,1,3,1528,1562996478971,Y,2600,0
+217,1,3,target,target_1,G,/+/The cotton farmers * warned about the bad floods * had * no other crops./,Did the farmers warn about the floods?,N,,0,9,other,12,2,11,12,4,2,3,1255,1562996480226,Y,2600,0
+217,1,3,target,target_1,G,/+/The cotton farmers * warned about the bad floods * had * no other crops./,Did the farmers warn about the floods?,N,,0,9,crops.,13,2,12,12,4,3,3,649,1562996480875,Y,2600,0
+217,1,4,filler,filler_10,,/+/There was a big hole in the road which blocked the traffic./,Was there a big hole in the road?,Y,,0,10,+,1,1,1,1,1,1,1,2575,1562996486555,Y,1315,1
+217,1,4,filler,filler_10,,/+/There was a big hole in the road which blocked the traffic./,Was there a big hole in the road?,Y,,0,10,There,2,2,1,12,1,1,12,655,1562996487210,Y,1315,1
+217,1,4,filler,filler_10,,/+/There was a big hole in the road which blocked the traffic./,Was there a big hole in the road?,Y,,0,10,was,3,2,2,12,1,2,12,832,1562996488043,Y,1315,1
+217,1,4,filler,filler_10,,/+/There was a big hole in the road which blocked the traffic./,Was there a big hole in the road?,Y,,0,10,a,4,2,3,12,1,3,12,832,1562996488875,Y,1315,1
+217,1,4,filler,filler_10,,/+/There was a big hole in the road which blocked the traffic./,Was there a big hole in the road?,Y,,0,10,big,5,2,4,12,1,4,12,583,1562996489458,Y,1315,1
+217,1,4,filler,filler_10,,/+/There was a big hole in the road which blocked the traffic./,Was there a big hole in the road?,Y,,0,10,hole,6,2,5,12,1,5,12,544,1562996490002,Y,1315,1
+217,1,4,filler,filler_10,,/+/There was a big hole in the road which blocked the traffic./,Was there a big hole in the road?,Y,,0,10,in,7,2,6,12,1,6,12,479,1562996490482,Y,1315,1
+217,1,4,filler,filler_10,,/+/There was a big hole in the road which blocked the traffic./,Was there a big hole in the road?,Y,,0,10,the,8,2,7,12,1,7,12,409,1562996490891,Y,1315,1
+217,1,4,filler,filler_10,,/+/There was a big hole in the road which blocked the traffic./,Was there a big hole in the road?,Y,,0,10,road,9,2,8,12,1,8,12,495,1562996491386,Y,1315,1
+217,1,4,filler,filler_10,,/+/There was a big hole in the road which blocked the traffic./,Was there a big hole in the road?,Y,,0,10,which,10,2,9,12,1,9,12,552,1562996491938,Y,1315,1
+217,1,4,filler,filler_10,,/+/There was a big hole in the road which blocked the traffic./,Was there a big hole in the road?,Y,,0,10,blocked,11,2,10,12,1,10,12,511,1562996492450,Y,1315,1
+217,1,4,filler,filler_10,,/+/There was a big hole in the road which blocked the traffic./,Was there a big hole in the road?,Y,,0,10,the,12,2,11,12,1,11,12,408,1562996492858,Y,1315,1
+217,1,4,filler,filler_10,,/+/There was a big hole in the road which blocked the traffic./,Was there a big hole in the road?,Y,,0,10,traffic.,13,2,12,12,1,12,12,655,1562996493514,Y,1315,1
+217,1,5,target,target_2,C,/+/The sunburned boys * who were * served the hot dogs * got * a stomach ache./,Did the boys serve the hot dogs?,N,,0,11,+,1,1,1,1,1,1,1,503,1562996495834,N,6099,1
+217,1,5,target,target_2,C,/+/The sunburned boys * who were * served the hot dogs * got * a stomach ache./,Did the boys serve the hot dogs?,N,,0,11,The,2,2,1,13,1,1,3,360,1562996496194,N,6099,1
+217,1,5,target,target_2,C,/+/The sunburned boys * who were * served the hot dogs * got * a stomach ache./,Did the boys serve the hot dogs?,N,,0,11,sunburned,3,2,2,13,1,2,3,1551,1562996497746,N,6099,1
+217,1,5,target,target_2,C,/+/The sunburned boys * who were * served the hot dogs * got * a stomach ache./,Did the boys serve the hot dogs?,N,,0,11,boys,4,2,3,13,1,3,3,551,1562996498298,N,6099,1
+217,1,5,target,target_2,C,/+/The sunburned boys * who were * served the hot dogs * got * a stomach ache./,Did the boys serve the hot dogs?,N,,0,11,who,5,2,4,13,2,1,2,439,1562996498738,N,6099,1
+217,1,5,target,target_2,C,/+/The sunburned boys * who were * served the hot dogs * got * a stomach ache./,Did the boys serve the hot dogs?,N,,0,11,were,6,2,5,13,2,2,2,423,1562996499162,N,6099,1
+217,1,5,target,target_2,C,/+/The sunburned boys * who were * served the hot dogs * got * a stomach ache./,Did the boys serve the hot dogs?,N,,0,11,served,7,2,6,13,3,1,4,844,1562996500007,N,6099,1
+217,1,5,target,target_2,C,/+/The sunburned boys * who were * served the hot dogs * got * a stomach ache./,Did the boys serve the hot dogs?,N,,0,11,the,8,2,7,13,3,2,4,503,1562996500510,N,6099,1
+217,1,5,target,target_2,C,/+/The sunburned boys * who were * served the hot dogs * got * a stomach ache./,Did the boys serve the hot dogs?,N,,0,11,hot,9,2,8,13,3,3,4,513,1562996501023,N,6099,1
+217,1,5,target,target_2,C,/+/The sunburned boys * who were * served the hot dogs * got * a stomach ache./,Did the boys serve the hot dogs?,N,,0,11,dogs,10,2,9,13,3,4,4,599,1562996501622,N,6099,1
+217,1,5,target,target_2,C,/+/The sunburned boys * who were * served the hot dogs * got * a stomach ache./,Did the boys serve the hot dogs?,N,,0,11,got,11,2,10,13,4,1,1,537,1562996502159,N,6099,1
+217,1,5,target,target_2,C,/+/The sunburned boys * who were * served the hot dogs * got * a stomach ache./,Did the boys serve the hot dogs?,N,,0,11,a,12,2,11,13,5,1,3,552,1562996502711,N,6099,1
+217,1,5,target,target_2,C,/+/The sunburned boys * who were * served the hot dogs * got * a stomach ache./,Did the boys serve the hot dogs?,N,,0,11,stomach,13,2,12,13,5,2,3,823,1562996503534,N,6099,1
+217,1,5,target,target_2,C,/+/The sunburned boys * who were * served the hot dogs * got * a stomach ache./,Did the boys serve the hot dogs?,N,,0,11,ache.,14,2,13,13,5,3,3,2361,1562996505895,N,6099,1
+217,1,6,filler,filler_17,,/+/The students who failed the exam were asked to take it again./,Should all students take the exam again?,N,,0,12,+,1,1,1,1,1,1,1,935,1562996513431,N,2092,1
+217,1,6,filler,filler_17,,/+/The students who failed the exam were asked to take it again./,Should all students take the exam again?,N,,0,12,The,2,2,1,12,1,1,12,824,1562996514255,N,2092,1
+217,1,6,filler,filler_17,,/+/The students who failed the exam were asked to take it again./,Should all students take the exam again?,N,,0,12,students,3,2,2,12,1,2,12,1016,1562996515271,N,2092,1
+217,1,6,filler,filler_17,,/+/The students who failed the exam were asked to take it again./,Should all students take the exam again?,N,,0,12,who,4,2,3,12,1,3,12,688,1562996515959,N,2092,1
+217,1,6,filler,filler_17,,/+/The students who failed the exam were asked to take it again./,Should all students take the exam again?,N,,0,12,failed,5,2,4,12,1,4,12,672,1562996516631,N,2092,1
+217,1,6,filler,filler_17,,/+/The students who failed the exam were asked to take it again./,Should all students take the exam again?,N,,0,12,the,6,2,5,12,1,5,12,704,1562996517335,N,2092,1
+217,1,6,filler,filler_17,,/+/The students who failed the exam were asked to take it again./,Should all students take the exam again?,N,,0,12,exam,7,2,6,12,1,6,12,1000,1562996518335,N,2092,1
+217,1,6,filler,filler_17,,/+/The students who failed the exam were asked to take it again./,Should all students take the exam again?,N,,0,12,were,8,2,7,12,1,7,12,1423,1562996519758,N,2092,1
+217,1,6,filler,filler_17,,/+/The students who failed the exam were asked to take it again./,Should all students take the exam again?,N,,0,12,asked,9,2,8,12,1,8,12,393,1562996520151,N,2092,1
+217,1,6,filler,filler_17,,/+/The students who failed the exam were asked to take it again./,Should all students take the exam again?,N,,0,12,to,10,2,9,12,1,9,12,328,1562996520479,N,2092,1
+217,1,6,filler,filler_17,,/+/The students who failed the exam were asked to take it again./,Should all students take the exam again?,N,,0,12,take,11,2,10,12,1,10,12,351,1562996520830,N,2092,1
+217,1,6,filler,filler_17,,/+/The students who failed the exam were asked to take it again./,Should all students take the exam again?,N,,0,12,it,12,2,11,12,1,11,12,337,1562996521167,N,2092,1
+217,1,6,filler,filler_17,,/+/The students who failed the exam were asked to take it again./,Should all students take the exam again?,N,,0,12,again.,13,2,12,12,1,12,12,376,1562996521543,N,2092,1
+217,1,7,filler,filler_25,,/+/The suitcase which Mike bought has been broken down by his son./,Has the suitcase been broken by Mike?,N,,0,13,+,1,1,1,1,1,1,1,919,1562996525055,N,2779,1
+217,1,7,filler,filler_25,,/+/The suitcase which Mike bought has been broken down by his son./,Has the suitcase been broken by Mike?,N,,0,13,The,2,2,1,12,1,1,12,440,1562996525495,N,2779,1
+217,1,7,filler,filler_25,,/+/The suitcase which Mike bought has been broken down by his son./,Has the suitcase been broken by Mike?,N,,0,13,suitcase,3,2,2,12,1,2,12,1256,1562996526751,N,2779,1
+217,1,7,filler,filler_25,,/+/The suitcase which Mike bought has been broken down by his son./,Has the suitcase been broken by Mike?,N,,0,13,which,4,2,3,12,1,3,12,480,1562996527231,N,2779,1
+217,1,7,filler,filler_25,,/+/The suitcase which Mike bought has been broken down by his son./,Has the suitcase been broken by Mike?,N,,0,13,Mike,5,2,4,12,1,4,12,856,1562996528087,N,2779,1
+217,1,7,filler,filler_25,,/+/The suitcase which Mike bought has been broken down by his son./,Has the suitcase been broken by Mike?,N,,0,13,bought,6,2,5,12,1,5,12,1000,1562996529087,N,2779,1
+217,1,7,filler,filler_25,,/+/The suitcase which Mike bought has been broken down by his son./,Has the suitcase been broken by Mike?,N,,0,13,has,7,2,6,12,1,6,12,591,1562996529678,N,2779,1
+217,1,7,filler,filler_25,,/+/The suitcase which Mike bought has been broken down by his son./,Has the suitcase been broken by Mike?,N,,0,13,been,8,2,7,12,1,7,12,361,1562996530039,N,2779,1
+217,1,7,filler,filler_25,,/+/The suitcase which Mike bought has been broken down by his son./,Has the suitcase been broken by Mike?,N,,0,13,broken,9,2,8,12,1,8,12,416,1562996530455,N,2779,1
+217,1,7,filler,filler_25,,/+/The suitcase which Mike bought has been broken down by his son./,Has the suitcase been broken by Mike?,N,,0,13,down,10,2,9,12,1,9,12,471,1562996530926,N,2779,1
+217,1,7,filler,filler_25,,/+/The suitcase which Mike bought has been broken down by his son./,Has the suitcase been broken by Mike?,N,,0,13,by,11,2,10,12,1,10,12,497,1562996531423,N,2779,1
+217,1,7,filler,filler_25,,/+/The suitcase which Mike bought has been broken down by his son./,Has the suitcase been broken by Mike?,N,,0,13,his,12,2,11,12,1,11,12,455,1562996531878,N,2779,1
+217,1,7,filler,filler_25,,/+/The suitcase which Mike bought has been broken down by his son./,Has the suitcase been broken by Mike?,N,,0,13,son.,13,2,12,12,1,12,12,536,1562996532415,N,2779,1
+217,1,8,filler,filler_24,,/+/The roommate has married the man who comes from the west of China./,Has the roomate married?,Y,,0,14,+,1,1,1,1,1,1,1,791,1562996536487,Y,4524,1
+217,1,8,filler,filler_24,,/+/The roommate has married the man who comes from the west of China./,Has the roomate married?,Y,,0,14,The,2,2,1,13,1,1,13,647,1562996537134,Y,4524,1
+217,1,8,filler,filler_24,,/+/The roommate has married the man who comes from the west of China./,Has the roomate married?,Y,,0,14,roommate,3,2,2,13,1,2,13,769,1562996537903,Y,4524,1
+217,1,8,filler,filler_24,,/+/The roommate has married the man who comes from the west of China./,Has the roomate married?,Y,,0,14,has,4,2,3,13,1,3,13,752,1562996538655,Y,4524,1
+217,1,8,filler,filler_24,,/+/The roommate has married the man who comes from the west of China./,Has the roomate married?,Y,,0,14,married,5,2,4,13,1,4,13,632,1562996539287,Y,4524,1
+217,1,8,filler,filler_24,,/+/The roommate has married the man who comes from the west of China./,Has the roomate married?,Y,,0,14,the,6,2,5,13,1,5,13,440,1562996539727,Y,4524,1
+217,1,8,filler,filler_24,,/+/The roommate has married the man who comes from the west of China./,Has the roomate married?,Y,,0,14,man,7,2,6,13,1,6,13,383,1562996540110,Y,4524,1
+217,1,8,filler,filler_24,,/+/The roommate has married the man who comes from the west of China./,Has the roomate married?,Y,,0,14,who,8,2,7,13,1,7,13,425,1562996540535,Y,4524,1
+217,1,8,filler,filler_24,,/+/The roommate has married the man who comes from the west of China./,Has the roomate married?,Y,,0,14,comes,9,2,8,13,1,8,13,1288,1562996541823,Y,4524,1
+217,1,8,filler,filler_24,,/+/The roommate has married the man who comes from the west of China./,Has the roomate married?,Y,,0,14,from,10,2,9,13,1,9,13,600,1562996542423,Y,4524,1
+217,1,8,filler,filler_24,,/+/The roommate has married the man who comes from the west of China./,Has the roomate married?,Y,,0,14,the,11,2,10,13,1,10,13,360,1562996542783,Y,4524,1
+217,1,8,filler,filler_24,,/+/The roommate has married the man who comes from the west of China./,Has the roomate married?,Y,,0,14,west,12,2,11,13,1,11,13,399,1562996543182,Y,4524,1
+217,1,8,filler,filler_24,,/+/The roommate has married the man who comes from the west of China./,Has the roomate married?,Y,,0,14,of,13,2,12,13,1,12,13,425,1562996543607,Y,4524,1
+217,1,8,filler,filler_24,,/+/The roommate has married the man who comes from the west of China./,Has the roomate married?,Y,,0,14,China.,14,2,13,13,1,13,13,471,1562996544078,Y,4524,1
+217,1,9,target,target_15,G,/+/The confused student * asked about a question * lowered * his head silently./,Did the student ask about a question?,N,,0,15,+,1,1,1,1,1,1,1,1447,1562996550550,Y,1891,0
+217,1,9,target,target_15,G,/+/The confused student * asked about a question * lowered * his head silently./,Did the student ask about a question?,N,,0,15,The,2,2,1,11,1,1,3,599,1562996551150,Y,1891,0
+217,1,9,target,target_15,G,/+/The confused student * asked about a question * lowered * his head silently./,Did the student ask about a question?,N,,0,15,confused,3,2,2,11,1,2,3,760,1562996551910,Y,1891,0
+217,1,9,target,target_15,G,/+/The confused student * asked about a question * lowered * his head silently./,Did the student ask about a question?,N,,0,15,student,4,2,3,11,1,3,3,2439,1562996554350,Y,1891,0
+217,1,9,target,target_15,G,/+/The confused student * asked about a question * lowered * his head silently./,Did the student ask about a question?,N,,0,15,asked,5,2,4,11,2,1,4,704,1562996555054,Y,1891,0
+217,1,9,target,target_15,G,/+/The confused student * asked about a question * lowered * his head silently./,Did the student ask about a question?,N,,0,15,about,6,2,5,11,2,2,4,527,1562996555582,Y,1891,0
+217,1,9,target,target_15,G,/+/The confused student * asked about a question * lowered * his head silently./,Did the student ask about a question?,N,,0,15,a,7,2,6,11,2,3,4,447,1562996556030,Y,1891,0
+217,1,9,target,target_15,G,/+/The confused student * asked about a question * lowered * his head silently./,Did the student ask about a question?,N,,0,15,question,8,2,7,11,2,4,4,471,1562996556502,Y,1891,0
+217,1,9,target,target_15,G,/+/The confused student * asked about a question * lowered * his head silently./,Did the student ask about a question?,N,,0,15,lowered,9,2,8,11,3,1,1,999,1562996557502,Y,1891,0
+217,1,9,target,target_15,G,/+/The confused student * asked about a question * lowered * his head silently./,Did the student ask about a question?,N,,0,15,his,10,2,9,11,4,1,3,664,1562996558167,Y,1891,0
+217,1,9,target,target_15,G,/+/The confused student * asked about a question * lowered * his head silently./,Did the student ask about a question?,N,,0,15,head,11,2,10,11,4,2,3,703,1562996558870,Y,1891,0
+217,1,9,target,target_15,G,/+/The confused student * asked about a question * lowered * his head silently./,Did the student ask about a question?,N,,0,15,silently.,12,2,11,11,4,3,3,1864,1562996560735,Y,1891,0
+217,1,9,target,target_15,G,/+/The confused student * asked about a question * lowered * his head silently./,Did the student ask about a question?,N,,0,15,head,13,2,10,11,4,2,3,344,1562996561079,Y,1891,0
+217,1,9,target,target_15,G,/+/The confused student * asked about a question * lowered * his head silently./,Did the student ask about a question?,N,,0,15,his,14,2,9,11,4,1,3,343,1562996561422,Y,1891,0
+217,1,9,target,target_15,G,/+/The confused student * asked about a question * lowered * his head silently./,Did the student ask about a question?,N,,0,15,lowered,15,2,8,11,3,1,1,864,1562996562286,Y,1891,0
+217,1,9,target,target_15,G,/+/The confused student * asked about a question * lowered * his head silently./,Did the student ask about a question?,N,,0,15,question,16,2,7,11,2,4,4,520,1562996562807,Y,1891,0
+217,1,9,target,target_15,G,/+/The confused student * asked about a question * lowered * his head silently./,Did the student ask about a question?,N,,0,15,a,17,2,6,11,2,3,4,480,1562996563287,Y,1891,0
+217,1,9,target,target_15,G,/+/The confused student * asked about a question * lowered * his head silently./,Did the student ask about a question?,N,,0,15,question,18,2,7,11,2,4,4,344,1562996563631,Y,1891,0
+217,1,9,target,target_15,G,/+/The confused student * asked about a question * lowered * his head silently./,Did the student ask about a question?,N,,0,15,lowered,19,2,8,11,3,1,1,1384,1562996565015,Y,1891,0
+217,1,9,target,target_15,G,/+/The confused student * asked about a question * lowered * his head silently./,Did the student ask about a question?,N,,0,15,his,20,2,9,11,4,1,3,375,1562996565390,Y,1891,0
+217,1,9,target,target_15,G,/+/The confused student * asked about a question * lowered * his head silently./,Did the student ask about a question?,N,,0,15,head,21,2,10,11,4,2,3,377,1562996565767,Y,1891,0
+217,1,9,target,target_15,G,/+/The confused student * asked about a question * lowered * his head silently./,Did the student ask about a question?,N,,0,15,silently.,22,2,11,11,4,3,3,455,1562996566222,Y,1891,0
+217,1,10,filler,filler_22,,/+/The girl's life was saved because the doctor acted so well./,Did the girl die?,N,,0,16,+,1,1,1,1,1,1,1,3982,1562996572598,N,1252,1
+217,1,10,filler,filler_22,,/+/The girl's life was saved because the doctor acted so well./,Did the girl die?,N,,0,16,The,2,2,1,11,1,1,11,761,1562996573359,N,1252,1
+217,1,10,filler,filler_22,,/+/The girl's life was saved because the doctor acted so well./,Did the girl die?,N,,0,16,girl's,3,2,2,11,1,2,11,608,1562996573967,N,1252,1
+217,1,10,filler,filler_22,,/+/The girl's life was saved because the doctor acted so well./,Did the girl die?,N,,0,16,life,4,2,3,11,1,3,11,503,1562996574470,N,1252,1
+217,1,10,filler,filler_22,,/+/The girl's life was saved because the doctor acted so well./,Did the girl die?,N,,0,16,was,5,2,4,11,1,4,11,664,1562996575134,N,1252,1
+217,1,10,filler,filler_22,,/+/The girl's life was saved because the doctor acted so well./,Did the girl die?,N,,0,16,saved,6,2,5,11,1,5,11,1664,1562996576799,N,1252,1
+217,1,10,filler,filler_22,,/+/The girl's life was saved because the doctor acted so well./,Did the girl die?,N,,0,16,was,7,2,4,11,1,4,11,383,1562996577182,N,1252,1
+217,1,10,filler,filler_22,,/+/The girl's life was saved because the doctor acted so well./,Did the girl die?,N,,0,16,saved,8,2,5,11,1,5,11,367,1562996577550,N,1252,1
+217,1,10,filler,filler_22,,/+/The girl's life was saved because the doctor acted so well./,Did the girl die?,N,,0,16,because,9,2,6,11,1,6,11,656,1562996578206,N,1252,1
+217,1,10,filler,filler_22,,/+/The girl's life was saved because the doctor acted so well./,Did the girl die?,N,,0,16,the,10,2,7,11,1,7,11,711,1562996578918,N,1252,1
+217,1,10,filler,filler_22,,/+/The girl's life was saved because the doctor acted so well./,Did the girl die?,N,,0,16,doctor,11,2,8,11,1,8,11,359,1562996579278,N,1252,1
+217,1,10,filler,filler_22,,/+/The girl's life was saved because the doctor acted so well./,Did the girl die?,N,,0,16,acted,12,2,9,11,1,9,11,367,1562996579646,N,1252,1
+217,1,10,filler,filler_22,,/+/The girl's life was saved because the doctor acted so well./,Did the girl die?,N,,0,16,so,13,2,10,11,1,10,11,424,1562996580070,N,1252,1
+217,1,10,filler,filler_22,,/+/The girl's life was saved because the doctor acted so well./,Did the girl die?,N,,0,16,well.,14,2,11,11,1,11,11,647,1562996580718,N,1252,1
+217,1,11,target,target_4,G,/+/The convicted criminal * watched at the railway station * was * following the boy./,Did someone watch the criminal?,Y,,0,17,+,1,1,1,1,1,1,1,622,1562996583094,Y,8931,1
+217,1,11,target,target_4,G,/+/The convicted criminal * watched at the railway station * was * following the boy./,Did someone watch the criminal?,Y,,0,17,The,2,2,1,12,1,1,3,503,1562996583598,Y,8931,1
+217,1,11,target,target_4,G,/+/The convicted criminal * watched at the railway station * was * following the boy./,Did someone watch the criminal?,Y,,0,17,convicted,3,2,2,12,1,2,3,944,1562996584542,Y,8931,1
+217,1,11,target,target_4,G,/+/The convicted criminal * watched at the railway station * was * following the boy./,Did someone watch the criminal?,Y,,0,17,criminal,4,2,3,12,1,3,3,1672,1562996586214,Y,8931,1
+217,1,11,target,target_4,G,/+/The convicted criminal * watched at the railway station * was * following the boy./,Did someone watch the criminal?,Y,,0,17,watched,5,2,4,12,2,1,5,479,1562996586694,Y,8931,1
+217,1,11,target,target_4,G,/+/The convicted criminal * watched at the railway station * was * following the boy./,Did someone watch the criminal?,Y,,0,17,at,6,2,5,12,2,2,5,560,1562996587254,Y,8931,1
+217,1,11,target,target_4,G,/+/The convicted criminal * watched at the railway station * was * following the boy./,Did someone watch the criminal?,Y,,0,17,the,7,2,6,12,2,3,5,415,1562996587670,Y,8931,1
+217,1,11,target,target_4,G,/+/The convicted criminal * watched at the railway station * was * following the boy./,Did someone watch the criminal?,Y,,0,17,railway,8,2,7,12,2,4,5,768,1562996588438,Y,8931,1
+217,1,11,target,target_4,G,/+/The convicted criminal * watched at the railway station * was * following the boy./,Did someone watch the criminal?,Y,,0,17,station,9,2,8,12,2,5,5,71,1562996588510,Y,8931,1
+217,1,11,target,target_4,G,/+/The convicted criminal * watched at the railway station * was * following the boy./,Did someone watch the criminal?,Y,,0,17,was,10,2,9,12,3,1,1,815,1562996589326,Y,8931,1
+217,1,11,target,target_4,G,/+/The convicted criminal * watched at the railway station * was * following the boy./,Did someone watch the criminal?,Y,,0,17,following,11,2,10,12,4,1,3,807,1562996590134,Y,8931,1
+217,1,11,target,target_4,G,/+/The convicted criminal * watched at the railway station * was * following the boy./,Did someone watch the criminal?,Y,,0,17,the,12,2,11,12,4,2,3,456,1562996590590,Y,8931,1
+217,1,11,target,target_4,G,/+/The convicted criminal * watched at the railway station * was * following the boy./,Did someone watch the criminal?,Y,,0,17,boy.,13,2,12,12,4,3,3,479,1562996591070,Y,8931,1
+217,1,12,filler,filler_35,,/+/The company building was completed successfully in the third quarter./,Was the company building completed?,Y,,0,18,+,1,1,1,1,1,1,1,910,1562996601414,Y,2002,1
+217,1,12,filler,filler_35,,/+/The company building was completed successfully in the third quarter./,Was the company building completed?,Y,,0,18,The,2,2,1,10,1,1,10,664,1562996602078,Y,2002,1
+217,1,12,filler,filler_35,,/+/The company building was completed successfully in the third quarter./,Was the company building completed?,Y,,0,18,company,3,2,2,10,1,2,10,791,1562996602869,Y,2002,1
+217,1,12,filler,filler_35,,/+/The company building was completed successfully in the third quarter./,Was the company building completed?,Y,,0,18,building,4,2,3,10,1,3,10,568,1562996603438,Y,2002,1
+217,1,12,filler,filler_35,,/+/The company building was completed successfully in the third quarter./,Was the company building completed?,Y,,0,18,was,5,2,4,10,1,4,10,583,1562996604021,Y,2002,1
+217,1,12,filler,filler_35,,/+/The company building was completed successfully in the third quarter./,Was the company building completed?,Y,,0,18,completed,6,2,5,10,1,5,10,1353,1562996605374,Y,2002,1
+217,1,12,filler,filler_35,,/+/The company building was completed successfully in the third quarter./,Was the company building completed?,Y,,0,18,successfully,7,2,6,10,1,6,10,671,1562996606045,Y,2002,1
+217,1,12,filler,filler_35,,/+/The company building was completed successfully in the third quarter./,Was the company building completed?,Y,,0,18,in,8,2,7,10,1,7,10,401,1562996606446,Y,2002,1
+217,1,12,filler,filler_35,,/+/The company building was completed successfully in the third quarter./,Was the company building completed?,Y,,0,18,the,9,2,8,10,1,8,10,488,1562996606934,Y,2002,1
+217,1,12,filler,filler_35,,/+/The company building was completed successfully in the third quarter./,Was the company building completed?,Y,,0,18,third,10,2,9,10,1,9,10,376,1562996607310,Y,2002,1
+217,1,12,filler,filler_35,,/+/The company building was completed successfully in the third quarter./,Was the company building completed?,Y,,0,18,quarter.,11,2,10,10,1,10,10,480,1562996607790,Y,2002,1
+217,1,13,target,target_8,C,/+/The older kids * who were * showed all the dances * felt * amazed at the party./,Did the older kids show the dances?,N,,0,19,+,1,1,1,1,1,1,1,773,1562996611069,N,5339,1
+217,1,13,target,target_8,C,/+/The older kids * who were * showed all the dances * felt * amazed at the party./,Did the older kids show the dances?,N,,0,19,The,2,2,1,14,1,1,3,433,1562996611502,N,5339,1
+217,1,13,target,target_8,C,/+/The older kids * who were * showed all the dances * felt * amazed at the party./,Did the older kids show the dances?,N,,0,19,older,3,2,2,14,1,2,3,440,1562996611942,N,5339,1
+217,1,13,target,target_8,C,/+/The older kids * who were * showed all the dances * felt * amazed at the party./,Did the older kids show the dances?,N,,0,19,kids,4,2,3,14,1,3,3,455,1562996612397,N,5339,1
+217,1,13,target,target_8,C,/+/The older kids * who were * showed all the dances * felt * amazed at the party./,Did the older kids show the dances?,N,,0,19,who,5,2,4,14,2,1,2,529,1562996612926,N,5339,1
+217,1,13,target,target_8,C,/+/The older kids * who were * showed all the dances * felt * amazed at the party./,Did the older kids show the dances?,N,,0,19,were,6,2,5,14,2,2,2,472,1562996613398,N,5339,1
+217,1,13,target,target_8,C,/+/The older kids * who were * showed all the dances * felt * amazed at the party./,Did the older kids show the dances?,N,,0,19,showed,7,2,6,14,3,1,4,552,1562996613950,N,5339,1
+217,1,13,target,target_8,C,/+/The older kids * who were * showed all the dances * felt * amazed at the party./,Did the older kids show the dances?,N,,0,19,all,8,2,7,14,3,2,4,552,1562996614502,N,5339,1
+217,1,13,target,target_8,C,/+/The older kids * who were * showed all the dances * felt * amazed at the party./,Did the older kids show the dances?,N,,0,19,the,9,2,8,14,3,3,4,464,1562996614966,N,5339,1
+217,1,13,target,target_8,C,/+/The older kids * who were * showed all the dances * felt * amazed at the party./,Did the older kids show the dances?,N,,0,19,dances,10,2,9,14,3,4,4,1768,1562996616734,N,5339,1
+217,1,13,target,target_8,C,/+/The older kids * who were * showed all the dances * felt * amazed at the party./,Did the older kids show the dances?,N,,0,19,felt,11,2,10,14,4,1,1,447,1562996617181,N,5339,1
+217,1,13,target,target_8,C,/+/The older kids * who were * showed all the dances * felt * amazed at the party./,Did the older kids show the dances?,N,,0,19,amazed,12,2,11,14,5,1,4,529,1562996617710,N,5339,1
+217,1,13,target,target_8,C,/+/The older kids * who were * showed all the dances * felt * amazed at the party./,Did the older kids show the dances?,N,,0,19,at,13,2,12,14,5,2,4,503,1562996618213,N,5339,1
+217,1,13,target,target_8,C,/+/The older kids * who were * showed all the dances * felt * amazed at the party./,Did the older kids show the dances?,N,,0,19,the,14,2,13,14,5,3,4,769,1562996618982,N,5339,1
+217,1,13,target,target_8,C,/+/The older kids * who were * showed all the dances * felt * amazed at the party./,Did the older kids show the dances?,N,,0,19,party.,15,2,14,14,5,4,4,504,1562996619486,N,5339,1
+217,1,14,filler,filler_27,,/+/The letter that came this morning was from a friendly classmate./,Did the letter arrive this morning?,Y,,0,20,+,1,1,1,1,1,1,1,1943,1562996627270,Y,3091,1
+217,1,14,filler,filler_27,,/+/The letter that came this morning was from a friendly classmate./,Did the letter arrive this morning?,Y,,0,20,The,2,2,1,11,1,1,11,649,1562996627919,Y,3091,1
+217,1,14,filler,filler_27,,/+/The letter that came this morning was from a friendly classmate./,Did the letter arrive this morning?,Y,,0,20,letter,3,2,2,11,1,2,11,680,1562996628599,Y,3091,1
+217,1,14,filler,filler_27,,/+/The letter that came this morning was from a friendly classmate./,Did the letter arrive this morning?,Y,,0,20,that,4,2,3,11,1,3,11,520,1562996629119,Y,3091,1
+217,1,14,filler,filler_27,,/+/The letter that came this morning was from a friendly classmate./,Did the letter arrive this morning?,Y,,0,20,came,5,2,4,11,1,4,11,528,1562996629647,Y,3091,1
+217,1,14,filler,filler_27,,/+/The letter that came this morning was from a friendly classmate./,Did the letter arrive this morning?,Y,,0,20,this,6,2,5,11,1,5,11,464,1562996630111,Y,3091,1
+217,1,14,filler,filler_27,,/+/The letter that came this morning was from a friendly classmate./,Did the letter arrive this morning?,Y,,0,20,morning,7,2,6,11,1,6,11,648,1562996630759,Y,3091,1
+217,1,14,filler,filler_27,,/+/The letter that came this morning was from a friendly classmate./,Did the letter arrive this morning?,Y,,0,20,was,8,2,7,11,1,7,11,535,1562996631294,Y,3091,1
+217,1,14,filler,filler_27,,/+/The letter that came this morning was from a friendly classmate./,Did the letter arrive this morning?,Y,,0,20,from,9,2,8,11,1,8,11,809,1562996632103,Y,3091,1
+217,1,14,filler,filler_27,,/+/The letter that came this morning was from a friendly classmate./,Did the letter arrive this morning?,Y,,0,20,a,10,2,9,11,1,9,11,496,1562996632599,Y,3091,1
+217,1,14,filler,filler_27,,/+/The letter that came this morning was from a friendly classmate./,Did the letter arrive this morning?,Y,,0,20,friendly,11,2,10,11,1,10,11,520,1562996633119,Y,3091,1
+217,1,14,filler,filler_27,,/+/The letter that came this morning was from a friendly classmate./,Did the letter arrive this morning?,Y,,0,20,classmate.,12,2,11,11,1,11,11,584,1562996633703,Y,3091,1
+217,1,15,filler,filler_15,,/+/The book contained many useful information which could benefit the health./,Could the book be helpful for health?,Y,,0,21,+,1,1,1,1,1,1,1,1222,1562996638518,Y,2316,1
+217,1,15,filler,filler_15,,/+/The book contained many useful information which could benefit the health./,Could the book be helpful for health?,Y,,0,21,The,2,2,1,11,1,1,11,473,1562996638991,Y,2316,1
+217,1,15,filler,filler_15,,/+/The book contained many useful information which could benefit the health./,Could the book be helpful for health?,Y,,0,21,book,3,2,2,11,1,2,11,407,1562996639398,Y,2316,1
+217,1,15,filler,filler_15,,/+/The book contained many useful information which could benefit the health./,Could the book be helpful for health?,Y,,0,21,contained,4,2,3,11,1,3,11,432,1562996639831,Y,2316,1
+217,1,15,filler,filler_15,,/+/The book contained many useful information which could benefit the health./,Could the book be helpful for health?,Y,,0,21,many,5,2,4,11,1,4,11,480,1562996640311,Y,2316,1
+217,1,15,filler,filler_15,,/+/The book contained many useful information which could benefit the health./,Could the book be helpful for health?,Y,,0,21,useful,6,2,5,11,1,5,11,488,1562996640799,Y,2316,1
+217,1,15,filler,filler_15,,/+/The book contained many useful information which could benefit the health./,Could the book be helpful for health?,Y,,0,21,information,7,2,6,11,1,6,11,480,1562996641279,Y,2316,1
+217,1,15,filler,filler_15,,/+/The book contained many useful information which could benefit the health./,Could the book be helpful for health?,Y,,0,21,which,8,2,7,11,1,7,11,448,1562996641727,Y,2316,1
+217,1,15,filler,filler_15,,/+/The book contained many useful information which could benefit the health./,Could the book be helpful for health?,Y,,0,21,could,9,2,8,11,1,8,11,392,1562996642119,Y,2316,1
+217,1,15,filler,filler_15,,/+/The book contained many useful information which could benefit the health./,Could the book be helpful for health?,Y,,0,21,benefit,10,2,9,11,1,9,11,431,1562996642550,Y,2316,1
+217,1,15,filler,filler_15,,/+/The book contained many useful information which could benefit the health./,Could the book be helpful for health?,Y,,0,21,the,11,2,10,11,1,10,11,433,1562996642983,Y,2316,1
+217,1,15,filler,filler_15,,/+/The book contained many useful information which could benefit the health./,Could the book be helpful for health?,Y,,0,21,health.,12,2,11,11,1,11,11,471,1562996643454,Y,2316,1
+217,1,16,target,target_6,G,/+/The six volunteers * taught the complicated procedure * became * very good students./,Did the volunteers teach the procedure?,N,,0,22,+,1,1,1,1,1,1,1,527,1562996646799,N,2707,1
+217,1,16,target,target_6,G,/+/The six volunteers * taught the complicated procedure * became * very good students./,Did the volunteers teach the procedure?,N,,0,22,The,2,2,1,11,1,1,3,408,1562996647207,N,2707,1
+217,1,16,target,target_6,G,/+/The six volunteers * taught the complicated procedure * became * very good students./,Did the volunteers teach the procedure?,N,,0,22,six,3,2,2,11,1,2,3,423,1562996647630,N,2707,1
+217,1,16,target,target_6,G,/+/The six volunteers * taught the complicated procedure * became * very good students./,Did the volunteers teach the procedure?,N,,0,22,volunteers,4,2,3,11,1,3,3,713,1562996648343,N,2707,1
+217,1,16,target,target_6,G,/+/The six volunteers * taught the complicated procedure * became * very good students./,Did the volunteers teach the procedure?,N,,0,22,taught,5,2,4,11,2,1,4,632,1562996648975,N,2707,1
+217,1,16,target,target_6,G,/+/The six volunteers * taught the complicated procedure * became * very good students./,Did the volunteers teach the procedure?,N,,0,22,the,6,2,5,11,2,2,4,711,1562996649686,N,2707,1
+217,1,16,target,target_6,G,/+/The six volunteers * taught the complicated procedure * became * very good students./,Did the volunteers teach the procedure?,N,,0,22,complicated,7,2,6,11,2,3,4,912,1562996650598,N,2707,1
+217,1,16,target,target_6,G,/+/The six volunteers * taught the complicated procedure * became * very good students./,Did the volunteers teach the procedure?,N,,0,22,procedure,8,2,7,11,2,4,4,3281,1562996653879,N,2707,1
+217,1,16,target,target_6,G,/+/The six volunteers * taught the complicated procedure * became * very good students./,Did the volunteers teach the procedure?,N,,0,22,complicated,9,2,6,11,2,3,4,312,1562996654191,N,2707,1
+217,1,16,target,target_6,G,/+/The six volunteers * taught the complicated procedure * became * very good students./,Did the volunteers teach the procedure?,N,,0,22,the,10,2,5,11,2,2,4,392,1562996654583,N,2707,1
+217,1,16,target,target_6,G,/+/The six volunteers * taught the complicated procedure * became * very good students./,Did the volunteers teach the procedure?,N,,0,22,taught,11,2,4,11,2,1,4,760,1562996655343,N,2707,1
+217,1,16,target,target_6,G,/+/The six volunteers * taught the complicated procedure * became * very good students./,Did the volunteers teach the procedure?,N,,0,22,the,12,2,5,11,2,2,4,247,1562996655590,N,2707,1
+217,1,16,target,target_6,G,/+/The six volunteers * taught the complicated procedure * became * very good students./,Did the volunteers teach the procedure?,N,,0,22,complicated,13,2,6,11,2,3,4,336,1562996655927,N,2707,1
+217,1,16,target,target_6,G,/+/The six volunteers * taught the complicated procedure * became * very good students./,Did the volunteers teach the procedure?,N,,0,22,procedure,14,2,7,11,2,4,4,400,1562996656327,N,2707,1
+217,1,16,target,target_6,G,/+/The six volunteers * taught the complicated procedure * became * very good students./,Did the volunteers teach the procedure?,N,,0,22,became,15,2,8,11,3,1,1,463,1562996656790,N,2707,1
+217,1,16,target,target_6,G,/+/The six volunteers * taught the complicated procedure * became * very good students./,Did the volunteers teach the procedure?,N,,0,22,very,16,2,9,11,4,1,3,401,1562996657191,N,2707,1
+217,1,16,target,target_6,G,/+/The six volunteers * taught the complicated procedure * became * very good students./,Did the volunteers teach the procedure?,N,,0,22,good,17,2,10,11,4,2,3,487,1562996657678,N,2707,1
+217,1,16,target,target_6,G,/+/The six volunteers * taught the complicated procedure * became * very good students./,Did the volunteers teach the procedure?,N,,0,22,students.,18,2,11,11,4,3,3,681,1562996658359,N,2707,1
+217,1,17,filler,filler_5,,/+/The author said that the new book was based on a real story./,Was the book entirely imaginary? ,N,,0,23,+,1,1,1,1,1,1,1,1407,1562996662975,N,3204,1
+217,1,17,filler,filler_5,,/+/The author said that the new book was based on a real story./,Was the book entirely imaginary? ,N,,0,23,The,2,2,1,13,1,1,13,464,1562996663439,N,3204,1
+217,1,17,filler,filler_5,,/+/The author said that the new book was based on a real story./,Was the book entirely imaginary? ,N,,0,23,author,3,2,2,13,1,2,13,824,1562996664263,N,3204,1
+217,1,17,filler,filler_5,,/+/The author said that the new book was based on a real story./,Was the book entirely imaginary? ,N,,0,23,said,4,2,3,13,1,3,13,535,1562996664798,N,3204,1
+217,1,17,filler,filler_5,,/+/The author said that the new book was based on a real story./,Was the book entirely imaginary? ,N,,0,23,that,5,2,4,13,1,4,13,561,1562996665359,N,3204,1
+217,1,17,filler,filler_5,,/+/The author said that the new book was based on a real story./,Was the book entirely imaginary? ,N,,0,23,the,6,2,5,13,1,5,13,543,1562996665902,N,3204,1
+217,1,17,filler,filler_5,,/+/The author said that the new book was based on a real story./,Was the book entirely imaginary? ,N,,0,23,new,7,2,6,13,1,6,13,505,1562996666407,N,3204,1
+217,1,17,filler,filler_5,,/+/The author said that the new book was based on a real story./,Was the book entirely imaginary? ,N,,0,23,book,8,2,7,13,1,7,13,519,1562996666926,N,3204,1
+217,1,17,filler,filler_5,,/+/The author said that the new book was based on a real story./,Was the book entirely imaginary? ,N,,0,23,was,9,2,8,13,1,8,13,529,1562996667455,N,3204,1
+217,1,17,filler,filler_5,,/+/The author said that the new book was based on a real story./,Was the book entirely imaginary? ,N,,0,23,based,10,2,9,13,1,9,13,495,1562996667950,N,3204,1
+217,1,17,filler,filler_5,,/+/The author said that the new book was based on a real story./,Was the book entirely imaginary? ,N,,0,23,on,11,2,10,13,1,10,13,529,1562996668479,N,3204,1
+217,1,17,filler,filler_5,,/+/The author said that the new book was based on a real story./,Was the book entirely imaginary? ,N,,0,23,a,12,2,11,13,1,11,13,471,1562996668950,N,3204,1
+217,1,17,filler,filler_5,,/+/The author said that the new book was based on a real story./,Was the book entirely imaginary? ,N,,0,23,real,13,2,12,13,1,12,13,809,1562996669759,N,3204,1
+217,1,17,filler,filler_5,,/+/The author said that the new book was based on a real story./,Was the book entirely imaginary? ,N,,0,23,story.,14,2,13,13,1,13,13,680,1562996670439,N,3204,1
+217,1,18,filler,filler_38,,/+/The gatekeeper refused to hand over the door key to the man./,Did the gatekeeper refuse to hand over the key?,Y,,0,24,+,1,1,1,1,1,1,1,1894,1562996676038,Y,3396,1
+217,1,18,filler,filler_38,,/+/The gatekeeper refused to hand over the door key to the man./,Did the gatekeeper refuse to hand over the key?,Y,,0,24,The,2,2,1,12,1,1,12,512,1562996676550,Y,3396,1
+217,1,18,filler,filler_38,,/+/The gatekeeper refused to hand over the door key to the man./,Did the gatekeeper refuse to hand over the key?,Y,,0,24,gatekeeper,3,2,2,12,1,2,12,1159,1562996677710,Y,3396,1
+217,1,18,filler,filler_38,,/+/The gatekeeper refused to hand over the door key to the man./,Did the gatekeeper refuse to hand over the key?,Y,,0,24,refused,4,2,3,12,1,3,12,1231,1562996678942,Y,3396,1
+217,1,18,filler,filler_38,,/+/The gatekeeper refused to hand over the door key to the man./,Did the gatekeeper refuse to hand over the key?,Y,,0,24,to,5,2,4,12,1,4,12,392,1562996679334,Y,3396,1
+217,1,18,filler,filler_38,,/+/The gatekeeper refused to hand over the door key to the man./,Did the gatekeeper refuse to hand over the key?,Y,,0,24,hand,6,2,5,12,1,5,12,423,1562996679758,Y,3396,1
+217,1,18,filler,filler_38,,/+/The gatekeeper refused to hand over the door key to the man./,Did the gatekeeper refuse to hand over the key?,Y,,0,24,over,7,2,6,12,1,6,12,399,1562996680158,Y,3396,1
+217,1,18,filler,filler_38,,/+/The gatekeeper refused to hand over the door key to the man./,Did the gatekeeper refuse to hand over the key?,Y,,0,24,the,8,2,7,12,1,7,12,359,1562996680518,Y,3396,1
+217,1,18,filler,filler_38,,/+/The gatekeeper refused to hand over the door key to the man./,Did the gatekeeper refuse to hand over the key?,Y,,0,24,door,9,2,8,12,1,8,12,431,1562996680950,Y,3396,1
+217,1,18,filler,filler_38,,/+/The gatekeeper refused to hand over the door key to the man./,Did the gatekeeper refuse to hand over the key?,Y,,0,24,key,10,2,9,12,1,9,12,463,1562996681414,Y,3396,1
+217,1,18,filler,filler_38,,/+/The gatekeeper refused to hand over the door key to the man./,Did the gatekeeper refuse to hand over the key?,Y,,0,24,to,11,2,10,12,1,10,12,447,1562996681862,Y,3396,1
+217,1,18,filler,filler_38,,/+/The gatekeeper refused to hand over the door key to the man./,Did the gatekeeper refuse to hand over the key?,Y,,0,24,the,12,2,11,12,1,11,12,383,1562996682246,Y,3396,1
+217,1,18,filler,filler_38,,/+/The gatekeeper refused to hand over the door key to the man./,Did the gatekeeper refuse to hand over the key?,Y,,0,24,man.,13,2,12,12,1,12,12,423,1562996682670,Y,3396,1
+217,1,19,filler,filler_37,,/+/The tiger was caught after it ate two persons within one week./,Was the tiger caught?,Y,,0,25,+,1,1,1,1,1,1,1,1134,1562996687711,Y,4867,1
+217,1,19,filler,filler_37,,/+/The tiger was caught after it ate two persons within one week./,Was the tiger caught?,Y,,0,25,The,2,2,1,12,1,1,12,656,1562996688367,Y,4867,1
+217,1,19,filler,filler_37,,/+/The tiger was caught after it ate two persons within one week./,Was the tiger caught?,Y,,0,25,tiger,3,2,2,12,1,2,12,464,1562996688831,Y,4867,1
+217,1,19,filler,filler_37,,/+/The tiger was caught after it ate two persons within one week./,Was the tiger caught?,Y,,0,25,was,4,2,3,12,1,3,12,431,1562996689262,Y,4867,1
+217,1,19,filler,filler_37,,/+/The tiger was caught after it ate two persons within one week./,Was the tiger caught?,Y,,0,25,caught,5,2,4,12,1,4,12,449,1562996689711,Y,4867,1
+217,1,19,filler,filler_37,,/+/The tiger was caught after it ate two persons within one week./,Was the tiger caught?,Y,,0,25,after,6,2,5,12,1,5,12,487,1562996690198,Y,4867,1
+217,1,19,filler,filler_37,,/+/The tiger was caught after it ate two persons within one week./,Was the tiger caught?,Y,,0,25,it,7,2,6,12,1,6,12,1153,1562996691351,Y,4867,1
+217,1,19,filler,filler_37,,/+/The tiger was caught after it ate two persons within one week./,Was the tiger caught?,Y,,0,25,ate,8,2,7,12,1,7,12,496,1562996691847,Y,4867,1
+217,1,19,filler,filler_37,,/+/The tiger was caught after it ate two persons within one week./,Was the tiger caught?,Y,,0,25,two,9,2,8,12,1,8,12,560,1562996692407,Y,4867,1
+217,1,19,filler,filler_37,,/+/The tiger was caught after it ate two persons within one week./,Was the tiger caught?,Y,,0,25,persons,10,2,9,12,1,9,12,664,1562996693071,Y,4867,1
+217,1,19,filler,filler_37,,/+/The tiger was caught after it ate two persons within one week./,Was the tiger caught?,Y,,0,25,within,11,2,10,12,1,10,12,520,1562996693591,Y,4867,1
+217,1,19,filler,filler_37,,/+/The tiger was caught after it ate two persons within one week./,Was the tiger caught?,Y,,0,25,one,12,2,11,12,1,11,12,512,1562996694103,Y,4867,1
+217,1,19,filler,filler_37,,/+/The tiger was caught after it ate two persons within one week./,Was the tiger caught?,Y,,0,25,week.,13,2,12,12,1,12,12,496,1562996694599,Y,4867,1
+217,1,20,target,target_7,C,/+/The old man * who was * advised on the special diet * has * not responded./,Did the old man advise on the diet?,N,,0,26,+,1,1,1,1,1,1,1,438,1562996700406,N,7932,1
+217,1,20,target,target_7,C,/+/The old man * who was * advised on the special diet * has * not responded./,Did the old man advise on the diet?,N,,0,26,The,2,2,1,13,1,1,3,449,1562996700855,N,7932,1
+217,1,20,target,target_7,C,/+/The old man * who was * advised on the special diet * has * not responded./,Did the old man advise on the diet?,N,,0,26,old,3,2,2,13,1,2,3,503,1562996701358,N,7932,1
+217,1,20,target,target_7,C,/+/The old man * who was * advised on the special diet * has * not responded./,Did the old man advise on the diet?,N,,0,26,man,4,2,3,13,1,3,3,425,1562996701783,N,7932,1
+217,1,20,target,target_7,C,/+/The old man * who was * advised on the special diet * has * not responded./,Did the old man advise on the diet?,N,,0,26,who,5,2,4,13,2,1,2,487,1562996702270,N,7932,1
+217,1,20,target,target_7,C,/+/The old man * who was * advised on the special diet * has * not responded./,Did the old man advise on the diet?,N,,0,26,was,6,2,5,13,2,2,2,465,1562996702735,N,7932,1
+217,1,20,target,target_7,C,/+/The old man * who was * advised on the special diet * has * not responded./,Did the old man advise on the diet?,N,,0,26,advised,7,2,6,13,3,1,5,727,1562996703462,N,7932,1
+217,1,20,target,target_7,C,/+/The old man * who was * advised on the special diet * has * not responded./,Did the old man advise on the diet?,N,,0,26,on,8,2,7,13,3,2,5,1313,1562996704775,N,7932,1
+217,1,20,target,target_7,C,/+/The old man * who was * advised on the special diet * has * not responded./,Did the old man advise on the diet?,N,,0,26,the,9,2,8,13,3,3,5,535,1562996705310,N,7932,1
+217,1,20,target,target_7,C,/+/The old man * who was * advised on the special diet * has * not responded./,Did the old man advise on the diet?,N,,0,26,special,10,2,9,13,3,4,5,689,1562996705999,N,7932,1
+217,1,20,target,target_7,C,/+/The old man * who was * advised on the special diet * has * not responded./,Did the old man advise on the diet?,N,,0,26,diet,11,2,10,13,3,5,5,495,1562996706494,N,7932,1
+217,1,20,target,target_7,C,/+/The old man * who was * advised on the special diet * has * not responded./,Did the old man advise on the diet?,N,,0,26,has,12,2,11,13,4,1,1,457,1562996706951,N,7932,1
+217,1,20,target,target_7,C,/+/The old man * who was * advised on the special diet * has * not responded./,Did the old man advise on the diet?,N,,0,26,not,13,2,12,13,5,1,2,487,1562996707438,N,7932,1
+217,1,20,target,target_7,C,/+/The old man * who was * advised on the special diet * has * not responded./,Did the old man advise on the diet?,N,,0,26,responded.,14,2,13,13,5,2,2,1008,1562996708446,N,7932,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,+,1,1,1,1,1,1,1,622,1562996717502,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,The,2,2,1,14,1,1,14,808,1562996718310,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,actual,3,2,2,14,1,2,14,887,1562996719198,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,price,4,2,3,14,1,3,14,519,1562996719718,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,of,5,2,4,14,1,4,14,561,1562996720279,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,the,6,2,5,14,1,5,14,519,1562996720798,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,clothes,7,2,6,14,1,6,14,559,1562996721358,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,was,8,2,7,14,1,7,14,1087,1562996722446,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,much,9,2,8,14,1,8,14,559,1562996723006,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,higher,10,2,9,14,1,9,14,743,1562996723750,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,than,11,2,10,14,1,10,14,584,1562996724334,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,the,12,2,11,14,1,11,14,487,1562996724822,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,man,13,2,12,14,1,12,14,495,1562996725318,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,had,14,2,13,14,1,13,14,1879,1562996727198,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,man,15,2,12,14,1,12,14,499,1562996727698,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,the,16,2,11,14,1,11,14,32,1562996727730,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,than,17,2,10,14,1,10,14,33,1562996727764,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,higher,18,2,9,14,1,9,14,32,1562996727796,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,much,19,2,8,14,1,8,14,33,1562996727830,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,was,20,2,7,14,1,7,14,33,1562996727863,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,clothes,21,2,6,14,1,6,14,33,1562996727896,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,the,22,2,5,14,1,5,14,494,1562996728390,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,of,23,2,4,14,1,4,14,399,1562996728790,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,price,24,2,3,14,1,3,14,808,1562996729598,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,actual,25,2,2,14,1,2,14,279,1562996729878,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,The,26,2,1,14,1,1,14,536,1562996730414,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,actual,27,2,2,14,1,2,14,495,1562996730910,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,price,28,2,3,14,1,3,14,1111,1562996732022,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,of,29,2,4,14,1,4,14,255,1562996732278,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,the,30,2,5,14,1,5,14,327,1562996732606,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,clothes,31,2,6,14,1,6,14,351,1562996732958,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,was,32,2,7,14,1,7,14,384,1562996733342,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,much,33,2,8,14,1,8,14,231,1562996733574,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,higher,34,2,9,14,1,9,14,383,1562996733958,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,than,35,2,10,14,1,10,14,279,1562996734238,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,the,36,2,11,14,1,11,14,304,1562996734542,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,man,37,2,12,14,1,12,14,279,1562996734822,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,had,38,2,13,14,1,13,14,312,1562996735134,N,3722,1
+217,1,21,filler,filler_18,,/+/The actual price of the clothes was much higher than the man had expected./,Was the price of the clothes low?,N,,0,27,expected.,39,2,14,14,1,14,14,615,1562996735750,N,3722,1
+217,1,22,target,target_9,G,/+/The famous scientist * awarded an academic prize * expressed * his excitement./,Did the scientist award a prize？,N,,0,28,+,1,1,1,1,1,1,1,1239,1562996741214,Y,4955,0
+217,1,22,target,target_9,G,/+/The famous scientist * awarded an academic prize * expressed * his excitement./,Did the scientist award a prize？,N,,0,28,The,2,2,1,10,1,1,3,480,1562996741694,Y,4955,0
+217,1,22,target,target_9,G,/+/The famous scientist * awarded an academic prize * expressed * his excitement./,Did the scientist award a prize？,N,,0,28,famous,3,2,2,10,1,2,3,503,1562996742198,Y,4955,0
+217,1,22,target,target_9,G,/+/The famous scientist * awarded an academic prize * expressed * his excitement./,Did the scientist award a prize？,N,,0,28,scientist,4,2,3,10,1,3,3,504,1562996742702,Y,4955,0
+217,1,22,target,target_9,G,/+/The famous scientist * awarded an academic prize * expressed * his excitement./,Did the scientist award a prize？,N,,0,28,awarded,5,2,4,10,2,1,4,2056,1562996744758,Y,4955,0
+217,1,22,target,target_9,G,/+/The famous scientist * awarded an academic prize * expressed * his excitement./,Did the scientist award a prize？,N,,0,28,an,6,2,5,10,2,2,4,600,1562996745358,Y,4955,0
+217,1,22,target,target_9,G,/+/The famous scientist * awarded an academic prize * expressed * his excitement./,Did the scientist award a prize？,N,,0,28,academic,7,2,6,10,2,3,4,719,1562996746077,Y,4955,0
+217,1,22,target,target_9,G,/+/The famous scientist * awarded an academic prize * expressed * his excitement./,Did the scientist award a prize？,N,,0,28,prize,8,2,7,10,2,4,4,506,1562996746583,Y,4955,0
+217,1,22,target,target_9,G,/+/The famous scientist * awarded an academic prize * expressed * his excitement./,Did the scientist award a prize？,N,,0,28,expressed,9,2,8,10,3,1,1,672,1562996747255,Y,4955,0
+217,1,22,target,target_9,G,/+/The famous scientist * awarded an academic prize * expressed * his excitement./,Did the scientist award a prize？,N,,0,28,his,10,2,9,10,4,1,2,544,1562996747799,Y,4955,0
+217,1,22,target,target_9,G,/+/The famous scientist * awarded an academic prize * expressed * his excitement./,Did the scientist award a prize？,N,,0,28,excitement.,11,2,10,10,4,2,2,2120,1562996749919,Y,4955,0
+217,1,23,filler,filler_2,,/+/The small town near Taipei was famous for its rich seafood resources./,Was the small town famous?,Y,,0,29,+,1,1,1,1,1,1,1,1247,1562996756623,Y,1307,1
+217,1,23,filler,filler_2,,/+/The small town near Taipei was famous for its rich seafood resources./,Was the small town famous?,Y,,0,29,The,2,2,1,12,1,1,12,503,1562996757126,Y,1307,1
+217,1,23,filler,filler_2,,/+/The small town near Taipei was famous for its rich seafood resources./,Was the small town famous?,Y,,0,29,small,3,2,2,12,1,2,12,408,1562996757534,Y,1307,1
+217,1,23,filler,filler_2,,/+/The small town near Taipei was famous for its rich seafood resources./,Was the small town famous?,Y,,0,29,town,4,2,3,12,1,3,12,456,1562996757990,Y,1307,1
+217,1,23,filler,filler_2,,/+/The small town near Taipei was famous for its rich seafood resources./,Was the small town famous?,Y,,0,29,near,5,2,4,12,1,4,12,585,1562996758575,Y,1307,1
+217,1,23,filler,filler_2,,/+/The small town near Taipei was famous for its rich seafood resources./,Was the small town famous?,Y,,0,29,Taipei,6,2,5,12,1,5,12,1647,1562996760222,Y,1307,1
+217,1,23,filler,filler_2,,/+/The small town near Taipei was famous for its rich seafood resources./,Was the small town famous?,Y,,0,29,was,7,2,6,12,1,6,12,505,1562996760727,Y,1307,1
+217,1,23,filler,filler_2,,/+/The small town near Taipei was famous for its rich seafood resources./,Was the small town famous?,Y,,0,29,famous,8,2,7,12,1,7,12,519,1562996761246,Y,1307,1
+217,1,23,filler,filler_2,,/+/The small town near Taipei was famous for its rich seafood resources./,Was the small town famous?,Y,,0,29,for,9,2,8,12,1,8,12,465,1562996761711,Y,1307,1
+217,1,23,filler,filler_2,,/+/The small town near Taipei was famous for its rich seafood resources./,Was the small town famous?,Y,,0,29,its,10,2,9,12,1,9,12,360,1562996762071,Y,1307,1
+217,1,23,filler,filler_2,,/+/The small town near Taipei was famous for its rich seafood resources./,Was the small town famous?,Y,,0,29,rich,11,2,10,12,1,10,12,392,1562996762463,Y,1307,1
+217,1,23,filler,filler_2,,/+/The small town near Taipei was famous for its rich seafood resources./,Was the small town famous?,Y,,0,29,seafood,12,2,11,12,1,11,12,584,1562996763047,Y,1307,1
+217,1,23,filler,filler_2,,/+/The small town near Taipei was famous for its rich seafood resources./,Was the small town famous?,Y,,0,29,resources.,13,2,12,12,1,12,12,664,1562996763711,Y,1307,1
+217,1,24,filler,filler_30,,/+/The pop star contributed four million to the Hope project yesterday./,Did the pop star donate money yesterday?,Y,,0,30,+,1,1,1,1,1,1,1,1959,1562996767479,Y,3059,1
+217,1,24,filler,filler_30,,/+/The pop star contributed four million to the Hope project yesterday./,Did the pop star donate money yesterday?,Y,,0,30,The,2,2,1,11,1,1,11,408,1562996767887,Y,3059,1
+217,1,24,filler,filler_30,,/+/The pop star contributed four million to the Hope project yesterday./,Did the pop star donate money yesterday?,Y,,0,30,pop,3,2,2,11,1,2,11,367,1562996768254,Y,3059,1
+217,1,24,filler,filler_30,,/+/The pop star contributed four million to the Hope project yesterday./,Did the pop star donate money yesterday?,Y,,0,30,star,4,2,3,11,1,3,11,425,1562996768679,Y,3059,1
+217,1,24,filler,filler_30,,/+/The pop star contributed four million to the Hope project yesterday./,Did the pop star donate money yesterday?,Y,,0,30,contributed,5,2,4,11,1,4,11,1432,1562996770111,Y,3059,1
+217,1,24,filler,filler_30,,/+/The pop star contributed four million to the Hope project yesterday./,Did the pop star donate money yesterday?,Y,,0,30,four,6,2,5,11,1,5,11,384,1562996770495,Y,3059,1
+217,1,24,filler,filler_30,,/+/The pop star contributed four million to the Hope project yesterday./,Did the pop star donate money yesterday?,Y,,0,30,million,7,2,6,11,1,6,11,384,1562996770879,Y,3059,1
+217,1,24,filler,filler_30,,/+/The pop star contributed four million to the Hope project yesterday./,Did the pop star donate money yesterday?,Y,,0,30,to,8,2,7,11,1,7,11,383,1562996771262,Y,3059,1
+217,1,24,filler,filler_30,,/+/The pop star contributed four million to the Hope project yesterday./,Did the pop star donate money yesterday?,Y,,0,30,the,9,2,8,11,1,8,11,417,1562996771679,Y,3059,1
+217,1,24,filler,filler_30,,/+/The pop star contributed four million to the Hope project yesterday./,Did the pop star donate money yesterday?,Y,,0,30,Hope,10,2,9,11,1,9,11,448,1562996772127,Y,3059,1
+217,1,24,filler,filler_30,,/+/The pop star contributed four million to the Hope project yesterday./,Did the pop star donate money yesterday?,Y,,0,30,project,11,2,10,11,1,10,11,912,1562996773039,Y,3059,1
+217,1,24,filler,filler_30,,/+/The pop star contributed four million to the Hope project yesterday./,Did the pop star donate money yesterday?,Y,,0,30,yesterday.,12,2,11,11,1,11,11,664,1562996773703,Y,3059,1
+217,1,25,target,target_10,C,/+/The skilled hunters * who were * stopped killing wild animals * ended up * in prison./,Did somebody stop the hunters from killing?,Y,,0,31,+,1,1,1,1,1,1,1,1047,1562996778311,Y,4188,1
+217,1,25,target,target_10,C,/+/The skilled hunters * who were * stopped killing wild animals * ended up * in prison./,Did somebody stop the hunters from killing?,Y,,0,31,The,2,2,1,13,1,1,3,496,1562996778807,Y,4188,1
+217,1,25,target,target_10,C,/+/The skilled hunters * who were * stopped killing wild animals * ended up * in prison./,Did somebody stop the hunters from killing?,Y,,0,31,skilled,3,2,2,13,1,2,3,776,1562996779583,Y,4188,1
+217,1,25,target,target_10,C,/+/The skilled hunters * who were * stopped killing wild animals * ended up * in prison./,Did somebody stop the hunters from killing?,Y,,0,31,hunters,4,2,3,13,1,3,3,1320,1562996780903,Y,4188,1
+217,1,25,target,target_10,C,/+/The skilled hunters * who were * stopped killing wild animals * ended up * in prison./,Did somebody stop the hunters from killing?,Y,,0,31,who,5,2,4,13,2,1,2,704,1562996781607,Y,4188,1
+217,1,25,target,target_10,C,/+/The skilled hunters * who were * stopped killing wild animals * ended up * in prison./,Did somebody stop the hunters from killing?,Y,,0,31,were,6,2,5,13,2,2,2,528,1562996782135,Y,4188,1
+217,1,25,target,target_10,C,/+/The skilled hunters * who were * stopped killing wild animals * ended up * in prison./,Did somebody stop the hunters from killing?,Y,,0,31,stopped,7,2,6,13,3,1,4,576,1562996782711,Y,4188,1
+217,1,25,target,target_10,C,/+/The skilled hunters * who were * stopped killing wild animals * ended up * in prison./,Did somebody stop the hunters from killing?,Y,,0,31,killing,8,2,7,13,3,2,4,584,1562996783295,Y,4188,1
+217,1,25,target,target_10,C,/+/The skilled hunters * who were * stopped killing wild animals * ended up * in prison./,Did somebody stop the hunters from killing?,Y,,0,31,wild,9,2,8,13,3,3,4,872,1562996784167,Y,4188,1
+217,1,25,target,target_10,C,/+/The skilled hunters * who were * stopped killing wild animals * ended up * in prison./,Did somebody stop the hunters from killing?,Y,,0,31,animals,10,2,9,13,3,4,4,808,1562996784975,Y,4188,1
+217,1,25,target,target_10,C,/+/The skilled hunters * who were * stopped killing wild animals * ended up * in prison./,Did somebody stop the hunters from killing?,Y,,0,31,ended,11,2,10,13,4,1,2,1296,1562996786271,Y,4188,1
+217,1,25,target,target_10,C,/+/The skilled hunters * who were * stopped killing wild animals * ended up * in prison./,Did somebody stop the hunters from killing?,Y,,0,31,up,12,2,11,13,4,2,2,496,1562996786767,Y,4188,1
+217,1,25,target,target_10,C,/+/The skilled hunters * who were * stopped killing wild animals * ended up * in prison./,Did somebody stop the hunters from killing?,Y,,0,31,in,13,2,12,13,5,1,2,375,1562996787142,Y,4188,1
+217,1,25,target,target_10,C,/+/The skilled hunters * who were * stopped killing wild animals * ended up * in prison./,Did somebody stop the hunters from killing?,Y,,0,31,prison.,14,2,13,13,5,2,2,3456,1562996790598,Y,4188,1
+217,1,26,filler,filler_21,,/+/The employees were willing to work in a nice environment./,Did the employees want to work in a poor environment?,N,,0,32,+,1,1,1,1,1,1,1,1119,1562996796407,N,2394,1
+217,1,26,filler,filler_21,,/+/The employees were willing to work in a nice environment./,Did the employees want to work in a poor environment?,N,,0,32,The,2,2,1,10,1,1,10,864,1562996797271,N,2394,1
+217,1,26,filler,filler_21,,/+/The employees were willing to work in a nice environment./,Did the employees want to work in a poor environment?,N,,0,32,employees,3,2,2,10,1,2,10,1120,1562996798391,N,2394,1
+217,1,26,filler,filler_21,,/+/The employees were willing to work in a nice environment./,Did the employees want to work in a poor environment?,N,,0,32,were,4,2,3,10,1,3,10,504,1562996798895,N,2394,1
+217,1,26,filler,filler_21,,/+/The employees were willing to work in a nice environment./,Did the employees want to work in a poor environment?,N,,0,32,willing,5,2,4,10,1,4,10,592,1562996799487,N,2394,1
+217,1,26,filler,filler_21,,/+/The employees were willing to work in a nice environment./,Did the employees want to work in a poor environment?,N,,0,32,to,6,2,5,10,1,5,10,432,1562996799919,N,2394,1
+217,1,26,filler,filler_21,,/+/The employees were willing to work in a nice environment./,Did the employees want to work in a poor environment?,N,,0,32,work,7,2,6,10,1,6,10,440,1562996800359,N,2394,1
+217,1,26,filler,filler_21,,/+/The employees were willing to work in a nice environment./,Did the employees want to work in a poor environment?,N,,0,32,in,8,2,7,10,1,7,10,471,1562996800830,N,2394,1
+217,1,26,filler,filler_21,,/+/The employees were willing to work in a nice environment./,Did the employees want to work in a poor environment?,N,,0,32,a,9,2,8,10,1,8,10,360,1562996801190,N,2394,1
+217,1,26,filler,filler_21,,/+/The employees were willing to work in a nice environment./,Did the employees want to work in a poor environment?,N,,0,32,nice,10,2,9,10,1,9,10,481,1562996801671,N,2394,1
+217,1,26,filler,filler_21,,/+/The employees were willing to work in a nice environment./,Did the employees want to work in a poor environment?,N,,0,32,environment.,11,2,10,10,1,10,10,1288,1562996802959,N,2394,1
+217,1,27,filler,filler_20,,/+/The woman's pretty dress was burned by those naughty boys./,Was the dress burned by the boys?,Y,,0,33,+,1,1,1,1,1,1,1,937,1562996806791,Y,3588,1
+217,1,27,filler,filler_20,,/+/The woman's pretty dress was burned by those naughty boys./,Was the dress burned by the boys?,Y,,0,33,The,2,2,1,10,1,1,10,504,1562996807295,Y,3588,1
+217,1,27,filler,filler_20,,/+/The woman's pretty dress was burned by those naughty boys./,Was the dress burned by the boys?,Y,,0,33,woman's,3,2,2,10,1,2,10,840,1562996808135,Y,3588,1
+217,1,27,filler,filler_20,,/+/The woman's pretty dress was burned by those naughty boys./,Was the dress burned by the boys?,Y,,0,33,pretty,4,2,3,10,1,3,10,631,1562996808767,Y,3588,1
+217,1,27,filler,filler_20,,/+/The woman's pretty dress was burned by those naughty boys./,Was the dress burned by the boys?,Y,,0,33,dress,5,2,4,10,1,4,10,544,1562996809311,Y,3588,1
+217,1,27,filler,filler_20,,/+/The woman's pretty dress was burned by those naughty boys./,Was the dress burned by the boys?,Y,,0,33,was,6,2,5,10,1,5,10,552,1562996809863,Y,3588,1
+217,1,27,filler,filler_20,,/+/The woman's pretty dress was burned by those naughty boys./,Was the dress burned by the boys?,Y,,0,33,burned,7,2,6,10,1,6,10,704,1562996810567,Y,3588,1
+217,1,27,filler,filler_20,,/+/The woman's pretty dress was burned by those naughty boys./,Was the dress burned by the boys?,Y,,0,33,by,8,2,7,10,1,7,10,568,1562996811135,Y,3588,1
+217,1,27,filler,filler_20,,/+/The woman's pretty dress was burned by those naughty boys./,Was the dress burned by the boys?,Y,,0,33,those,9,2,8,10,1,8,10,472,1562996811607,Y,3588,1
+217,1,27,filler,filler_20,,/+/The woman's pretty dress was burned by those naughty boys./,Was the dress burned by the boys?,Y,,0,33,naughty,10,2,9,10,1,9,10,760,1562996812367,Y,3588,1
+217,1,27,filler,filler_20,,/+/The woman's pretty dress was burned by those naughty boys./,Was the dress burned by the boys?,Y,,0,33,boys.,11,2,10,10,1,10,10,495,1562996812862,Y,3588,1
+217,1,28,filler,filler_36,,/+/The biology expert argued that wild animals should be protected now./,Did the biology expert argue to pretect wild animals?,Y,,0,34,+,1,1,1,1,1,1,1,1376,1562996818327,Y,4923,1
+217,1,28,filler,filler_36,,/+/The biology expert argued that wild animals should be protected now./,Did the biology expert argue to pretect wild animals?,Y,,0,34,The,2,2,1,11,1,1,11,408,1562996818735,Y,4923,1
+217,1,28,filler,filler_36,,/+/The biology expert argued that wild animals should be protected now./,Did the biology expert argue to pretect wild animals?,Y,,0,34,biology,3,2,2,11,1,2,11,904,1562996819639,Y,4923,1
+217,1,28,filler,filler_36,,/+/The biology expert argued that wild animals should be protected now./,Did the biology expert argue to pretect wild animals?,Y,,0,34,expert,4,2,3,11,1,3,11,455,1562996820094,Y,4923,1
+217,1,28,filler,filler_36,,/+/The biology expert argued that wild animals should be protected now./,Did the biology expert argue to pretect wild animals?,Y,,0,34,argued,5,2,4,11,1,4,11,737,1562996820831,Y,4923,1
+217,1,28,filler,filler_36,,/+/The biology expert argued that wild animals should be protected now./,Did the biology expert argue to pretect wild animals?,Y,,0,34,that,6,2,5,11,1,5,11,528,1562996821359,Y,4923,1
+217,1,28,filler,filler_36,,/+/The biology expert argued that wild animals should be protected now./,Did the biology expert argue to pretect wild animals?,Y,,0,34,wild,7,2,6,11,1,6,11,808,1562996822167,Y,4923,1
+217,1,28,filler,filler_36,,/+/The biology expert argued that wild animals should be protected now./,Did the biology expert argue to pretect wild animals?,Y,,0,34,animals,8,2,7,11,1,7,11,823,1562996822990,Y,4923,1
+217,1,28,filler,filler_36,,/+/The biology expert argued that wild animals should be protected now./,Did the biology expert argue to pretect wild animals?,Y,,0,34,should,9,2,8,11,1,8,11,609,1562996823599,Y,4923,1
+217,1,28,filler,filler_36,,/+/The biology expert argued that wild animals should be protected now./,Did the biology expert argue to pretect wild animals?,Y,,0,34,be,10,2,9,11,1,9,11,463,1562996824062,Y,4923,1
+217,1,28,filler,filler_36,,/+/The biology expert argued that wild animals should be protected now./,Did the biology expert argue to pretect wild animals?,Y,,0,34,protected,11,2,10,11,1,10,11,673,1562996824735,Y,4923,1
+217,1,28,filler,filler_36,,/+/The biology expert argued that wild animals should be protected now./,Did the biology expert argue to pretect wild animals?,Y,,0,34,now.,12,2,11,11,1,11,11,568,1562996825303,Y,4923,1
+217,1,29,target,target_18,C,/+/The young repairman * who was * paid for the bill * said * thanks to the hostress./,Did the repairman pay for the bill?,N,,0,35,+,1,1,1,1,1,1,1,1503,1562996832231,N,2427,1
+217,1,29,target,target_18,C,/+/The young repairman * who was * paid for the bill * said * thanks to the hostress./,Did the repairman pay for the bill?,N,,0,35,The,2,2,1,14,1,1,3,376,1562996832607,N,2427,1
+217,1,29,target,target_18,C,/+/The young repairman * who was * paid for the bill * said * thanks to the hostress./,Did the repairman pay for the bill?,N,,0,35,young,3,2,2,14,1,2,3,432,1562996833039,N,2427,1
+217,1,29,target,target_18,C,/+/The young repairman * who was * paid for the bill * said * thanks to the hostress./,Did the repairman pay for the bill?,N,,0,35,repairman,4,2,3,14,1,3,3,456,1562996833495,N,2427,1
+217,1,29,target,target_18,C,/+/The young repairman * who was * paid for the bill * said * thanks to the hostress./,Did the repairman pay for the bill?,N,,0,35,who,5,2,4,14,2,1,2,920,1562996834415,N,2427,1
+217,1,29,target,target_18,C,/+/The young repairman * who was * paid for the bill * said * thanks to the hostress./,Did the repairman pay for the bill?,N,,0,35,repairman,6,2,3,14,1,3,3,376,1562996834791,N,2427,1
+217,1,29,target,target_18,C,/+/The young repairman * who was * paid for the bill * said * thanks to the hostress./,Did the repairman pay for the bill?,N,,0,35,who,7,2,4,14,2,1,2,420,1562996835214,N,2427,1
+217,1,29,target,target_18,C,/+/The young repairman * who was * paid for the bill * said * thanks to the hostress./,Did the repairman pay for the bill?,N,,0,35,was,8,2,5,14,2,2,2,489,1562996835703,N,2427,1
+217,1,29,target,target_18,C,/+/The young repairman * who was * paid for the bill * said * thanks to the hostress./,Did the repairman pay for the bill?,N,,0,35,paid,9,2,6,14,3,1,4,760,1562996836463,N,2427,1
+217,1,29,target,target_18,C,/+/The young repairman * who was * paid for the bill * said * thanks to the hostress./,Did the repairman pay for the bill?,N,,0,35,for,10,2,7,14,3,2,4,392,1562996836855,N,2427,1
+217,1,29,target,target_18,C,/+/The young repairman * who was * paid for the bill * said * thanks to the hostress./,Did the repairman pay for the bill?,N,,0,35,the,11,2,8,14,3,3,4,335,1562996837190,N,2427,1
+217,1,29,target,target_18,C,/+/The young repairman * who was * paid for the bill * said * thanks to the hostress./,Did the repairman pay for the bill?,N,,0,35,bill,12,2,9,14,3,4,4,473,1562996837663,N,2427,1
+217,1,29,target,target_18,C,/+/The young repairman * who was * paid for the bill * said * thanks to the hostress./,Did the repairman pay for the bill?,N,,0,35,said,13,2,10,14,4,1,1,416,1562996838079,N,2427,1
+217,1,29,target,target_18,C,/+/The young repairman * who was * paid for the bill * said * thanks to the hostress./,Did the repairman pay for the bill?,N,,0,35,thanks,14,2,11,14,5,1,4,528,1562996838607,N,2427,1
+217,1,29,target,target_18,C,/+/The young repairman * who was * paid for the bill * said * thanks to the hostress./,Did the repairman pay for the bill?,N,,0,35,to,15,2,12,14,5,2,4,480,1562996839087,N,2427,1
+217,1,29,target,target_18,C,/+/The young repairman * who was * paid for the bill * said * thanks to the hostress./,Did the repairman pay for the bill?,N,,0,35,the,16,2,13,14,5,3,4,640,1562996839727,N,2427,1
+217,1,29,target,target_18,C,/+/The young repairman * who was * paid for the bill * said * thanks to the hostress./,Did the repairman pay for the bill?,N,,0,35,hostress.,17,2,14,14,5,4,4,1176,1562996840903,N,2427,1
+217,1,30,filler,filler_33,,/+/The old fireman did not believe that his wife was capable of making decisions./,Did the fireman believe his wife in making decisions?,N,,0,36,+,1,1,1,1,1,1,1,590,1562996844422,N,5819,1
+217,1,30,filler,filler_33,,/+/The old fireman did not believe that his wife was capable of making decisions./,Did the fireman believe his wife in making decisions?,N,,0,36,The,2,2,1,14,1,1,14,369,1562996844791,N,5819,1
+217,1,30,filler,filler_33,,/+/The old fireman did not believe that his wife was capable of making decisions./,Did the fireman believe his wife in making decisions?,N,,0,36,old,3,2,2,14,1,2,14,400,1562996845191,N,5819,1
+217,1,30,filler,filler_33,,/+/The old fireman did not believe that his wife was capable of making decisions./,Did the fireman believe his wife in making decisions?,N,,0,36,fireman,4,2,3,14,1,3,14,976,1562996846167,N,5819,1
+217,1,30,filler,filler_33,,/+/The old fireman did not believe that his wife was capable of making decisions./,Did the fireman believe his wife in making decisions?,N,,0,36,did,5,2,4,14,1,4,14,568,1562996846735,N,5819,1
+217,1,30,filler,filler_33,,/+/The old fireman did not believe that his wife was capable of making decisions./,Did the fireman believe his wife in making decisions?,N,,0,36,not,6,2,5,14,1,5,14,959,1562996847694,N,5819,1
+217,1,30,filler,filler_33,,/+/The old fireman did not believe that his wife was capable of making decisions./,Did the fireman believe his wife in making decisions?,N,,0,36,believe,7,2,6,14,1,6,14,425,1562996848119,N,5819,1
+217,1,30,filler,filler_33,,/+/The old fireman did not believe that his wife was capable of making decisions./,Did the fireman believe his wife in making decisions?,N,,0,36,that,8,2,7,14,1,7,14,391,1562996848510,N,5819,1
+217,1,30,filler,filler_33,,/+/The old fireman did not believe that his wife was capable of making decisions./,Did the fireman believe his wife in making decisions?,N,,0,36,his,9,2,8,14,1,8,14,361,1562996848871,N,5819,1
+217,1,30,filler,filler_33,,/+/The old fireman did not believe that his wife was capable of making decisions./,Did the fireman believe his wife in making decisions?,N,,0,36,wife,10,2,9,14,1,9,14,432,1562996849303,N,5819,1
+217,1,30,filler,filler_33,,/+/The old fireman did not believe that his wife was capable of making decisions./,Did the fireman believe his wife in making decisions?,N,,0,36,was,11,2,10,14,1,10,14,352,1562996849655,N,5819,1
+217,1,30,filler,filler_33,,/+/The old fireman did not believe that his wife was capable of making decisions./,Did the fireman believe his wife in making decisions?,N,,0,36,capable,12,2,11,14,1,11,14,432,1562996850087,N,5819,1
+217,1,30,filler,filler_33,,/+/The old fireman did not believe that his wife was capable of making decisions./,Did the fireman believe his wife in making decisions?,N,,0,36,of,13,2,12,14,1,12,14,512,1562996850599,N,5819,1
+217,1,30,filler,filler_33,,/+/The old fireman did not believe that his wife was capable of making decisions./,Did the fireman believe his wife in making decisions?,N,,0,36,making,14,2,13,14,1,13,14,736,1562996851335,N,5819,1
+217,1,30,filler,filler_33,,/+/The old fireman did not believe that his wife was capable of making decisions./,Did the fireman believe his wife in making decisions?,N,,0,36,decisions.,15,2,14,14,1,14,14,1240,1562996852575,N,5819,1
+217,1,31,target,target_12,G,/+/The new manager * promised a better office * worked * much harder./,Did someone promise the manager a office?,Y,,0,37,+,1,1,1,1,1,1,1,5207,1562996864103,Y,5922,1
+217,1,31,target,target_12,G,/+/The new manager * promised a better office * worked * much harder./,Did someone promise the manager a office?,Y,,0,37,The,2,2,1,10,1,1,3,479,1562996864582,Y,5922,1
+217,1,31,target,target_12,G,/+/The new manager * promised a better office * worked * much harder./,Did someone promise the manager a office?,Y,,0,37,new,3,2,2,10,1,2,3,441,1562996865023,Y,5922,1
+217,1,31,target,target_12,G,/+/The new manager * promised a better office * worked * much harder./,Did someone promise the manager a office?,Y,,0,37,manager,4,2,3,10,1,3,3,559,1562996865582,Y,5922,1
+217,1,31,target,target_12,G,/+/The new manager * promised a better office * worked * much harder./,Did someone promise the manager a office?,Y,,0,37,promised,5,2,4,10,2,1,4,841,1562996866423,Y,5922,1
+217,1,31,target,target_12,G,/+/The new manager * promised a better office * worked * much harder./,Did someone promise the manager a office?,Y,,0,37,a,6,2,5,10,2,2,4,384,1562996866807,Y,5922,1
+217,1,31,target,target_12,G,/+/The new manager * promised a better office * worked * much harder./,Did someone promise the manager a office?,Y,,0,37,better,7,2,6,10,2,3,4,384,1562996867191,Y,5922,1
+217,1,31,target,target_12,G,/+/The new manager * promised a better office * worked * much harder./,Did someone promise the manager a office?,Y,,0,37,office,8,2,7,10,2,4,4,392,1562996867583,Y,5922,1
+217,1,31,target,target_12,G,/+/The new manager * promised a better office * worked * much harder./,Did someone promise the manager a office?,Y,,0,37,worked,9,2,8,10,3,1,1,440,1562996868023,Y,5922,1
+217,1,31,target,target_12,G,/+/The new manager * promised a better office * worked * much harder./,Did someone promise the manager a office?,Y,,0,37,much,10,2,9,10,4,1,2,472,1562996868495,Y,5922,1
+217,1,31,target,target_12,G,/+/The new manager * promised a better office * worked * much harder./,Did someone promise the manager a office?,Y,,0,37,harder.,11,2,10,10,4,2,2,864,1562996869359,Y,5922,1
+217,1,32,filler,filler_26,,/+/The magazine was expanded greatly in the number of pages./,Was the magazine expanded?,Y,,0,38,+,1,1,1,1,1,1,1,569,1562996876351,Y,2731,1
+217,1,32,filler,filler_26,,/+/The magazine was expanded greatly in the number of pages./,Was the magazine expanded?,Y,,0,38,The,2,2,1,10,1,1,10,407,1562996876758,Y,2731,1
+217,1,32,filler,filler_26,,/+/The magazine was expanded greatly in the number of pages./,Was the magazine expanded?,Y,,0,38,magazine,3,2,2,10,1,2,10,505,1562996877263,Y,2731,1
+217,1,32,filler,filler_26,,/+/The magazine was expanded greatly in the number of pages./,Was the magazine expanded?,Y,,0,38,was,4,2,3,10,1,3,10,920,1562996878183,Y,2731,1
+217,1,32,filler,filler_26,,/+/The magazine was expanded greatly in the number of pages./,Was the magazine expanded?,Y,,0,38,expanded,5,2,4,10,1,4,10,655,1562996878838,Y,2731,1
+217,1,32,filler,filler_26,,/+/The magazine was expanded greatly in the number of pages./,Was the magazine expanded?,Y,,0,38,greatly,6,2,5,10,1,5,10,737,1562996879575,Y,2731,1
+217,1,32,filler,filler_26,,/+/The magazine was expanded greatly in the number of pages./,Was the magazine expanded?,Y,,0,38,in,7,2,6,10,1,6,10,456,1562996880031,Y,2731,1
+217,1,32,filler,filler_26,,/+/The magazine was expanded greatly in the number of pages./,Was the magazine expanded?,Y,,0,38,the,8,2,7,10,1,7,10,376,1562996880407,Y,2731,1
+217,1,32,filler,filler_26,,/+/The magazine was expanded greatly in the number of pages./,Was the magazine expanded?,Y,,0,38,number,9,2,8,10,1,8,10,391,1562996880798,Y,2731,1
+217,1,32,filler,filler_26,,/+/The magazine was expanded greatly in the number of pages./,Was the magazine expanded?,Y,,0,38,of,10,2,9,10,1,9,10,417,1562996881215,Y,2731,1
+217,1,32,filler,filler_26,,/+/The magazine was expanded greatly in the number of pages./,Was the magazine expanded?,Y,,0,38,pages.,11,2,10,10,1,10,10,2807,1562996884022,Y,2731,1
+217,1,32,filler,filler_26,,/+/The magazine was expanded greatly in the number of pages./,Was the magazine expanded?,Y,,0,38,of,12,2,9,10,1,9,10,449,1562996884471,Y,2731,1
+217,1,32,filler,filler_26,,/+/The magazine was expanded greatly in the number of pages./,Was the magazine expanded?,Y,,0,38,number,13,2,8,10,1,8,10,312,1562996884783,Y,2731,1
+217,1,32,filler,filler_26,,/+/The magazine was expanded greatly in the number of pages./,Was the magazine expanded?,Y,,0,38,the,14,2,7,10,1,7,10,328,1562996885111,Y,2731,1
+217,1,32,filler,filler_26,,/+/The magazine was expanded greatly in the number of pages./,Was the magazine expanded?,Y,,0,38,in,15,2,6,10,1,6,10,560,1562996885671,Y,2731,1
+217,1,32,filler,filler_26,,/+/The magazine was expanded greatly in the number of pages./,Was the magazine expanded?,Y,,0,38,greatly,16,2,5,10,1,5,10,728,1562996886399,Y,2731,1
+217,1,32,filler,filler_26,,/+/The magazine was expanded greatly in the number of pages./,Was the magazine expanded?,Y,,0,38,expanded,17,2,4,10,1,4,10,1712,1562996888111,Y,2731,1
+217,1,32,filler,filler_26,,/+/The magazine was expanded greatly in the number of pages./,Was the magazine expanded?,Y,,0,38,greatly,18,2,5,10,1,5,10,216,1562996888327,Y,2731,1
+217,1,32,filler,filler_26,,/+/The magazine was expanded greatly in the number of pages./,Was the magazine expanded?,Y,,0,38,in,19,2,6,10,1,6,10,184,1562996888511,Y,2731,1
+217,1,32,filler,filler_26,,/+/The magazine was expanded greatly in the number of pages./,Was the magazine expanded?,Y,,0,38,the,20,2,7,10,1,7,10,200,1562996888711,Y,2731,1
+217,1,32,filler,filler_26,,/+/The magazine was expanded greatly in the number of pages./,Was the magazine expanded?,Y,,0,38,number,21,2,8,10,1,8,10,144,1562996888855,Y,2731,1
+217,1,32,filler,filler_26,,/+/The magazine was expanded greatly in the number of pages./,Was the magazine expanded?,Y,,0,38,of,22,2,9,10,1,9,10,384,1562996889239,Y,2731,1
+217,1,32,filler,filler_26,,/+/The magazine was expanded greatly in the number of pages./,Was the magazine expanded?,Y,,0,38,pages.,23,2,10,10,1,10,10,360,1562996889599,Y,2731,1
+217,1,33,filler,filler_16,,/+/The student with blue eyes made many mistakes of all the class./,Did the student with blue eyes never make mistakes?,N,,0,39,+,1,1,1,1,1,1,1,1487,1562996894319,N,2787,1
+217,1,33,filler,filler_16,,/+/The student with blue eyes made many mistakes of all the class./,Did the student with blue eyes never make mistakes?,N,,0,39,The,2,2,1,12,1,1,12,928,1562996895247,N,2787,1
+217,1,33,filler,filler_16,,/+/The student with blue eyes made many mistakes of all the class./,Did the student with blue eyes never make mistakes?,N,,0,39,student,3,2,2,12,1,2,12,887,1562996896134,N,2787,1
+217,1,33,filler,filler_16,,/+/The student with blue eyes made many mistakes of all the class./,Did the student with blue eyes never make mistakes?,N,,0,39,with,4,2,3,12,1,3,12,1497,1562996897631,N,2787,1
+217,1,33,filler,filler_16,,/+/The student with blue eyes made many mistakes of all the class./,Did the student with blue eyes never make mistakes?,N,,0,39,blue,5,2,4,12,1,4,12,392,1562996898023,N,2787,1
+217,1,33,filler,filler_16,,/+/The student with blue eyes made many mistakes of all the class./,Did the student with blue eyes never make mistakes?,N,,0,39,eyes,6,2,5,12,1,5,12,400,1562996898423,N,2787,1
+217,1,33,filler,filler_16,,/+/The student with blue eyes made many mistakes of all the class./,Did the student with blue eyes never make mistakes?,N,,0,39,made,7,2,6,12,1,6,12,416,1562996898839,N,2787,1
+217,1,33,filler,filler_16,,/+/The student with blue eyes made many mistakes of all the class./,Did the student with blue eyes never make mistakes?,N,,0,39,many,8,2,7,12,1,7,12,504,1562996899343,N,2787,1
+217,1,33,filler,filler_16,,/+/The student with blue eyes made many mistakes of all the class./,Did the student with blue eyes never make mistakes?,N,,0,39,mistakes,9,2,8,12,1,8,12,952,1562996900295,N,2787,1
+217,1,33,filler,filler_16,,/+/The student with blue eyes made many mistakes of all the class./,Did the student with blue eyes never make mistakes?,N,,0,39,of,10,2,9,12,1,9,12,448,1562996900743,N,2787,1
+217,1,33,filler,filler_16,,/+/The student with blue eyes made many mistakes of all the class./,Did the student with blue eyes never make mistakes?,N,,0,39,all,11,2,10,12,1,10,12,367,1562996901110,N,2787,1
+217,1,33,filler,filler_16,,/+/The student with blue eyes made many mistakes of all the class./,Did the student with blue eyes never make mistakes?,N,,0,39,the,12,2,11,12,1,11,12,337,1562996901447,N,2787,1
+217,1,33,filler,filler_16,,/+/The student with blue eyes made many mistakes of all the class./,Did the student with blue eyes never make mistakes?,N,,0,39,class.,13,2,12,12,1,12,12,400,1562996901847,N,2787,1
+217,1,34,target,target_13,G,/+/An American teenager * refused to enter the bar * burst into * anger./,Did the teenager refuse to enter the bar?,N,,0,40,+,1,1,1,1,1,1,1,616,1562996905751,Y,4692,0
+217,1,34,target,target_13,G,/+/An American teenager * refused to enter the bar * burst into * anger./,Did the teenager refuse to enter the bar?,N,,0,40,An,2,2,1,11,1,1,3,496,1562996906247,Y,4692,0
+217,1,34,target,target_13,G,/+/An American teenager * refused to enter the bar * burst into * anger./,Did the teenager refuse to enter the bar?,N,,0,40,American,3,2,2,11,1,2,3,872,1562996907119,Y,4692,0
+217,1,34,target,target_13,G,/+/An American teenager * refused to enter the bar * burst into * anger./,Did the teenager refuse to enter the bar?,N,,0,40,teenager,4,2,3,11,1,3,3,1439,1562996908559,Y,4692,0
+217,1,34,target,target_13,G,/+/An American teenager * refused to enter the bar * burst into * anger./,Did the teenager refuse to enter the bar?,N,,0,40,refused,5,2,4,11,2,1,5,639,1562996909198,Y,4692,0
+217,1,34,target,target_13,G,/+/An American teenager * refused to enter the bar * burst into * anger./,Did the teenager refuse to enter the bar?,N,,0,40,to,6,2,5,11,2,2,5,481,1562996909679,Y,4692,0
+217,1,34,target,target_13,G,/+/An American teenager * refused to enter the bar * burst into * anger./,Did the teenager refuse to enter the bar?,N,,0,40,enter,7,2,6,11,2,3,5,663,1562996910342,Y,4692,0
+217,1,34,target,target_13,G,/+/An American teenager * refused to enter the bar * burst into * anger./,Did the teenager refuse to enter the bar?,N,,0,40,the,8,2,7,11,2,4,5,401,1562996910743,Y,4692,0
+217,1,34,target,target_13,G,/+/An American teenager * refused to enter the bar * burst into * anger./,Did the teenager refuse to enter the bar?,N,,0,40,bar,9,2,8,11,2,5,5,336,1562996911079,Y,4692,0
+217,1,34,target,target_13,G,/+/An American teenager * refused to enter the bar * burst into * anger./,Did the teenager refuse to enter the bar?,N,,0,40,burst,10,2,9,11,3,1,2,424,1562996911503,Y,4692,0
+217,1,34,target,target_13,G,/+/An American teenager * refused to enter the bar * burst into * anger./,Did the teenager refuse to enter the bar?,N,,0,40,into,11,2,10,11,3,2,2,616,1562996912119,Y,4692,0
+217,1,34,target,target_13,G,/+/An American teenager * refused to enter the bar * burst into * anger./,Did the teenager refuse to enter the bar?,N,,0,40,anger.,12,2,11,11,4,1,1,1528,1562996913647,Y,4692,0
+217,1,35,filler,filler_13,,/+/The strange man on the subway sold fake watches to different passengers./,Did the strange man sell fake watches?,Y,,0,41,+,1,1,1,1,1,1,1,670,1562996919510,Y,2371,1
+217,1,35,filler,filler_13,,/+/The strange man on the subway sold fake watches to different passengers./,Did the strange man sell fake watches?,Y,,0,41,The,2,2,1,12,1,1,12,473,1562996919983,Y,2371,1
+217,1,35,filler,filler_13,,/+/The strange man on the subway sold fake watches to different passengers./,Did the strange man sell fake watches?,Y,,0,41,strange,3,2,2,12,1,2,12,1032,1562996921015,Y,2371,1
+217,1,35,filler,filler_13,,/+/The strange man on the subway sold fake watches to different passengers./,Did the strange man sell fake watches?,Y,,0,41,man,4,2,3,12,1,3,12,544,1562996921559,Y,2371,1
+217,1,35,filler,filler_13,,/+/The strange man on the subway sold fake watches to different passengers./,Did the strange man sell fake watches?,Y,,0,41,on,5,2,4,12,1,4,12,1304,1562996922863,Y,2371,1
+217,1,35,filler,filler_13,,/+/The strange man on the subway sold fake watches to different passengers./,Did the strange man sell fake watches?,Y,,0,41,the,6,2,5,12,1,5,12,535,1562996923398,Y,2371,1
+217,1,35,filler,filler_13,,/+/The strange man on the subway sold fake watches to different passengers./,Did the strange man sell fake watches?,Y,,0,41,subway,7,2,6,12,1,6,12,1024,1562996924422,Y,2371,1
+217,1,35,filler,filler_13,,/+/The strange man on the subway sold fake watches to different passengers./,Did the strange man sell fake watches?,Y,,0,41,sold,8,2,7,12,1,7,12,1505,1562996925927,Y,2371,1
+217,1,35,filler,filler_13,,/+/The strange man on the subway sold fake watches to different passengers./,Did the strange man sell fake watches?,Y,,0,41,fake,9,2,8,12,1,8,12,2992,1562996928919,Y,2371,1
+217,1,35,filler,filler_13,,/+/The strange man on the subway sold fake watches to different passengers./,Did the strange man sell fake watches?,Y,,0,41,watches,10,2,9,12,1,9,12,968,1562996929887,Y,2371,1
+217,1,35,filler,filler_13,,/+/The strange man on the subway sold fake watches to different passengers./,Did the strange man sell fake watches?,Y,,0,41,to,11,2,10,12,1,10,12,536,1562996930423,Y,2371,1
+217,1,35,filler,filler_13,,/+/The strange man on the subway sold fake watches to different passengers./,Did the strange man sell fake watches?,Y,,0,41,different,12,2,11,12,1,11,12,608,1562996931031,Y,2371,1
+217,1,35,filler,filler_13,,/+/The strange man on the subway sold fake watches to different passengers./,Did the strange man sell fake watches?,Y,,0,41,passengers.,13,2,12,12,1,12,12,832,1562996931863,Y,2371,1
+217,1,36,filler,filler_19,,/+/The boss asked the salesman to give some explanations for his mistake./,Did the boss want an explanation from the salesman?,Y,,0,42,+,1,1,1,1,1,1,1,705,1562996935439,Y,7548,1
+217,1,36,filler,filler_19,,/+/The boss asked the salesman to give some explanations for his mistake./,Did the boss want an explanation from the salesman?,Y,,0,42,The,2,2,1,12,1,1,12,800,1562996936239,Y,7548,1
+217,1,36,filler,filler_19,,/+/The boss asked the salesman to give some explanations for his mistake./,Did the boss want an explanation from the salesman?,Y,,0,42,boss,3,2,2,12,1,2,12,608,1562996936847,Y,7548,1
+217,1,36,filler,filler_19,,/+/The boss asked the salesman to give some explanations for his mistake./,Did the boss want an explanation from the salesman?,Y,,0,42,asked,4,2,3,12,1,3,12,632,1562996937479,Y,7548,1
+217,1,36,filler,filler_19,,/+/The boss asked the salesman to give some explanations for his mistake./,Did the boss want an explanation from the salesman?,Y,,0,42,the,5,2,4,12,1,4,12,536,1562996938015,Y,7548,1
+217,1,36,filler,filler_19,,/+/The boss asked the salesman to give some explanations for his mistake./,Did the boss want an explanation from the salesman?,Y,,0,42,salesman,6,2,5,12,1,5,12,647,1562996938662,Y,7548,1
+217,1,36,filler,filler_19,,/+/The boss asked the salesman to give some explanations for his mistake./,Did the boss want an explanation from the salesman?,Y,,0,42,to,7,2,6,12,1,6,12,873,1562996939535,Y,7548,1
+217,1,36,filler,filler_19,,/+/The boss asked the salesman to give some explanations for his mistake./,Did the boss want an explanation from the salesman?,Y,,0,42,give,8,2,7,12,1,7,12,1664,1562996941199,Y,7548,1
+217,1,36,filler,filler_19,,/+/The boss asked the salesman to give some explanations for his mistake./,Did the boss want an explanation from the salesman?,Y,,0,42,some,9,2,8,12,1,8,12,455,1562996941654,Y,7548,1
+217,1,36,filler,filler_19,,/+/The boss asked the salesman to give some explanations for his mistake./,Did the boss want an explanation from the salesman?,Y,,0,42,explanations,10,2,9,12,1,9,12,1264,1562996942919,Y,7548,1
+217,1,36,filler,filler_19,,/+/The boss asked the salesman to give some explanations for his mistake./,Did the boss want an explanation from the salesman?,Y,,0,42,for,11,2,10,12,1,10,12,528,1562996943447,Y,7548,1
+217,1,36,filler,filler_19,,/+/The boss asked the salesman to give some explanations for his mistake./,Did the boss want an explanation from the salesman?,Y,,0,42,his,12,2,11,12,1,11,12,496,1562996943943,Y,7548,1
+217,1,36,filler,filler_19,,/+/The boss asked the salesman to give some explanations for his mistake./,Did the boss want an explanation from the salesman?,Y,,0,42,mistake.,13,2,12,12,1,12,12,1640,1562996945583,Y,7548,1
+217,1,37,target,target_20,C,/+/The foreign client * who was * answered about the contract * praised on * secretary's patience./,Did the client answer about the contract?,N,,0,43,+,1,1,1,1,1,1,1,1607,1562996955239,N,5243,1
+217,1,37,target,target_20,C,/+/The foreign client * who was * answered about the contract * praised on * secretary's patience./,Did the client answer about the contract?,N,,0,43,The,2,2,1,13,1,1,3,551,1562996955790,N,5243,1
+217,1,37,target,target_20,C,/+/The foreign client * who was * answered about the contract * praised on * secretary's patience./,Did the client answer about the contract?,N,,0,43,foreign,3,2,2,13,1,2,3,631,1562996956422,N,5243,1
+217,1,37,target,target_20,C,/+/The foreign client * who was * answered about the contract * praised on * secretary's patience./,Did the client answer about the contract?,N,,0,43,client,4,2,3,13,1,3,3,1120,1562996957542,N,5243,1
+217,1,37,target,target_20,C,/+/The foreign client * who was * answered about the contract * praised on * secretary's patience./,Did the client answer about the contract?,N,,0,43,who,5,2,4,13,2,1,2,1311,1562996958854,N,5243,1
+217,1,37,target,target_20,C,/+/The foreign client * who was * answered about the contract * praised on * secretary's patience./,Did the client answer about the contract?,N,,0,43,was,6,2,5,13,2,2,2,471,1562996959326,N,5243,1
+217,1,37,target,target_20,C,/+/The foreign client * who was * answered about the contract * praised on * secretary's patience./,Did the client answer about the contract?,N,,0,43,answered,7,2,6,13,3,1,4,727,1562996960054,N,5243,1
+217,1,37,target,target_20,C,/+/The foreign client * who was * answered about the contract * praised on * secretary's patience./,Did the client answer about the contract?,N,,0,43,about,8,2,7,13,3,2,4,960,1562996961014,N,5243,1
+217,1,37,target,target_20,C,/+/The foreign client * who was * answered about the contract * praised on * secretary's patience./,Did the client answer about the contract?,N,,0,43,the,9,2,8,13,3,3,4,656,1562996961670,N,5243,1
+217,1,37,target,target_20,C,/+/The foreign client * who was * answered about the contract * praised on * secretary's patience./,Did the client answer about the contract?,N,,0,43,contract,10,2,9,13,3,4,4,3616,1562996965286,N,5243,1
+217,1,37,target,target_20,C,/+/The foreign client * who was * answered about the contract * praised on * secretary's patience./,Did the client answer about the contract?,N,,0,43,praised,11,2,10,13,4,1,2,655,1562996965942,N,5243,1
+217,1,37,target,target_20,C,/+/The foreign client * who was * answered about the contract * praised on * secretary's patience./,Did the client answer about the contract?,N,,0,43,on,12,2,11,13,4,2,2,520,1562996966462,N,5243,1
+217,1,37,target,target_20,C,/+/The foreign client * who was * answered about the contract * praised on * secretary's patience./,Did the client answer about the contract?,N,,0,43,secretary's,13,2,12,13,5,1,2,1232,1562996967694,N,5243,1
+217,1,37,target,target_20,C,/+/The foreign client * who was * answered about the contract * praised on * secretary's patience./,Did the client answer about the contract?,N,,0,43,patience.,14,2,13,13,5,2,2,799,1562996968494,N,5243,1
+217,1,38,filler,filler_23,,/+/All citizens celebrated the New Year cheerfully with a dance party./,Did all citizens have a dance party?,Y,,0,44,+,1,1,1,1,1,1,1,1880,1562996976118,Y,2860,1
+217,1,38,filler,filler_23,,/+/All citizens celebrated the New Year cheerfully with a dance party./,Did all citizens have a dance party?,Y,,0,44,All,2,2,1,11,1,1,11,528,1562996976646,Y,2860,1
+217,1,38,filler,filler_23,,/+/All citizens celebrated the New Year cheerfully with a dance party./,Did all citizens have a dance party?,Y,,0,44,citizens,3,2,2,11,1,2,11,856,1562996977502,Y,2860,1
+217,1,38,filler,filler_23,,/+/All citizens celebrated the New Year cheerfully with a dance party./,Did all citizens have a dance party?,Y,,0,44,celebrated,4,2,3,11,1,3,11,2456,1562996979958,Y,2860,1
+217,1,38,filler,filler_23,,/+/All citizens celebrated the New Year cheerfully with a dance party./,Did all citizens have a dance party?,Y,,0,44,the,5,2,4,11,1,4,11,624,1562996980582,Y,2860,1
+217,1,38,filler,filler_23,,/+/All citizens celebrated the New Year cheerfully with a dance party./,Did all citizens have a dance party?,Y,,0,44,New,6,2,5,11,1,5,11,791,1562996981373,Y,2860,1
+217,1,38,filler,filler_23,,/+/All citizens celebrated the New Year cheerfully with a dance party./,Did all citizens have a dance party?,Y,,0,44,Year,7,2,6,11,1,6,11,417,1562996981790,Y,2860,1
+217,1,38,filler,filler_23,,/+/All citizens celebrated the New Year cheerfully with a dance party./,Did all citizens have a dance party?,Y,,0,44,cheerfully,8,2,7,11,1,7,11,832,1562996982622,Y,2860,1
+217,1,38,filler,filler_23,,/+/All citizens celebrated the New Year cheerfully with a dance party./,Did all citizens have a dance party?,Y,,0,44,with,9,2,8,11,1,8,11,495,1562996983118,Y,2860,1
+217,1,38,filler,filler_23,,/+/All citizens celebrated the New Year cheerfully with a dance party./,Did all citizens have a dance party?,Y,,0,44,a,10,2,9,11,1,9,11,448,1562996983566,Y,2860,1
+217,1,38,filler,filler_23,,/+/All citizens celebrated the New Year cheerfully with a dance party./,Did all citizens have a dance party?,Y,,0,44,dance,11,2,10,11,1,10,11,416,1562996983982,Y,2860,1
+217,1,38,filler,filler_23,,/+/All citizens celebrated the New Year cheerfully with a dance party./,Did all citizens have a dance party?,Y,,0,44,party.,12,2,11,11,1,11,11,415,1562996984397,Y,2860,1
+217,1,39,filler,filler_34,,/+/The pretty lady was a highly skilled worker who lived near the school./,Was the pretty lady a highly skilled worker?,Y,,0,45,+,1,1,1,1,1,1,1,3880,1562996991639,Y,2602,1
+217,1,39,filler,filler_34,,/+/The pretty lady was a highly skilled worker who lived near the school./,Was the pretty lady a highly skilled worker?,Y,,0,45,The,2,2,1,13,1,1,13,544,1562996992183,Y,2602,1
+217,1,39,filler,filler_34,,/+/The pretty lady was a highly skilled worker who lived near the school./,Was the pretty lady a highly skilled worker?,Y,,0,45,pretty,3,2,2,13,1,2,13,928,1562996993111,Y,2602,1
+217,1,39,filler,filler_34,,/+/The pretty lady was a highly skilled worker who lived near the school./,Was the pretty lady a highly skilled worker?,Y,,0,45,lady,4,2,3,13,1,3,13,583,1562996993695,Y,2602,1
+217,1,39,filler,filler_34,,/+/The pretty lady was a highly skilled worker who lived near the school./,Was the pretty lady a highly skilled worker?,Y,,0,45,was,5,2,4,13,1,4,13,791,1562996994486,Y,2602,1
+217,1,39,filler,filler_34,,/+/The pretty lady was a highly skilled worker who lived near the school./,Was the pretty lady a highly skilled worker?,Y,,0,45,a,6,2,5,13,1,5,13,424,1562996994911,Y,2602,1
+217,1,39,filler,filler_34,,/+/The pretty lady was a highly skilled worker who lived near the school./,Was the pretty lady a highly skilled worker?,Y,,0,45,highly,7,2,6,13,1,6,13,504,1562996995415,Y,2602,1
+217,1,39,filler,filler_34,,/+/The pretty lady was a highly skilled worker who lived near the school./,Was the pretty lady a highly skilled worker?,Y,,0,45,skilled,8,2,7,13,1,7,13,512,1562996995927,Y,2602,1
+217,1,39,filler,filler_34,,/+/The pretty lady was a highly skilled worker who lived near the school./,Was the pretty lady a highly skilled worker?,Y,,0,45,worker,9,2,8,13,1,8,13,599,1562996996526,Y,2602,1
+217,1,39,filler,filler_34,,/+/The pretty lady was a highly skilled worker who lived near the school./,Was the pretty lady a highly skilled worker?,Y,,0,45,who,10,2,9,13,1,9,13,552,1562996997079,Y,2602,1
+217,1,39,filler,filler_34,,/+/The pretty lady was a highly skilled worker who lived near the school./,Was the pretty lady a highly skilled worker?,Y,,0,45,lived,11,2,10,13,1,10,13,1080,1562996998159,Y,2602,1
+217,1,39,filler,filler_34,,/+/The pretty lady was a highly skilled worker who lived near the school./,Was the pretty lady a highly skilled worker?,Y,,0,45,near,12,2,11,13,1,11,13,471,1562996998630,Y,2602,1
+217,1,39,filler,filler_34,,/+/The pretty lady was a highly skilled worker who lived near the school./,Was the pretty lady a highly skilled worker?,Y,,0,45,the,13,2,12,13,1,12,13,417,1562996999047,Y,2602,1
+217,1,39,filler,filler_34,,/+/The pretty lady was a highly skilled worker who lived near the school./,Was the pretty lady a highly skilled worker?,Y,,0,45,school.,14,2,13,13,1,13,13,487,1562996999534,Y,2602,1
+217,1,40,target,target_14,C,/+/The fat woman * who was * sold a beautiful dress * left * the store happily./,Did the woman sell a dress?,N,,0,46,+,1,1,1,1,1,1,1,760,1562997003399,N,1723,1
+217,1,40,target,target_14,C,/+/The fat woman * who was * sold a beautiful dress * left * the store happily./,Did the woman sell a dress?,N,,0,46,The,2,2,1,13,1,1,3,640,1562997004039,N,1723,1
+217,1,40,target,target_14,C,/+/The fat woman * who was * sold a beautiful dress * left * the store happily./,Did the woman sell a dress?,N,,0,46,fat,3,2,2,13,1,2,3,575,1562997004614,N,1723,1
+217,1,40,target,target_14,C,/+/The fat woman * who was * sold a beautiful dress * left * the store happily./,Did the woman sell a dress?,N,,0,46,woman,4,2,3,13,1,3,3,617,1562997005231,N,1723,1
+217,1,40,target,target_14,C,/+/The fat woman * who was * sold a beautiful dress * left * the store happily./,Did the woman sell a dress?,N,,0,46,who,5,2,4,13,2,1,2,487,1562997005718,N,1723,1
+217,1,40,target,target_14,C,/+/The fat woman * who was * sold a beautiful dress * left * the store happily./,Did the woman sell a dress?,N,,0,46,was,6,2,5,13,2,2,2,417,1562997006135,N,1723,1
+217,1,40,target,target_14,C,/+/The fat woman * who was * sold a beautiful dress * left * the store happily./,Did the woman sell a dress?,N,,0,46,sold,7,2,6,13,3,1,4,447,1562997006582,N,1723,1
+217,1,40,target,target_14,C,/+/The fat woman * who was * sold a beautiful dress * left * the store happily./,Did the woman sell a dress?,N,,0,46,a,8,2,7,13,3,2,4,441,1562997007023,N,1723,1
+217,1,40,target,target_14,C,/+/The fat woman * who was * sold a beautiful dress * left * the store happily./,Did the woman sell a dress?,N,,0,46,beautiful,9,2,8,13,3,3,4,424,1562997007447,N,1723,1
+217,1,40,target,target_14,C,/+/The fat woman * who was * sold a beautiful dress * left * the store happily./,Did the woman sell a dress?,N,,0,46,dress,10,2,9,13,3,4,4,472,1562997007919,N,1723,1
+217,1,40,target,target_14,C,/+/The fat woman * who was * sold a beautiful dress * left * the store happily./,Did the woman sell a dress?,N,,0,46,left,11,2,10,13,4,1,1,472,1562997008391,N,1723,1
+217,1,40,target,target_14,C,/+/The fat woman * who was * sold a beautiful dress * left * the store happily./,Did the woman sell a dress?,N,,0,46,the,12,2,11,13,5,1,3,440,1562997008831,N,1723,1
+217,1,40,target,target_14,C,/+/The fat woman * who was * sold a beautiful dress * left * the store happily./,Did the woman sell a dress?,N,,0,46,store,13,2,12,13,5,2,3,440,1562997009271,N,1723,1
+217,1,40,target,target_14,C,/+/The fat woman * who was * sold a beautiful dress * left * the store happily./,Did the woman sell a dress?,N,,0,46,happily.,14,2,13,13,5,3,3,696,1562997009967,N,1723,1
+217,1,41,filler,filler_1,,/+/The tall woman had a walk with her husband last night./,Did the woman had a walk alone? ,N,,0,47,+,1,1,1,1,1,1,1,855,1562997013047,N,1947,1
+217,1,41,filler,filler_1,,/+/The tall woman had a walk with her husband last night./,Did the woman had a walk alone? ,N,,0,47,The,2,2,1,11,1,1,11,480,1562997013527,N,1947,1
+217,1,41,filler,filler_1,,/+/The tall woman had a walk with her husband last night./,Did the woman had a walk alone? ,N,,0,47,tall,3,2,2,11,1,2,11,1175,1562997014702,N,1947,1
+217,1,41,filler,filler_1,,/+/The tall woman had a walk with her husband last night./,Did the woman had a walk alone? ,N,,0,47,woman,4,2,3,11,1,3,11,521,1562997015223,N,1947,1
+217,1,41,filler,filler_1,,/+/The tall woman had a walk with her husband last night./,Did the woman had a walk alone? ,N,,0,47,had,5,2,4,11,1,4,11,511,1562997015734,N,1947,1
+217,1,41,filler,filler_1,,/+/The tall woman had a walk with her husband last night./,Did the woman had a walk alone? ,N,,0,47,a,6,2,5,11,1,5,11,449,1562997016183,N,1947,1
+217,1,41,filler,filler_1,,/+/The tall woman had a walk with her husband last night./,Did the woman had a walk alone? ,N,,0,47,walk,7,2,6,11,1,6,11,432,1562997016615,N,1947,1
+217,1,41,filler,filler_1,,/+/The tall woman had a walk with her husband last night./,Did the woman had a walk alone? ,N,,0,47,with,8,2,7,11,1,7,11,440,1562997017055,N,1947,1
+217,1,41,filler,filler_1,,/+/The tall woman had a walk with her husband last night./,Did the woman had a walk alone? ,N,,0,47,her,9,2,8,11,1,8,11,415,1562997017471,N,1947,1
+217,1,41,filler,filler_1,,/+/The tall woman had a walk with her husband last night./,Did the woman had a walk alone? ,N,,0,47,husband,10,2,9,11,1,9,11,423,1562997017894,N,1947,1
+217,1,41,filler,filler_1,,/+/The tall woman had a walk with her husband last night./,Did the woman had a walk alone? ,N,,0,47,last,11,2,10,11,1,10,11,433,1562997018327,N,1947,1
+217,1,41,filler,filler_1,,/+/The tall woman had a walk with her husband last night./,Did the woman had a walk alone? ,N,,0,47,night.,12,2,11,11,1,11,11,439,1562997018766,N,1947,1
+217,1,42,filler,filler_11,,/+/The young student won the first place in the competition on Wednesday./,Did the young student win the competition?,Y,,0,48,+,1,1,1,1,1,1,1,726,1562997021942,Y,4643,1
+217,1,42,filler,filler_11,,/+/The young student won the first place in the competition on Wednesday./,Did the young student win the competition?,Y,,0,48,The,2,2,1,12,1,1,12,489,1562997022431,Y,4643,1
+217,1,42,filler,filler_11,,/+/The young student won the first place in the competition on Wednesday./,Did the young student win the competition?,Y,,0,48,young,3,2,2,12,1,2,12,519,1562997022950,Y,4643,1
+217,1,42,filler,filler_11,,/+/The young student won the first place in the competition on Wednesday./,Did the young student win the competition?,Y,,0,48,student,4,2,3,12,1,3,12,505,1562997023455,Y,4643,1
+217,1,42,filler,filler_11,,/+/The young student won the first place in the competition on Wednesday./,Did the young student win the competition?,Y,,0,48,won,5,2,4,12,1,4,12,1264,1562997024719,Y,4643,1
+217,1,42,filler,filler_11,,/+/The young student won the first place in the competition on Wednesday./,Did the young student win the competition?,Y,,0,48,the,6,2,5,12,1,5,12,384,1562997025103,Y,4643,1
+217,1,42,filler,filler_11,,/+/The young student won the first place in the competition on Wednesday./,Did the young student win the competition?,Y,,0,48,first,7,2,6,12,1,6,12,456,1562997025559,Y,4643,1
+217,1,42,filler,filler_11,,/+/The young student won the first place in the competition on Wednesday./,Did the young student win the competition?,Y,,0,48,place,8,2,7,12,1,7,12,407,1562997025966,Y,4643,1
+217,1,42,filler,filler_11,,/+/The young student won the first place in the competition on Wednesday./,Did the young student win the competition?,Y,,0,48,in,9,2,8,12,1,8,12,609,1562997026575,Y,4643,1
+217,1,42,filler,filler_11,,/+/The young student won the first place in the competition on Wednesday./,Did the young student win the competition?,Y,,0,48,the,10,2,9,12,1,9,12,728,1562997027303,Y,4643,1
+217,1,42,filler,filler_11,,/+/The young student won the first place in the competition on Wednesday./,Did the young student win the competition?,Y,,0,48,competition,11,2,10,12,1,10,12,952,1562997028255,Y,4643,1
+217,1,42,filler,filler_11,,/+/The young student won the first place in the competition on Wednesday./,Did the young student win the competition?,Y,,0,48,on,12,2,11,12,1,11,12,496,1562997028751,Y,4643,1
+217,1,42,filler,filler_11,,/+/The young student won the first place in the competition on Wednesday./,Did the young student win the competition?,Y,,0,48,Wednesday.,13,2,12,12,1,12,12,696,1562997029447,Y,4643,1
+217,1,43,filler,filler_29,,/+/The poor parents were not able to send their children to school./,Could the parents afford their children to school?,N,,0,49,+,1,1,1,1,1,1,1,366,1562997034958,N,4043,1
+217,1,43,filler,filler_29,,/+/The poor parents were not able to send their children to school./,Could the parents afford their children to school?,N,,0,49,The,2,2,1,12,1,1,12,425,1562997035383,N,4043,1
+217,1,43,filler,filler_29,,/+/The poor parents were not able to send their children to school./,Could the parents afford their children to school?,N,,0,49,poor,3,2,2,12,1,2,12,1344,1562997036727,N,4043,1
+217,1,43,filler,filler_29,,/+/The poor parents were not able to send their children to school./,Could the parents afford their children to school?,N,,0,49,parents,4,2,3,12,1,3,12,1000,1562997037727,N,4043,1
+217,1,43,filler,filler_29,,/+/The poor parents were not able to send their children to school./,Could the parents afford their children to school?,N,,0,49,were,5,2,4,12,1,4,12,504,1562997038231,N,4043,1
+217,1,43,filler,filler_29,,/+/The poor parents were not able to send their children to school./,Could the parents afford their children to school?,N,,0,49,not,6,2,5,12,1,5,12,448,1562997038679,N,4043,1
+217,1,43,filler,filler_29,,/+/The poor parents were not able to send their children to school./,Could the parents afford their children to school?,N,,0,49,able,7,2,6,12,1,6,12,415,1562997039094,N,4043,1
+217,1,43,filler,filler_29,,/+/The poor parents were not able to send their children to school./,Could the parents afford their children to school?,N,,0,49,to,8,2,7,12,1,7,12,433,1562997039527,N,4043,1
+217,1,43,filler,filler_29,,/+/The poor parents were not able to send their children to school./,Could the parents afford their children to school?,N,,0,49,send,9,2,8,12,1,8,12,352,1562997039879,N,4043,1
+217,1,43,filler,filler_29,,/+/The poor parents were not able to send their children to school./,Could the parents afford their children to school?,N,,0,49,their,10,2,9,12,1,9,12,472,1562997040351,N,4043,1
+217,1,43,filler,filler_29,,/+/The poor parents were not able to send their children to school./,Could the parents afford their children to school?,N,,0,49,children,11,2,10,12,1,10,12,751,1562997041102,N,4043,1
+217,1,43,filler,filler_29,,/+/The poor parents were not able to send their children to school./,Could the parents afford their children to school?,N,,0,49,to,12,2,11,12,1,11,12,409,1562997041511,N,4043,1
+217,1,43,filler,filler_29,,/+/The poor parents were not able to send their children to school./,Could the parents afford their children to school?,N,,0,49,school.,13,2,12,12,1,12,12,480,1562997041991,N,4043,1
+217,1,44,target,target_3,G,/+/A silly boy * called during the play * left * the theater quickly./,Did somebody call the boy during the play?,Y,,0,50,+,1,1,1,1,1,1,1,1487,1562997048023,Y,3764,1
+217,1,44,target,target_3,G,/+/A silly boy * called during the play * left * the theater quickly./,Did somebody call the boy during the play?,Y,,0,50,A,2,2,1,11,1,1,3,632,1562997048655,Y,3764,1
+217,1,44,target,target_3,G,/+/A silly boy * called during the play * left * the theater quickly./,Did somebody call the boy during the play?,Y,,0,50,silly,3,2,2,11,1,2,3,711,1562997049366,Y,3764,1
+217,1,44,target,target_3,G,/+/A silly boy * called during the play * left * the theater quickly./,Did somebody call the boy during the play?,Y,,0,50,boy,4,2,3,11,1,3,3,553,1562997049919,Y,3764,1
+217,1,44,target,target_3,G,/+/A silly boy * called during the play * left * the theater quickly./,Did somebody call the boy during the play?,Y,,0,50,called,5,2,4,11,2,1,4,720,1562997050639,Y,3764,1
+217,1,44,target,target_3,G,/+/A silly boy * called during the play * left * the theater quickly./,Did somebody call the boy during the play?,Y,,0,50,during,6,2,5,11,2,2,4,1328,1562997051967,Y,3764,1
+217,1,44,target,target_3,G,/+/A silly boy * called during the play * left * the theater quickly./,Did somebody call the boy during the play?,Y,,0,50,the,7,2,6,11,2,3,4,520,1562997052487,Y,3764,1
+217,1,44,target,target_3,G,/+/A silly boy * called during the play * left * the theater quickly./,Did somebody call the boy during the play?,Y,,0,50,play,8,2,7,11,2,4,4,2320,1562997054807,Y,3764,1
+217,1,44,target,target_3,G,/+/A silly boy * called during the play * left * the theater quickly./,Did somebody call the boy during the play?,Y,,0,50,left,9,2,8,11,3,1,1,543,1562997055350,Y,3764,1
+217,1,44,target,target_3,G,/+/A silly boy * called during the play * left * the theater quickly./,Did somebody call the boy during the play?,Y,,0,50,the,10,2,9,11,4,1,3,433,1562997055783,Y,3764,1
+217,1,44,target,target_3,G,/+/A silly boy * called during the play * left * the theater quickly./,Did somebody call the boy during the play?,Y,,0,50,theater,11,2,10,11,4,2,3,471,1562997056254,Y,3764,1
+217,1,44,target,target_3,G,/+/A silly boy * called during the play * left * the theater quickly./,Did somebody call the boy during the play?,Y,,0,50,quickly.,12,2,11,11,4,3,3,3648,1562997059903,Y,3764,1
+217,1,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0,51,+,1,1,1,1,1,1,1,2030,1562997066198,Y,4963,1
+217,1,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0,51,The,2,2,1,12,1,1,12,759,1562997066958,Y,4963,1
+217,1,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0,51,professor,3,2,2,12,1,2,12,1367,1562997068326,Y,4963,1
+217,1,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0,51,told,4,2,3,12,1,3,12,359,1562997068686,Y,4963,1
+217,1,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0,51,that,5,2,4,12,1,4,12,536,1562997069223,Y,4963,1
+217,1,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0,51,gesture,6,2,5,12,1,5,12,1815,1562997071038,Y,4963,1
+217,1,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0,51,was,7,2,6,12,1,6,12,407,1562997071446,Y,4963,1
+217,1,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0,51,an,8,2,7,12,1,7,12,495,1562997071942,Y,4963,1
+217,1,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0,51,important,9,2,8,12,1,8,12,1127,1562997073070,Y,4963,1
+217,1,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0,51,tool,10,2,9,12,1,9,12,471,1562997073542,Y,4963,1
+217,1,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0,51,to,11,2,10,12,1,10,12,408,1562997073950,Y,4963,1
+217,1,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0,51,convey,12,2,11,12,1,11,12,839,1562997074790,Y,4963,1
+217,1,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0,51,messages.,13,2,12,12,1,12,12,3791,1562997078582,Y,4963,1
+217,1,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0,51,convey,14,2,11,12,1,11,12,500,1562997079082,Y,4963,1
+217,1,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0,51,to,15,2,10,12,1,10,12,33,1562997079115,Y,4963,1
+217,1,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0,51,tool,16,2,9,12,1,9,12,33,1562997079148,Y,4963,1
+217,1,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0,51,important,17,2,8,12,1,8,12,33,1562997079181,Y,4963,1
+217,1,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0,51,an,18,2,7,12,1,7,12,33,1562997079214,Y,4963,1
+217,1,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0,51,was,19,2,6,12,1,6,12,33,1562997079247,Y,4963,1
+217,1,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0,51,gesture,20,2,5,12,1,5,12,33,1562997079280,Y,4963,1
+217,1,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0,51,that,21,2,4,12,1,4,12,33,1562997079313,Y,4963,1
+217,1,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0,51,told,22,2,3,12,1,3,12,581,1562997079894,Y,4963,1
+217,1,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0,51,professor,23,2,2,12,1,2,12,1376,1562997081270,Y,4963,1
+217,1,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0,51,told,24,2,3,12,1,3,12,498,1562997081769,Y,4963,1
+217,1,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0,51,that,25,2,4,12,1,4,12,32,1562997081802,Y,4963,1
+217,1,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0,51,gesture,26,2,5,12,1,5,12,33,1562997081835,Y,4963,1
+217,1,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0,51,was,27,2,6,12,1,6,12,427,1562997082262,Y,4963,1
+217,1,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0,51,an,28,2,7,12,1,7,12,384,1562997082646,Y,4963,1
+217,1,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0,51,important,29,2,8,12,1,8,12,224,1562997082870,Y,4963,1
+217,1,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0,51,tool,30,2,9,12,1,9,12,192,1562997083062,Y,4963,1
+217,1,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0,51,to,31,2,10,12,1,10,12,376,1562997083438,Y,4963,1
+217,1,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0,51,convey,32,2,11,12,1,11,12,391,1562997083829,Y,4963,1
+217,1,45,filler,filler_14,,/+/The professor told that gesture was an important tool to convey messages./,Did the professor tell the importance of gesture?,Y,,0,51,messages.,33,2,12,12,1,12,12,456,1562997084286,Y,4963,1
+217,1,46,filler,filler_31,,/+/The tour guide gave some helpful suggestions which made the trip perfect./,Were the tour guide's suggestions useless?,N,,0,52,+,1,1,1,1,1,1,1,3399,1562997093150,N,2844,1
+217,1,46,filler,filler_31,,/+/The tour guide gave some helpful suggestions which made the trip perfect./,Were the tour guide's suggestions useless?,N,,0,52,The,2,2,1,12,1,1,12,775,1562997093925,N,2844,1
+217,1,46,filler,filler_31,,/+/The tour guide gave some helpful suggestions which made the trip perfect./,Were the tour guide's suggestions useless?,N,,0,52,tour,3,2,2,12,1,2,12,609,1562997094534,N,2844,1
+217,1,46,filler,filler_31,,/+/The tour guide gave some helpful suggestions which made the trip perfect./,Were the tour guide's suggestions useless?,N,,0,52,guide,4,2,3,12,1,3,12,592,1562997095126,N,2844,1
+217,1,46,filler,filler_31,,/+/The tour guide gave some helpful suggestions which made the trip perfect./,Were the tour guide's suggestions useless?,N,,0,52,gave,5,2,4,12,1,4,12,472,1562997095598,N,2844,1
+217,1,46,filler,filler_31,,/+/The tour guide gave some helpful suggestions which made the trip perfect./,Were the tour guide's suggestions useless?,N,,0,52,some,6,2,5,12,1,5,12,440,1562997096038,N,2844,1
+217,1,46,filler,filler_31,,/+/The tour guide gave some helpful suggestions which made the trip perfect./,Were the tour guide's suggestions useless?,N,,0,52,helpful,7,2,6,12,1,6,12,456,1562997096494,N,2844,1
+217,1,46,filler,filler_31,,/+/The tour guide gave some helpful suggestions which made the trip perfect./,Were the tour guide's suggestions useless?,N,,0,52,suggestions,8,2,7,12,1,7,12,487,1562997096981,N,2844,1
+217,1,46,filler,filler_31,,/+/The tour guide gave some helpful suggestions which made the trip perfect./,Were the tour guide's suggestions useless?,N,,0,52,which,9,2,8,12,1,8,12,433,1562997097414,N,2844,1
+217,1,46,filler,filler_31,,/+/The tour guide gave some helpful suggestions which made the trip perfect./,Were the tour guide's suggestions useless?,N,,0,52,made,10,2,9,12,1,9,12,376,1562997097790,N,2844,1
+217,1,46,filler,filler_31,,/+/The tour guide gave some helpful suggestions which made the trip perfect./,Were the tour guide's suggestions useless?,N,,0,52,the,11,2,10,12,1,10,12,360,1562997098150,N,2844,1
+217,1,46,filler,filler_31,,/+/The tour guide gave some helpful suggestions which made the trip perfect./,Were the tour guide's suggestions useless?,N,,0,52,trip,12,2,11,12,1,11,12,344,1562997098494,N,2844,1
+217,1,46,filler,filler_31,,/+/The tour guide gave some helpful suggestions which made the trip perfect./,Were the tour guide's suggestions useless?,N,,0,52,perfect.,13,2,12,12,1,12,12,463,1562997098957,N,2844,1
+217,1,47,target,target_16,C,/+/Several angry workers * who were * told about low wages * decided * to have a protest./,Did the workers tell about low wages?,N,,0,53,+,1,1,1,1,1,1,1,412,1562997102718,N,5699,1
+217,1,47,target,target_16,C,/+/Several angry workers * who were * told about low wages * decided * to have a protest./,Did the workers tell about low wages?,N,,0,53,Several,2,2,1,14,1,1,3,408,1562997103126,N,5699,1
+217,1,47,target,target_16,C,/+/Several angry workers * who were * told about low wages * decided * to have a protest./,Did the workers tell about low wages?,N,,0,53,angry,3,2,2,14,1,2,3,967,1562997104093,N,5699,1
+217,1,47,target,target_16,C,/+/Several angry workers * who were * told about low wages * decided * to have a protest./,Did the workers tell about low wages?,N,,0,53,workers,4,2,3,14,1,3,3,809,1562997104902,N,5699,1
+217,1,47,target,target_16,C,/+/Several angry workers * who were * told about low wages * decided * to have a protest./,Did the workers tell about low wages?,N,,0,53,who,5,2,4,14,2,1,2,456,1562997105358,N,5699,1
+217,1,47,target,target_16,C,/+/Several angry workers * who were * told about low wages * decided * to have a protest./,Did the workers tell about low wages?,N,,0,53,were,6,2,5,14,2,2,2,424,1562997105782,N,5699,1
+217,1,47,target,target_16,C,/+/Several angry workers * who were * told about low wages * decided * to have a protest./,Did the workers tell about low wages?,N,,0,53,told,7,2,6,14,3,1,4,424,1562997106206,N,5699,1
+217,1,47,target,target_16,C,/+/Several angry workers * who were * told about low wages * decided * to have a protest./,Did the workers tell about low wages?,N,,0,53,about,8,2,7,14,3,2,4,424,1562997106630,N,5699,1
+217,1,47,target,target_16,C,/+/Several angry workers * who were * told about low wages * decided * to have a protest./,Did the workers tell about low wages?,N,,0,53,low,9,2,8,14,3,3,4,487,1562997107117,N,5699,1
+217,1,47,target,target_16,C,/+/Several angry workers * who were * told about low wages * decided * to have a protest./,Did the workers tell about low wages?,N,,0,53,wages,10,2,9,14,3,4,4,1417,1562997108534,N,5699,1
+217,1,47,target,target_16,C,/+/Several angry workers * who were * told about low wages * decided * to have a protest./,Did the workers tell about low wages?,N,,0,53,decided,11,2,10,14,4,1,1,720,1562997109254,N,5699,1
+217,1,47,target,target_16,C,/+/Several angry workers * who were * told about low wages * decided * to have a protest./,Did the workers tell about low wages?,N,,0,53,to,12,2,11,14,5,1,4,424,1562997109678,N,5699,1
+217,1,47,target,target_16,C,/+/Several angry workers * who were * told about low wages * decided * to have a protest./,Did the workers tell about low wages?,N,,0,53,have,13,2,12,14,5,2,4,383,1562997110061,N,5699,1
+217,1,47,target,target_16,C,/+/Several angry workers * who were * told about low wages * decided * to have a protest./,Did the workers tell about low wages?,N,,0,53,a,14,2,13,14,5,3,4,345,1562997110406,N,5699,1
+217,1,47,target,target_16,C,/+/Several angry workers * who were * told about low wages * decided * to have a protest./,Did the workers tell about low wages?,N,,0,53,protest.,15,2,14,14,5,4,4,480,1562997110886,N,5699,1
+217,1,48,filler,filler_32,,/+/The science lecture competition held last month was a big success./,Was the science lecture competition a big success?,Y,,0,54,+,1,1,1,1,1,1,1,1943,1562997119031,Y,2211,1
+217,1,48,filler,filler_32,,/+/The science lecture competition held last month was a big success./,Was the science lecture competition a big success?,Y,,0,54,The,2,2,1,11,1,1,11,495,1562997119527,Y,2211,1
+217,1,48,filler,filler_32,,/+/The science lecture competition held last month was a big success./,Was the science lecture competition a big success?,Y,,0,54,science,3,2,2,11,1,2,11,1424,1562997120951,Y,2211,1
+217,1,48,filler,filler_32,,/+/The science lecture competition held last month was a big success./,Was the science lecture competition a big success?,Y,,0,54,lecture,4,2,3,11,1,3,11,1031,1562997121983,Y,2211,1
+217,1,48,filler,filler_32,,/+/The science lecture competition held last month was a big success./,Was the science lecture competition a big success?,Y,,0,54,competition,5,2,4,11,1,4,11,1472,1562997123455,Y,2211,1
+217,1,48,filler,filler_32,,/+/The science lecture competition held last month was a big success./,Was the science lecture competition a big success?,Y,,0,54,held,6,2,5,11,1,5,11,400,1562997123855,Y,2211,1
+217,1,48,filler,filler_32,,/+/The science lecture competition held last month was a big success./,Was the science lecture competition a big success?,Y,,0,54,last,7,2,6,11,1,6,11,431,1562997124287,Y,2211,1
+217,1,48,filler,filler_32,,/+/The science lecture competition held last month was a big success./,Was the science lecture competition a big success?,Y,,0,54,month,8,2,7,11,1,7,11,512,1562997124799,Y,2211,1
+217,1,48,filler,filler_32,,/+/The science lecture competition held last month was a big success./,Was the science lecture competition a big success?,Y,,0,54,was,9,2,8,11,1,8,11,400,1562997125199,Y,2211,1
+217,1,48,filler,filler_32,,/+/The science lecture competition held last month was a big success./,Was the science lecture competition a big success?,Y,,0,54,a,10,2,9,11,1,9,11,352,1562997125551,Y,2211,1
+217,1,48,filler,filler_32,,/+/The science lecture competition held last month was a big success./,Was the science lecture competition a big success?,Y,,0,54,big,11,2,10,11,1,10,11,344,1562997125895,Y,2211,1
+217,1,48,filler,filler_32,,/+/The science lecture competition held last month was a big success./,Was the science lecture competition a big success?,Y,,0,54,success.,12,2,11,11,1,11,11,648,1562997126543,Y,2211,1
+217,1,49,filler,filler_12,,/+/The engineer said that the price of the house was too high./,Was the house cheap? ,N,,0,55,+,1,1,1,1,1,1,1,663,1562997129919,N,1178,1
+217,1,49,filler,filler_12,,/+/The engineer said that the price of the house was too high./,Was the house cheap? ,N,,0,55,The,2,2,1,12,1,1,12,503,1562997130422,N,1178,1
+217,1,49,filler,filler_12,,/+/The engineer said that the price of the house was too high./,Was the house cheap? ,N,,0,55,engineer,3,2,2,12,1,2,12,464,1562997130887,N,1178,1
+217,1,49,filler,filler_12,,/+/The engineer said that the price of the house was too high./,Was the house cheap? ,N,,0,55,said,4,2,3,12,1,3,12,463,1562997131350,N,1178,1
+217,1,49,filler,filler_12,,/+/The engineer said that the price of the house was too high./,Was the house cheap? ,N,,0,55,that,5,2,4,12,1,4,12,601,1562997131951,N,1178,1
+217,1,49,filler,filler_12,,/+/The engineer said that the price of the house was too high./,Was the house cheap? ,N,,0,55,the,6,2,5,12,1,5,12,624,1562997132575,N,1178,1
+217,1,49,filler,filler_12,,/+/The engineer said that the price of the house was too high./,Was the house cheap? ,N,,0,55,price,7,2,6,12,1,6,12,656,1562997133231,N,1178,1
+217,1,49,filler,filler_12,,/+/The engineer said that the price of the house was too high./,Was the house cheap? ,N,,0,55,of,8,2,7,12,1,7,12,608,1562997133839,N,1178,1
+217,1,49,filler,filler_12,,/+/The engineer said that the price of the house was too high./,Was the house cheap? ,N,,0,55,the,9,2,8,12,1,8,12,480,1562997134319,N,1178,1
+217,1,49,filler,filler_12,,/+/The engineer said that the price of the house was too high./,Was the house cheap? ,N,,0,55,house,10,2,9,12,1,9,12,712,1562997135031,N,1178,1
+217,1,49,filler,filler_12,,/+/The engineer said that the price of the house was too high./,Was the house cheap? ,N,,0,55,was,11,2,10,12,1,10,12,608,1562997135639,N,1178,1
+217,1,49,filler,filler_12,,/+/The engineer said that the price of the house was too high./,Was the house cheap? ,N,,0,55,too,12,2,11,12,1,11,12,536,1562997136175,N,1178,1
+217,1,49,filler,filler_12,,/+/The engineer said that the price of the house was too high./,Was the house cheap? ,N,,0,55,high.,13,2,12,12,1,12,12,696,1562997136871,N,1178,1
+217,1,50,filler,filler_9,,/+/The old uncle was woken up by the strong earthquake./,Was the uncle woken up by the earthquake?,Y,,0,56,+,1,1,1,1,1,1,1,592,1562997139143,Y,1794,1
+217,1,50,filler,filler_9,,/+/The old uncle was woken up by the strong earthquake./,Was the uncle woken up by the earthquake?,Y,,0,56,The,2,2,1,10,1,1,10,455,1562997139598,Y,1794,1
+217,1,50,filler,filler_9,,/+/The old uncle was woken up by the strong earthquake./,Was the uncle woken up by the earthquake?,Y,,0,56,old,3,2,2,10,1,2,10,448,1562997140047,Y,1794,1
+217,1,50,filler,filler_9,,/+/The old uncle was woken up by the strong earthquake./,Was the uncle woken up by the earthquake?,Y,,0,56,uncle,4,2,3,10,1,3,10,431,1562997140478,Y,1794,1
+217,1,50,filler,filler_9,,/+/The old uncle was woken up by the strong earthquake./,Was the uncle woken up by the earthquake?,Y,,0,56,was,5,2,4,10,1,4,10,400,1562997140879,Y,1794,1
+217,1,50,filler,filler_9,,/+/The old uncle was woken up by the strong earthquake./,Was the uncle woken up by the earthquake?,Y,,0,56,woken,6,2,5,10,1,5,10,448,1562997141327,Y,1794,1
+217,1,50,filler,filler_9,,/+/The old uncle was woken up by the strong earthquake./,Was the uncle woken up by the earthquake?,Y,,0,56,up,7,2,6,10,1,6,10,1136,1562997142463,Y,1794,1
+217,1,50,filler,filler_9,,/+/The old uncle was woken up by the strong earthquake./,Was the uncle woken up by the earthquake?,Y,,0,56,by,8,2,7,10,1,7,10,360,1562997142823,Y,1794,1
+217,1,50,filler,filler_9,,/+/The old uncle was woken up by the strong earthquake./,Was the uncle woken up by the earthquake?,Y,,0,56,the,9,2,8,10,1,8,10,368,1562997143191,Y,1794,1
+217,1,50,filler,filler_9,,/+/The old uncle was woken up by the strong earthquake./,Was the uncle woken up by the earthquake?,Y,,0,56,strong,10,2,9,10,1,9,10,423,1562997143614,Y,1794,1
+217,1,50,filler,filler_9,,/+/The old uncle was woken up by the strong earthquake./,Was the uncle woken up by the earthquake?,Y,,0,56,earthquake.,11,2,10,10,1,10,10,673,1562997144287,Y,1794,1
+217,1,51,target,target_17,G,/+/The hungry child * bought a chocolate * followed * his mother closely./,Did the child buy a chocolate?,N,,0,57,+,1,1,1,1,1,1,1,424,1562997147007,N,10907,1
+217,1,51,target,target_17,G,/+/The hungry child * bought a chocolate * followed * his mother closely./,Did the child buy a chocolate?,N,,0,57,The,2,2,1,10,1,1,3,416,1562997147423,N,10907,1
+217,1,51,target,target_17,G,/+/The hungry child * bought a chocolate * followed * his mother closely./,Did the child buy a chocolate?,N,,0,57,hungry,3,2,2,10,1,2,3,504,1562997147927,N,10907,1
+217,1,51,target,target_17,G,/+/The hungry child * bought a chocolate * followed * his mother closely./,Did the child buy a chocolate?,N,,0,57,child,4,2,3,10,1,3,3,504,1562997148431,N,10907,1
+217,1,51,target,target_17,G,/+/The hungry child * bought a chocolate * followed * his mother closely./,Did the child buy a chocolate?,N,,0,57,bought,5,2,4,10,2,1,3,816,1562997149247,N,10907,1
+217,1,51,target,target_17,G,/+/The hungry child * bought a chocolate * followed * his mother closely./,Did the child buy a chocolate?,N,,0,57,a,6,2,5,10,2,2,3,519,1562997149766,N,10907,1
+217,1,51,target,target_17,G,/+/The hungry child * bought a chocolate * followed * his mother closely./,Did the child buy a chocolate?,N,,0,57,chocolate,7,2,6,10,2,3,3,888,1562997150654,N,10907,1
+217,1,51,target,target_17,G,/+/The hungry child * bought a chocolate * followed * his mother closely./,Did the child buy a chocolate?,N,,0,57,followed,8,2,7,10,3,1,1,577,1562997151231,N,10907,1
+217,1,51,target,target_17,G,/+/The hungry child * bought a chocolate * followed * his mother closely./,Did the child buy a chocolate?,N,,0,57,his,9,2,8,10,4,1,3,704,1562997151935,N,10907,1
+217,1,51,target,target_17,G,/+/The hungry child * bought a chocolate * followed * his mother closely./,Did the child buy a chocolate?,N,,0,57,mother,10,2,9,10,4,2,3,504,1562997152439,N,10907,1
+217,1,51,target,target_17,G,/+/The hungry child * bought a chocolate * followed * his mother closely./,Did the child buy a chocolate?,N,,0,57,closely.,11,2,10,10,4,3,3,856,1562997153295,N,10907,1
+217,1,52,filler,filler_3,,/+/The ticket enabled the guest to have a free meal in a Chinese restaurant./,Did the ticket enable a free meal?,Y,,0,58,+,1,1,1,1,1,1,1,1511,1562997166215,Y,3476,1
+217,1,52,filler,filler_3,,/+/The ticket enabled the guest to have a free meal in a Chinese restaurant./,Did the ticket enable a free meal?,Y,,0,58,The,2,2,1,14,1,1,14,1168,1562997167383,Y,3476,1
+217,1,52,filler,filler_3,,/+/The ticket enabled the guest to have a free meal in a Chinese restaurant./,Did the ticket enable a free meal?,Y,,0,58,ticket,3,2,2,14,1,2,14,535,1562997167918,Y,3476,1
+217,1,52,filler,filler_3,,/+/The ticket enabled the guest to have a free meal in a Chinese restaurant./,Did the ticket enable a free meal?,Y,,0,58,enabled,4,2,3,14,1,3,14,1161,1562997169079,Y,3476,1
+217,1,52,filler,filler_3,,/+/The ticket enabled the guest to have a free meal in a Chinese restaurant./,Did the ticket enable a free meal?,Y,,0,58,the,5,2,4,14,1,4,14,584,1562997169663,Y,3476,1
+217,1,52,filler,filler_3,,/+/The ticket enabled the guest to have a free meal in a Chinese restaurant./,Did the ticket enable a free meal?,Y,,0,58,guest,6,2,5,14,1,5,14,1367,1562997171030,Y,3476,1
+217,1,52,filler,filler_3,,/+/The ticket enabled the guest to have a free meal in a Chinese restaurant./,Did the ticket enable a free meal?,Y,,0,58,to,7,2,6,14,1,6,14,449,1562997171479,Y,3476,1
+217,1,52,filler,filler_3,,/+/The ticket enabled the guest to have a free meal in a Chinese restaurant./,Did the ticket enable a free meal?,Y,,0,58,have,8,2,7,14,1,7,14,535,1562997172014,Y,3476,1
+217,1,52,filler,filler_3,,/+/The ticket enabled the guest to have a free meal in a Chinese restaurant./,Did the ticket enable a free meal?,Y,,0,58,a,9,2,8,14,1,8,14,1753,1562997173767,Y,3476,1
+217,1,52,filler,filler_3,,/+/The ticket enabled the guest to have a free meal in a Chinese restaurant./,Did the ticket enable a free meal?,Y,,0,58,free,10,2,9,14,1,9,14,520,1562997174287,Y,3476,1
+217,1,52,filler,filler_3,,/+/The ticket enabled the guest to have a free meal in a Chinese restaurant./,Did the ticket enable a free meal?,Y,,0,58,meal,11,2,10,14,1,10,14,960,1562997175247,Y,3476,1
+217,1,52,filler,filler_3,,/+/The ticket enabled the guest to have a free meal in a Chinese restaurant./,Did the ticket enable a free meal?,Y,,0,58,in,12,2,11,14,1,11,14,608,1562997175855,Y,3476,1
+217,1,52,filler,filler_3,,/+/The ticket enabled the guest to have a free meal in a Chinese restaurant./,Did the ticket enable a free meal?,Y,,0,58,a,13,2,12,14,1,12,14,632,1562997176487,Y,3476,1
+217,1,52,filler,filler_3,,/+/The ticket enabled the guest to have a free meal in a Chinese restaurant./,Did the ticket enable a free meal?,Y,,0,58,Chinese,14,2,13,14,1,13,14,1728,1562997178215,Y,3476,1
+217,1,52,filler,filler_3,,/+/The ticket enabled the guest to have a free meal in a Chinese restaurant./,Did the ticket enable a free meal?,Y,,0,58,restaurant.,15,2,14,14,1,14,14,1456,1562997179671,Y,3476,1
+217,1,53,filler,filler_39,,/+/The young boy spent a great deal of money on English learning books./,Did the young boy spend a great deal of money?,Y,,0,59,+,1,1,1,1,1,1,1,1023,1562997184671,Y,3179,1
+217,1,53,filler,filler_39,,/+/The young boy spent a great deal of money on English learning books./,Did the young boy spend a great deal of money?,Y,,0,59,The,2,2,1,13,1,1,13,527,1562997185198,Y,3179,1
+217,1,53,filler,filler_39,,/+/The young boy spent a great deal of money on English learning books./,Did the young boy spend a great deal of money?,Y,,0,59,young,3,2,2,13,1,2,13,481,1562997185679,Y,3179,1
+217,1,53,filler,filler_39,,/+/The young boy spent a great deal of money on English learning books./,Did the young boy spend a great deal of money?,Y,,0,59,boy,4,2,3,13,1,3,13,408,1562997186087,Y,3179,1
+217,1,53,filler,filler_39,,/+/The young boy spent a great deal of money on English learning books./,Did the young boy spend a great deal of money?,Y,,0,59,spent,5,2,4,13,1,4,13,448,1562997186535,Y,3179,1
+217,1,53,filler,filler_39,,/+/The young boy spent a great deal of money on English learning books./,Did the young boy spend a great deal of money?,Y,,0,59,a,6,2,5,13,1,5,13,408,1562997186943,Y,3179,1
+217,1,53,filler,filler_39,,/+/The young boy spent a great deal of money on English learning books./,Did the young boy spend a great deal of money?,Y,,0,59,great,7,2,6,13,1,6,13,408,1562997187351,Y,3179,1
+217,1,53,filler,filler_39,,/+/The young boy spent a great deal of money on English learning books./,Did the young boy spend a great deal of money?,Y,,0,59,deal,8,2,7,13,1,7,13,408,1562997187759,Y,3179,1
+217,1,53,filler,filler_39,,/+/The young boy spent a great deal of money on English learning books./,Did the young boy spend a great deal of money?,Y,,0,59,of,9,2,8,13,1,8,13,535,1562997188294,Y,3179,1
+217,1,53,filler,filler_39,,/+/The young boy spent a great deal of money on English learning books./,Did the young boy spend a great deal of money?,Y,,0,59,money,10,2,9,13,1,9,13,705,1562997188999,Y,3179,1
+217,1,53,filler,filler_39,,/+/The young boy spent a great deal of money on English learning books./,Did the young boy spend a great deal of money?,Y,,0,59,on,11,2,10,13,1,10,13,416,1562997189415,Y,3179,1
+217,1,53,filler,filler_39,,/+/The young boy spent a great deal of money on English learning books./,Did the young boy spend a great deal of money?,Y,,0,59,English,12,2,11,13,1,11,13,448,1562997189863,Y,3179,1
+217,1,53,filler,filler_39,,/+/The young boy spent a great deal of money on English learning books./,Did the young boy spend a great deal of money?,Y,,0,59,learning,13,2,12,13,1,12,13,520,1562997190383,Y,3179,1
+217,1,53,filler,filler_39,,/+/The young boy spent a great deal of money on English learning books./,Did the young boy spend a great deal of money?,Y,,0,59,books.,14,2,13,13,1,13,13,456,1562997190839,Y,3179,1
+217,1,54,target,target_11,C,/+/The university student * who was * informed of the meeting * got up * in a hurry./,Did someone inform the student of the meeting?,Y,,0,60,+,1,1,1,1,1,1,1,383,1562997194903,Y,2571,1
+217,1,54,target,target_11,C,/+/The university student * who was * informed of the meeting * got up * in a hurry./,Did someone inform the student of the meeting?,Y,,0,60,The,2,2,1,14,1,1,3,399,1562997195302,Y,2571,1
+217,1,54,target,target_11,C,/+/The university student * who was * informed of the meeting * got up * in a hurry./,Did someone inform the student of the meeting?,Y,,0,60,university,3,2,2,14,1,2,3,481,1562997195783,Y,2571,1
+217,1,54,target,target_11,C,/+/The university student * who was * informed of the meeting * got up * in a hurry./,Did someone inform the student of the meeting?,Y,,0,60,student,4,2,3,14,1,3,3,463,1562997196246,Y,2571,1
+217,1,54,target,target_11,C,/+/The university student * who was * informed of the meeting * got up * in a hurry./,Did someone inform the student of the meeting?,Y,,0,60,who,5,2,4,14,2,1,2,440,1562997196687,Y,2571,1
+217,1,54,target,target_11,C,/+/The university student * who was * informed of the meeting * got up * in a hurry./,Did someone inform the student of the meeting?,Y,,0,60,was,6,2,5,14,2,2,2,392,1562997197079,Y,2571,1
+217,1,54,target,target_11,C,/+/The university student * who was * informed of the meeting * got up * in a hurry./,Did someone inform the student of the meeting?,Y,,0,60,informed,7,2,6,14,3,1,4,440,1562997197519,Y,2571,1
+217,1,54,target,target_11,C,/+/The university student * who was * informed of the meeting * got up * in a hurry./,Did someone inform the student of the meeting?,Y,,0,60,of,8,2,7,14,3,2,4,384,1562997197903,Y,2571,1
+217,1,54,target,target_11,C,/+/The university student * who was * informed of the meeting * got up * in a hurry./,Did someone inform the student of the meeting?,Y,,0,60,the,9,2,8,14,3,3,4,495,1562997198398,Y,2571,1
+217,1,54,target,target_11,C,/+/The university student * who was * informed of the meeting * got up * in a hurry./,Did someone inform the student of the meeting?,Y,,0,60,meeting,10,2,9,14,3,4,4,529,1562997198927,Y,2571,1
+217,1,54,target,target_11,C,/+/The university student * who was * informed of the meeting * got up * in a hurry./,Did someone inform the student of the meeting?,Y,,0,60,got,11,2,10,14,4,1,2,527,1562997199454,Y,2571,1
+217,1,54,target,target_11,C,/+/The university student * who was * informed of the meeting * got up * in a hurry./,Did someone inform the student of the meeting?,Y,,0,60,up,12,2,11,14,4,2,2,457,1562997199911,Y,2571,1
+217,1,54,target,target_11,C,/+/The university student * who was * informed of the meeting * got up * in a hurry./,Did someone inform the student of the meeting?,Y,,0,60,in,13,2,12,14,5,1,3,455,1562997200366,Y,2571,1
+217,1,54,target,target_11,C,/+/The university student * who was * informed of the meeting * got up * in a hurry./,Did someone inform the student of the meeting?,Y,,0,60,a,14,2,13,14,5,2,3,417,1562997200783,Y,2571,1
+217,1,54,target,target_11,C,/+/The university student * who was * informed of the meeting * got up * in a hurry./,Did someone inform the student of the meeting?,Y,,0,60,hurry.,15,2,14,14,5,3,3,583,1562997201366,Y,2571,1
+217,1,55,filler,filler_28,,/+/The new restaurant became more and more popular with families./,Did the new restaurant become unpopular?,N,,0,61,+,1,1,1,1,1,1,1,537,1562997204975,N,3555,1
+217,1,55,filler,filler_28,,/+/The new restaurant became more and more popular with families./,Did the new restaurant become unpopular?,N,,0,61,The,2,2,1,10,1,1,10,423,1562997205398,N,3555,1
+217,1,55,filler,filler_28,,/+/The new restaurant became more and more popular with families./,Did the new restaurant become unpopular?,N,,0,61,new,3,2,2,10,1,2,10,425,1562997205823,N,3555,1
+217,1,55,filler,filler_28,,/+/The new restaurant became more and more popular with families./,Did the new restaurant become unpopular?,N,,0,61,restaurant,4,2,3,10,1,3,10,424,1562997206247,N,3555,1
+217,1,55,filler,filler_28,,/+/The new restaurant became more and more popular with families./,Did the new restaurant become unpopular?,N,,0,61,became,5,2,4,10,1,4,10,448,1562997206695,N,3555,1
+217,1,55,filler,filler_28,,/+/The new restaurant became more and more popular with families./,Did the new restaurant become unpopular?,N,,0,61,more,6,2,5,10,1,5,10,464,1562997207159,N,3555,1
+217,1,55,filler,filler_28,,/+/The new restaurant became more and more popular with families./,Did the new restaurant become unpopular?,N,,0,61,and,7,2,6,10,1,6,10,448,1562997207607,N,3555,1
+217,1,55,filler,filler_28,,/+/The new restaurant became more and more popular with families./,Did the new restaurant become unpopular?,N,,0,61,more,8,2,7,10,1,7,10,464,1562997208071,N,3555,1
+217,1,55,filler,filler_28,,/+/The new restaurant became more and more popular with families./,Did the new restaurant become unpopular?,N,,0,61,popular,9,2,8,10,1,8,10,463,1562997208534,N,3555,1
+217,1,55,filler,filler_28,,/+/The new restaurant became more and more popular with families./,Did the new restaurant become unpopular?,N,,0,61,with,10,2,9,10,1,9,10,569,1562997209103,N,3555,1
+217,1,55,filler,filler_28,,/+/The new restaurant became more and more popular with families./,Did the new restaurant become unpopular?,N,,0,61,families.,11,2,10,10,1,10,10,992,1562997210095,N,3555,1
+217,1,56,filler,filler_8,,/+/The postman used up all his energy in the busy afternoon./,Did the postman use up his energy?,Y,,0,62,+,1,1,1,1,1,1,1,567,1562997214719,Y,3915,1
+217,1,56,filler,filler_8,,/+/The postman used up all his energy in the busy afternoon./,Did the postman use up his energy?,Y,,0,62,The,2,2,1,11,1,1,11,416,1562997215135,Y,3915,1
+217,1,56,filler,filler_8,,/+/The postman used up all his energy in the busy afternoon./,Did the postman use up his energy?,Y,,0,62,postman,3,2,2,11,1,2,11,664,1562997215799,Y,3915,1
+217,1,56,filler,filler_8,,/+/The postman used up all his energy in the busy afternoon./,Did the postman use up his energy?,Y,,0,62,used,4,2,3,11,1,3,11,456,1562997216255,Y,3915,1
+217,1,56,filler,filler_8,,/+/The postman used up all his energy in the busy afternoon./,Did the postman use up his energy?,Y,,0,62,up,5,2,4,11,1,4,11,447,1562997216702,Y,3915,1
+217,1,56,filler,filler_8,,/+/The postman used up all his energy in the busy afternoon./,Did the postman use up his energy?,Y,,0,62,all,6,2,5,11,1,5,11,465,1562997217167,Y,3915,1
+217,1,56,filler,filler_8,,/+/The postman used up all his energy in the busy afternoon./,Did the postman use up his energy?,Y,,0,62,his,7,2,6,11,1,6,11,944,1562997218111,Y,3915,1
+217,1,56,filler,filler_8,,/+/The postman used up all his energy in the busy afternoon./,Did the postman use up his energy?,Y,,0,62,energy,8,2,7,11,1,7,11,1056,1562997219167,Y,3915,1
+217,1,56,filler,filler_8,,/+/The postman used up all his energy in the busy afternoon./,Did the postman use up his energy?,Y,,0,62,in,9,2,8,11,1,8,11,439,1562997219606,Y,3915,1
+217,1,56,filler,filler_8,,/+/The postman used up all his energy in the busy afternoon./,Did the postman use up his energy?,Y,,0,62,the,10,2,9,11,1,9,11,425,1562997220031,Y,3915,1
+217,1,56,filler,filler_8,,/+/The postman used up all his energy in the busy afternoon./,Did the postman use up his energy?,Y,,0,62,busy,11,2,10,11,1,10,11,1296,1562997221327,Y,3915,1
+217,1,56,filler,filler_8,,/+/The postman used up all his energy in the busy afternoon./,Did the postman use up his energy?,Y,,0,62,afternoon.,12,2,11,11,1,11,11,760,1562997222087,Y,3915,1
+217,1,57,filler,filler_4,,/+/The teacher did not suggest that the whole book should be read./,Did the teacher suggest reading the whole book?,N,,0,63,+,1,1,1,1,1,1,1,1007,1562997227511,N,2083,1
+217,1,57,filler,filler_4,,/+/The teacher did not suggest that the whole book should be read./,Did the teacher suggest reading the whole book?,N,,0,63,The,2,2,1,12,1,1,12,391,1562997227902,N,2083,1
+217,1,57,filler,filler_4,,/+/The teacher did not suggest that the whole book should be read./,Did the teacher suggest reading the whole book?,N,,0,63,teacher,3,2,2,12,1,2,12,441,1562997228343,N,2083,1
+217,1,57,filler,filler_4,,/+/The teacher did not suggest that the whole book should be read./,Did the teacher suggest reading the whole book?,N,,0,63,did,4,2,3,12,1,3,12,344,1562997228687,N,2083,1
+217,1,57,filler,filler_4,,/+/The teacher did not suggest that the whole book should be read./,Did the teacher suggest reading the whole book?,N,,0,63,not,5,2,4,12,1,4,12,408,1562997229095,N,2083,1
+217,1,57,filler,filler_4,,/+/The teacher did not suggest that the whole book should be read./,Did the teacher suggest reading the whole book?,N,,0,63,suggest,6,2,5,12,1,5,12,432,1562997229527,N,2083,1
+217,1,57,filler,filler_4,,/+/The teacher did not suggest that the whole book should be read./,Did the teacher suggest reading the whole book?,N,,0,63,that,7,2,6,12,1,6,12,384,1562997229911,N,2083,1
+217,1,57,filler,filler_4,,/+/The teacher did not suggest that the whole book should be read./,Did the teacher suggest reading the whole book?,N,,0,63,the,8,2,7,12,1,7,12,392,1562997230303,N,2083,1
+217,1,57,filler,filler_4,,/+/The teacher did not suggest that the whole book should be read./,Did the teacher suggest reading the whole book?,N,,0,63,whole,9,2,8,12,1,8,12,399,1562997230702,N,2083,1
+217,1,57,filler,filler_4,,/+/The teacher did not suggest that the whole book should be read./,Did the teacher suggest reading the whole book?,N,,0,63,book,10,2,9,12,1,9,12,336,1562997231039,N,2083,1
+217,1,57,filler,filler_4,,/+/The teacher did not suggest that the whole book should be read./,Did the teacher suggest reading the whole book?,N,,0,63,should,11,2,10,12,1,10,12,392,1562997231431,N,2083,1
+217,1,57,filler,filler_4,,/+/The teacher did not suggest that the whole book should be read./,Did the teacher suggest reading the whole book?,N,,0,63,be,12,2,11,12,1,11,12,415,1562997231846,N,2083,1
+217,1,57,filler,filler_4,,/+/The teacher did not suggest that the whole book should be read./,Did the teacher suggest reading the whole book?,N,,0,63,read.,13,2,12,12,1,12,12,449,1562997232295,N,2083,1
+217,1,58,target,target_19,G,/+/The kind grandma * brought a New Year present * gave * her grandson money in return./,Did the grandma bring a present?,N,,0,64,+,1,1,1,1,1,1,1,1096,1562997235974,N,2675,1
+217,1,58,target,target_19,G,/+/The kind grandma * brought a New Year present * gave * her grandson money in return./,Did the grandma bring a present?,N,,0,64,The,2,2,1,14,1,1,3,401,1562997236375,N,2675,1
+217,1,58,target,target_19,G,/+/The kind grandma * brought a New Year present * gave * her grandson money in return./,Did the grandma bring a present?,N,,0,64,kind,3,2,2,14,1,2,3,423,1562997236798,N,2675,1
+217,1,58,target,target_19,G,/+/The kind grandma * brought a New Year present * gave * her grandson money in return./,Did the grandma bring a present?,N,,0,64,grandma,4,2,3,14,1,3,3,903,1562997237702,N,2675,1
+217,1,58,target,target_19,G,/+/The kind grandma * brought a New Year present * gave * her grandson money in return./,Did the grandma bring a present?,N,,0,64,brought,5,2,4,14,2,1,5,1032,1562997238735,N,2675,1
+217,1,58,target,target_19,G,/+/The kind grandma * brought a New Year present * gave * her grandson money in return./,Did the grandma bring a present?,N,,0,64,a,6,2,5,14,2,2,5,415,1562997239151,N,2675,1
+217,1,58,target,target_19,G,/+/The kind grandma * brought a New Year present * gave * her grandson money in return./,Did the grandma bring a present?,N,,0,64,New,7,2,6,14,2,3,5,456,1562997239607,N,2675,1
+217,1,58,target,target_19,G,/+/The kind grandma * brought a New Year present * gave * her grandson money in return./,Did the grandma bring a present?,N,,0,64,Year,8,2,7,14,2,4,5,543,1562997240151,N,2675,1
+217,1,58,target,target_19,G,/+/The kind grandma * brought a New Year present * gave * her grandson money in return./,Did the grandma bring a present?,N,,0,64,present,9,2,8,14,2,5,5,776,1562997240927,N,2675,1
+217,1,58,target,target_19,G,/+/The kind grandma * brought a New Year present * gave * her grandson money in return./,Did the grandma bring a present?,N,,0,64,gave,10,2,9,14,3,1,1,344,1562997241271,N,2675,1
+217,1,58,target,target_19,G,/+/The kind grandma * brought a New Year present * gave * her grandson money in return./,Did the grandma bring a present?,N,,0,64,her,11,2,10,14,4,1,5,399,1562997241671,N,2675,1
+217,1,58,target,target_19,G,/+/The kind grandma * brought a New Year present * gave * her grandson money in return./,Did the grandma bring a present?,N,,0,64,grandson,12,2,11,14,4,2,5,495,1562997242167,N,2675,1
+217,1,58,target,target_19,G,/+/The kind grandma * brought a New Year present * gave * her grandson money in return./,Did the grandma bring a present?,N,,0,64,money,13,2,12,14,4,3,5,927,1562997243095,N,2675,1
+217,1,58,target,target_19,G,/+/The kind grandma * brought a New Year present * gave * her grandson money in return./,Did the grandma bring a present?,N,,0,64,in,14,2,13,14,4,4,5,856,1562997243951,N,2675,1
+217,1,58,target,target_19,G,/+/The kind grandma * brought a New Year present * gave * her grandson money in return./,Did the grandma bring a present?,N,,0,64,return.,15,2,14,14,4,5,5,1095,1562997245046,N,2675,1
+217,1,59,filler,filler_40,,/+/Twenty students were asked to vote on when to repair the dormitory./,Were forty students asked to vote?,N,,0,65,+,1,1,1,1,1,1,1,487,1562997248711,Y,2930,0
+217,1,59,filler,filler_40,,/+/Twenty students were asked to vote on when to repair the dormitory./,Were forty students asked to vote?,N,,0,65,Twenty,2,2,1,12,1,1,12,2576,1562997251287,Y,2930,0
+217,1,59,filler,filler_40,,/+/Twenty students were asked to vote on when to repair the dormitory./,Were forty students asked to vote?,N,,0,65,students,3,2,2,12,1,2,12,1040,1562997252327,Y,2930,0
+217,1,59,filler,filler_40,,/+/Twenty students were asked to vote on when to repair the dormitory./,Were forty students asked to vote?,N,,0,65,were,4,2,3,12,1,3,12,601,1562997252928,Y,2930,0
+217,1,59,filler,filler_40,,/+/Twenty students were asked to vote on when to repair the dormitory./,Were forty students asked to vote?,N,,0,65,asked,5,2,4,12,1,4,12,487,1562997253415,Y,2930,0
+217,1,59,filler,filler_40,,/+/Twenty students were asked to vote on when to repair the dormitory./,Were forty students asked to vote?,N,,0,65,to,6,2,5,12,1,5,12,440,1562997253855,Y,2930,0
+217,1,59,filler,filler_40,,/+/Twenty students were asked to vote on when to repair the dormitory./,Were forty students asked to vote?,N,,0,65,vote,7,2,6,12,1,6,12,375,1562997254230,Y,2930,0
+217,1,59,filler,filler_40,,/+/Twenty students were asked to vote on when to repair the dormitory./,Were forty students asked to vote?,N,,0,65,on,8,2,7,12,1,7,12,337,1562997254567,Y,2930,0
+217,1,59,filler,filler_40,,/+/Twenty students were asked to vote on when to repair the dormitory./,Were forty students asked to vote?,N,,0,65,when,9,2,8,12,1,8,12,368,1562997254935,Y,2930,0
+217,1,59,filler,filler_40,,/+/Twenty students were asked to vote on when to repair the dormitory./,Were forty students asked to vote?,N,,0,65,to,10,2,9,12,1,9,12,408,1562997255343,Y,2930,0
+217,1,59,filler,filler_40,,/+/Twenty students were asked to vote on when to repair the dormitory./,Were forty students asked to vote?,N,,0,65,repair,11,2,10,12,1,10,12,384,1562997255727,Y,2930,0
+217,1,59,filler,filler_40,,/+/Twenty students were asked to vote on when to repair the dormitory./,Were forty students asked to vote?,N,,0,65,the,12,2,11,12,1,11,12,391,1562997256118,Y,2930,0
+217,1,59,filler,filler_40,,/+/Twenty students were asked to vote on when to repair the dormitory./,Were forty students asked to vote?,N,,0,65,dormitory.,13,2,12,12,1,12,12,1745,1562997257863,Y,2930,0
+217,1,60,target,target_5,C,/+/Many small stones * that were * dropped from the cliff * damaged * passing cars below./,Did somebody drop many stones from the cliff?,Y,,0,66,+,1,1,1,1,1,1,1,768,1562997262063,Y,4308,1
+217,1,60,target,target_5,C,/+/Many small stones * that were * dropped from the cliff * damaged * passing cars below./,Did somebody drop many stones from the cliff?,Y,,0,66,Many,2,2,1,13,1,1,3,408,1562997262471,Y,4308,1
+217,1,60,target,target_5,C,/+/Many small stones * that were * dropped from the cliff * damaged * passing cars below./,Did somebody drop many stones from the cliff?,Y,,0,66,small,3,2,2,13,1,2,3,408,1562997262879,Y,4308,1
+217,1,60,target,target_5,C,/+/Many small stones * that were * dropped from the cliff * damaged * passing cars below./,Did somebody drop many stones from the cliff?,Y,,0,66,stones,4,2,3,13,1,3,3,1247,1562997264127,Y,4308,1
+217,1,60,target,target_5,C,/+/Many small stones * that were * dropped from the cliff * damaged * passing cars below./,Did somebody drop many stones from the cliff?,Y,,0,66,that,5,2,4,13,2,1,2,424,1562997264551,Y,4308,1
+217,1,60,target,target_5,C,/+/Many small stones * that were * dropped from the cliff * damaged * passing cars below./,Did somebody drop many stones from the cliff?,Y,,0,66,were,6,2,5,13,2,2,2,384,1562997264935,Y,4308,1
+217,1,60,target,target_5,C,/+/Many small stones * that were * dropped from the cliff * damaged * passing cars below./,Did somebody drop many stones from the cliff?,Y,,0,66,dropped,7,2,6,13,3,1,4,391,1562997265326,Y,4308,1
+217,1,60,target,target_5,C,/+/Many small stones * that were * dropped from the cliff * damaged * passing cars below./,Did somebody drop many stones from the cliff?,Y,,0,66,from,8,2,7,13,3,2,4,809,1562997266135,Y,4308,1
+217,1,60,target,target_5,C,/+/Many small stones * that were * dropped from the cliff * damaged * passing cars below./,Did somebody drop many stones from the cliff?,Y,,0,66,the,9,2,8,13,3,3,4,456,1562997266591,Y,4308,1
+217,1,60,target,target_5,C,/+/Many small stones * that were * dropped from the cliff * damaged * passing cars below./,Did somebody drop many stones from the cliff?,Y,,0,66,cliff,10,2,9,13,3,4,4,344,1562997266935,Y,4308,1
+217,1,60,target,target_5,C,/+/Many small stones * that were * dropped from the cliff * damaged * passing cars below./,Did somebody drop many stones from the cliff?,Y,,0,66,damaged,11,2,10,13,4,1,1,848,1562997267783,Y,4308,1
+217,1,60,target,target_5,C,/+/Many small stones * that were * dropped from the cliff * damaged * passing cars below./,Did somebody drop many stones from the cliff?,Y,,0,66,passing,12,2,11,13,5,1,3,495,1562997268278,Y,4308,1
+217,1,60,target,target_5,C,/+/Many small stones * that were * dropped from the cliff * damaged * passing cars below./,Did somebody drop many stones from the cliff?,Y,,0,66,cars,13,2,12,13,5,2,3,545,1562997268823,Y,4308,1
+217,1,60,target,target_5,C,/+/Many small stones * that were * dropped from the cliff * damaged * passing cars below./,Did somebody drop many stones from the cliff?,Y,,0,66,below.,14,2,13,13,5,3,3,479,1562997269302,Y,4308,1
