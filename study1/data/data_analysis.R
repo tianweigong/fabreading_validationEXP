@@ -49,15 +49,6 @@ corMat <- function(dt.target){
 #' #  Accuracy
 dt=read_csv("ACC_data.csv")
 
-#' ##  Overall Accuracy
-dt%>%
-  summarySE(measurevar = "dat_Accuracy",groupvars = c("dat_Subject"))%>%
-  ggplot(aes(x=dat_Subject,y=dat_Accuracy))+
-  geom_bar(position=position_dodge(),
-           stat="identity")+
-  ggtitle("Participants' ACC")+
-  scale_y_continuous(breaks = c(0,0.2,0.4,0.6,0.8,1.0))+
-  scale_x_continuous(breaks = c(201:232))
 #' ##  Target Accuracy
 dt=subset(dt,con=="G"|con=="C")
 
@@ -75,7 +66,7 @@ skewness(dt.pair$C)
 t.test(dt.pair$C,dt.pair$G,paired = TRUE)
 cohen.d(d=c(dt.pair$C,dt.pair$G), rep(c("Treatment","Control"),each=nrow(dt.pair)),paired = TRUE)
 #lme
-lmer(dat_Accuracy ~ con +(1 |dat_Subject) +(1|id), data = dt) %>% summary()
+glmer(dat_Accuracy ~ con +(1 |dat_Subject) +(1|id), family = "binomial",data = dt) %>% summary()
 
 #' ##  Target Accuracy & English Ability
 dt.sub=read_csv("English_ability.csv")
@@ -106,23 +97,15 @@ dt=read_csv("Area_data.csv")
 dt=subset(dt,con=="G"|con=="C")
 dt=subset(dt,dat_LoopNumber==2)
 dt.rt.cor=subset(dt.sub,select = c(age,female,starting,selfreport,ofscore,reading,writing,speaking,listening))
-#' ## Regression Out
-#' ### Probability of Regression Out
+
+dt$mean_RPD=dt$dat_RPD/dt$dat_AreaSum
+dt$mean_TRT=dt$dat_TRT/dt$dat_AreaSum
+dt$mean_GD=dt$dat_GD/dt$dat_AreaSum
+dt$mean_RRT=dt$dat_RRT/dt$dat_AreaSum
 dt.final=dt
 
-dt.se=dt.final%>%
-  summarySE(measurevar = "dat_PRO",groupvars = c("dat_AreaNumber","con","dat_Subject"))%>%
-  summarySE(measurevar = "dat_PRO",groupvars = c("dat_AreaNumber","con"))
-
-ggplot(dt.se,aes(x=dat_AreaNumber,y=dat_PRO,fill=con))+
-  geom_bar(position=position_dodge(),
-           stat="identity")+
-  geom_errorbar(aes(ymin=dat_PRO-se, ymax=dat_PRO+se),
-                width=.2, 
-                position=position_dodge(.9))+
-  #scale_x_continuous(breaks = c(1:4), labels = c("1","2/3","3/4","4/5"))+
-  ggtitle("Probability of Regression out (2.5SD)")
-
+#' ## Regression Out
+#' ### Probability of Regression Out
 dt.se=summarySE(dt.final,measurevar = "dat_PRO",groupvars = c("dat_AreaNumber","con","dat_Subject")) %>%
   dcast(dat_Subject~con+dat_AreaNumber,value.var = "dat_PRO")
 
@@ -158,22 +141,9 @@ p=data.frame(dt.rt.cor$ofscore,dt.se$G_4)
 p_sub=p %>% subset(dt.rt.cor.ofscore>0.776) 
 mean(p_sub$dt.se.G_4)
 sd(p_sub$dt.se.G_4)
+
 #' ## Regression In
 #' ### Probability of Regression In
-dt.final=dt
-dt.se=dt.final%>%
-  summarySE(measurevar = "dat_PRI",groupvars = c("dat_AreaNumber","con","dat_Subject"))%>%
-  summarySE(measurevar = "dat_PRI",groupvars = c("dat_AreaNumber","con"))
-
-ggplot(dt.se,aes(x=dat_AreaNumber,y=dat_PRI,fill=con))+
-  geom_bar(position=position_dodge(),
-           stat="identity")+
-  geom_errorbar(aes(ymin=dat_PRI-se, ymax=dat_PRI+se),
-                width=.2, 
-                position=position_dodge(.9))+
-  #scale_x_continuous(breaks = c(1:4), labels = c("1","2/3","3/4","4/5"))+
-  ggtitle("Probability of Regression in (2.5SD)")
-
 dt.pair=dt.final%>%
   summarySE(measurevar = "dat_PRI",groupvars = c("dat_AreaNumber","con","dat_Subject"))%>%
   subset((dat_AreaNumber==3 & con=="C")|(dat_AreaNumber==2 & con=="G") )%>%
@@ -205,8 +175,6 @@ p_sub=p %>% subset(dt.rt.cor.ofscore>0.776)
 mean(p_sub$dt.se.G_1)
 sd(p_sub$dt.se.G_1)
 
-
-
 pic.of.final=melt(pic.of, id.vars = "OPT", measure.vars = c("index1", "index2","index3"))
 pic.of.final$cor=NA
 for (i in 1:nrow(pic.of.final)){
@@ -237,33 +205,34 @@ ggplot(data=pic.of.final)+
 mean(pic.of.final$OPT)
 
 #' ## Regression Path Duration
-dt$mean_RPD=dt$dat_RPD/dt$dat_AreaSum
-dt.final=dt
-dt.se=dt.final%>%
+dt.se=dt.final%>% 
+  mutate(dat_AreaNumber=ifelse((con=="G"&dat_AreaNumber!=1),dat_AreaNumber+1,dat_AreaNumber))%>%
   summarySE(measurevar = "mean_RPD",groupvars = c("dat_AreaNumber","con","dat_Subject"))%>%
   summarySE(measurevar = "mean_RPD",groupvars = c("dat_AreaNumber","con"))
 
-ggplot(dt.se,aes(x=dat_AreaNumber,y=mean_RPD,fill=con))+
-  geom_bar(position=position_dodge(),
-           stat="identity")+
-  geom_errorbar(aes(ymin=mean_RPD-se, ymax=mean_RPD+se),
-                width=.2, 
-                position=position_dodge(.9))+
-  #scale_x_continuous(breaks = c(1:4), labels = c("1","2/3","3/4","4/5"))+
-  ggtitle("Regression Path Duration (by word, 2.5SD)")+
-  scale_y_continuous(limits = c(0,5000))
-
-dt.se=dt.final%>%
-  summarySE(measurevar = "mean_RPD",groupvars = c("dat_AreaNumber","con","dat_Subject"))
 dt.se%>%
-  subset((dat_AreaNumber==5&con=="G")|(dat_AreaNumber==4&con=="C"))%>%
-  ggplot(aes(x=dat_Subject,y=mean_RPD,fill=con))+
-  geom_bar(position=position_dodge(),
+  subset(dat_AreaNumber!=2)%>%
+  mutate(dat_AreaNumber=factor(dat_AreaNumber,level=c(1,3,4,5),labels=c("R1","R3","R4","R5")),
+         con=factor(con,levels = c("C","G"),labels = c("Control","Garden-path")))%>%
+  # tidyr::complete(dat_AreaNumber, con)%>%
+  ggplot(aes(x=dat_AreaNumber,y=mean_RPD,fill=con))+
+  geom_bar(position=position_dodge2(preserve = "single"),
            stat="identity")+
   geom_errorbar(aes(ymin=mean_RPD-se, ymax=mean_RPD+se),
-                width=.2, 
+                width=.2,
                 position=position_dodge(.9))+
-  ggtitle("Regression Path Duration (by word, 2.5SD,Region 4/5)")
+  theme_bw()+
+  ylab("Regression Path Duration")+
+  xlab("Region")+
+  scale_y_continuous(limits = c(0,4100))+
+  scale_fill_manual("Condition",values=c("#E69F00","#999999"))+
+  theme(text = element_text(size=12),
+        panel.grid = element_blank(),
+        legend.position = "top",
+        legend.margin=margin(0,0,-5,0))
+
+ggsave(file="exp1_RPD.pdf",width =4,height = 3)
+
 
 dt.pair=dt.final%>%
   summarySE(measurevar = "mean_RPD",groupvars = c("dat_AreaNumber","con","dat_Subject"))%>%
@@ -296,22 +265,6 @@ dt.se$GC_4=dt.se$G_4-dt.se$C_5
 data.frame(dt.rt.cor,dt.se)%>% corMat()%>% kable()
 
 #' ## Total Reading Time
-dt$mean_TRT=dt$dat_TRT/dt$dat_AreaSum
-dt.final=dt
-dt.se=dt.final%>%
-  summarySE(measurevar = "mean_TRT",groupvars = c("dat_AreaNumber","con","dat_Subject"))%>%
-  summarySE(measurevar = "mean_TRT",groupvars = c("dat_AreaNumber","con"))
-
-ggplot(dt.se,aes(x=dat_AreaNumber,y=mean_TRT,fill=con))+
-  geom_bar(position=position_dodge(),
-           stat="identity")+
-  geom_errorbar(aes(ymin=mean_TRT-se, ymax=mean_TRT+se),
-                width=.2, 
-                position=position_dodge(.9))+
-  #scale_x_continuous(breaks = c(1:4), labels = c("1","2/3","3/4","4/5"))+
-  ggtitle("Total Reading Time (by word, 2.5SD)")+
-  scale_y_continuous(limits = c(0,3000))
-
 dt.pair=dt.final%>%
   summarySE(measurevar = "mean_TRT",groupvars = c("dat_AreaNumber","con","dat_Subject"))%>%
   subset((dat_AreaNumber==4&con=="G")|(dat_AreaNumber==5&con=="C"))%>%
@@ -339,22 +292,6 @@ dt.se$GC_4=dt.se$G_4-dt.se$C_5
 data.frame(dt.rt.cor,dt.se)%>% corMat()%>% kable()
 
 #' ## Rereading Time
-dt$mean_RRT=dt$dat_RRT/dt$dat_AreaSum
-dt.final=dt
-dt.se=dt.final%>%
-  summarySE(measurevar = "mean_RRT",groupvars = c("dat_AreaNumber","con","dat_Subject"))%>%
-  summarySE(measurevar = "mean_RRT",groupvars = c("dat_AreaNumber","con"))
-
-ggplot(dt.se,aes(x=dat_AreaNumber,y=mean_RRT,fill=con))+
-  geom_bar(position=position_dodge(),
-           stat="identity")+
-  geom_errorbar(aes(ymin=mean_RRT-se, ymax=mean_RRT+se),
-                width=.2, 
-                position=position_dodge(.9))+
-  #scale_x_continuous(breaks = c(1:4), labels = c("1","2/3","3/4","4/5"))+
-  ggtitle("Rereading Time (by word, 2.5SD)")+
-  scale_y_continuous(limits = c(0,3000))
-
 dt.pair=dt.final%>%
   summarySE(measurevar = "mean_RRT",groupvars = c("dat_AreaNumber","con","dat_Subject"))%>%
   subset((dat_AreaNumber==4&con=="G")|(dat_AreaNumber==5&con=="C"))%>%
@@ -404,21 +341,33 @@ pic.of$OPT=dt.rt.cor$ofscore
 pic.of$index1=dt.se$GC_4
 
 #' ## Gaze Duration
-dt$mean_GD=dt$dat_GD/dt$dat_AreaSum
-dt.final=dt
-dt.se=dt.final%>%
+dt.se=dt.final%>% 
+  mutate(dat_AreaNumber=ifelse((con=="G"&dat_AreaNumber!=1),dat_AreaNumber+1,dat_AreaNumber))%>%
   summarySE(measurevar = "mean_GD",groupvars = c("dat_AreaNumber","con","dat_Subject"))%>%
   summarySE(measurevar = "mean_GD",groupvars = c("dat_AreaNumber","con"))
 
-ggplot(dt.se,aes(x=dat_AreaNumber,y=mean_GD,fill=con))+
-  geom_bar(position=position_dodge(),
+dt.se%>%
+  subset(dat_AreaNumber!=2)%>%
+  mutate(dat_AreaNumber=factor(dat_AreaNumber,level=c(1,3,4,5),labels=c("R1","R3","R4","R5")),
+         con=factor(con,levels = c("C","G"),labels = c("Control","Garden-path")))%>%
+  # tidyr::complete(dat_AreaNumber, con)%>%
+  ggplot(aes(x=dat_AreaNumber,y=mean_GD,fill=con))+
+  geom_bar(position=position_dodge2(preserve = "single"),
            stat="identity")+
   geom_errorbar(aes(ymin=mean_GD-se, ymax=mean_GD+se),
-                width=.2, 
+                width=.2,
                 position=position_dodge(.9))+
-  #scale_x_continuous(breaks = c(1:4), labels = c("1","2/3","3/4","4/5"))+
-  ggtitle("Gaze Duration (by word, 2.5SD)")+
-  scale_y_continuous(limits = c(0,3000))
+  theme_bw()+
+  ylab("First-pass Reading Time")+
+  xlab("Region")+
+  scale_y_continuous(limits = c(0,1300))+
+  scale_fill_manual("Condition",values=c("#E69F00","#999999"))+
+  theme(text = element_text(size=12),
+        panel.grid = element_blank(),
+        legend.position = "top",
+        legend.margin=margin(0,0,-5,0))
+
+ggsave(file="exp1_GD.pdf",width =4,height = 3)
 
 dt.pair=dt.final%>%
   summarySE(measurevar = "mean_GD",groupvars = c("dat_AreaNumber","con","dat_Subject"))%>%
@@ -456,4 +405,3 @@ dt.se=dt.final%>%
   subset((dat_AreaNumber==4&con=="G")|(dat_AreaNumber==5&con=="C"))
 dt.pair=dcast(dt.se,dat_Subject~con,value.var = "mean_GD")
 t.test(dt.pair$G,dt.pair$C,paired = TRUE)
-
