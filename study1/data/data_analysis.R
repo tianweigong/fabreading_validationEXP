@@ -198,11 +198,13 @@ ggplot(data=pic.of.final)+
   theme_bw()+
   theme(panel.grid.major = element_blank(),
         panel.grid.minor = element_blank())+
-  geom_text(data=pic.of.final, aes(fontface=3,label=cor, size=1),colour="black", x=0.54, y=Inf, vjust=1.5, show_guide=FALSE)+
+  geom_text(data=pic.of.final, aes(fontface=3,label=cor, size=1),colour="black", x=0.56, y=Inf, vjust=1.5, show_guide=FALSE)+
   ylab("Control minus Garden-path")+
   xlab("OPT Score")
 
 mean(pic.of.final$OPT)
+ggsave(filename = "opt.pdf",width=9, height=3)
+
 
 #' ## Regression Path Duration
 dt.se=dt.final%>% 
@@ -231,7 +233,7 @@ dt.se%>%
         legend.position = "top",
         legend.margin=margin(0,0,-5,0))
 
-ggsave(file="exp1_RPD.pdf",width =4,height = 3)
+# ggsave(file="exp1_RPD.pdf",width =4,height = 3)
 
 
 dt.pair=dt.final%>%
@@ -367,7 +369,7 @@ dt.se%>%
         legend.position = "top",
         legend.margin=margin(0,0,-5,0))
 
-ggsave(file="exp1_GD.pdf",width =4,height = 3)
+# ggsave(file="exp1_GD.pdf",width =4,height = 3)
 
 dt.pair=dt.final%>%
   summarySE(measurevar = "mean_GD",groupvars = c("dat_AreaNumber","con","dat_Subject"))%>%
@@ -405,3 +407,4 @@ dt.se=dt.final%>%
   subset((dat_AreaNumber==4&con=="G")|(dat_AreaNumber==5&con=="C"))
 dt.pair=dcast(dt.se,dat_Subject~con,value.var = "mean_GD")
 t.test(dt.pair$G,dt.pair$C,paired = TRUE)
+
